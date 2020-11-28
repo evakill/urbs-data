@@ -1,0 +1,289 @@
+address,zip,name,num_stores,quality
+725 N. Second Street,19123.0,2nd and Fairmount,83.0,3.0
+1100 N. Second Street,19123.0,2nd and Girard,124.0,1.0
+2000 Germantown Avenue,19122.0,6th and Germantown,16.0,3.0
+2701 N. Broad Street,19132.0,"Broad, Lehigh, & Glenwood",49.0,3.0
+2649 Germantown Avenue,19133.0,Germantown and Lehigh,141.0,2.0
+3962 W. Girard Avenue,19104.0,40th and Girard,16.0,4.0
+2130 Fairmount Ave,19130.0,Fairmount/19th-25th,69.0,1.0
+1941 Spring Garden Street,19130.0,Spring Garden/16th-23rd,46.0,4.0
+1201 Spring Garden Street,19123.0,Spring Garden/9th-13th ,51.0,4.0
+684 N. Broad Street,19130.0,Broad and Fairmount,54.0,4.0
+511 N. Broad Street,19130.0,Broad and Spring Garden,45.0,4.0
+1000 Ridge Avenue,19123.0,Callowhill East,50.0,4.0
+501 Spring Garden Street,19123.0,Spring Garden/2nd-9th,36.0,2.0
+2844 N. 5th Street,19133.0,5th and Lehigh,147.0,2.0
+217 W. Lehigh Avenue,19133.0,2nd and Lehigh,31.0,1.0
+1714 Cherry Street,19103.0,Parkway/Logan Circle,60.0,3.0
+741 S. 4th Street,19147.0,South 4th Street ,76.0,2.0
+901 Washington Ave,19147.0,9th Street - Italian Market,334.0,2.0
+3720 Main Street,19127.0,Wissahickon,38.0,3.0
+8301 Henry Avenue,19128.0,Andorra Shopping Center,43.0,1.0
+600 Washington Ave,19147.0,6th and Washington,57.0,2.0
+4201 Ridge Avenue,19129.0,East Falls,60.0,2.0
+1100 S. Front Street,19147.0,Central Waterfront/Washington,81.0,4.0
+14 E. Snyder Avenue,19148.0,Snyder Plaza and Columbus Commons,51.0,1.0
+5235 Harbison Ave,19124.0,Harbison and Torresdale ,21.0,3.0
+34 S. 11th Street,19107.0,Market East,941.0,3.0
+300 Oregon Avenue,19148.0,Whitman Plaza and vicinity,91.0,1.0
+7275 Rising Sun Ave,19111.0,Five Points,135.0,1.0
+935 N. Broad Street,19123.0,Broad and Girard,110.0,2.0
+1800 W. Girard Avenue,19130.0,Girard and Ridge,49.0,4.0
+5040 City Avenue,19131.0,City Avenue/50th-52nd,30.0,2.0
+4400 City Avenue,19131.0,City Ave and Belmont vicinity,68.0,1.0
+4160 Monument Road,19131.0,Pathmark Super Center,10.0,2.0
+3967 Ford Road,19131.0,Wynnefield Heights,18.0,2.0
+3600 Chestnut Street,19104.0,36th Street and vicinity,104.0,2.0
+4001 Walnut Street,19104.0,40th Street and vicinity,119.0,1.0
+4061 Lancaster Avenue,19104.0,40th and Lancaster,203.0,3.0
+2664 S. Percy Street,19148.0,Oregon Ave/5th-13th,62.0,2.0
+7980 Oxford Ave,19111.0,Fox Chase,64.0,2.0
+2201Cottman Ave,19152.0,Cottman and the Boulevard,209.0,1.0
+7201 Roosevelt Blvd,19149.0,Roosevelt/Cottman-Tyson,62.0,1.0
+1901 Callowhill Street,19130.0,Callowhill West,42.0,2.0
+132 N. 10th Street,19107.0,Chinatown,220.0,1.0
+1001 S. Broad Street,19147.0,Broad and Washington,94.0,3.0
+1743 South Street,19146.0,South Street/16th-21st,57.0,2.0
+2229 Grays Ferry Avenue,19146.0,South and Grays Ferry,53.0,1.0
+255 Market Street,19106.0,Old City,395.0,2.0
+6200 Woodland Avenue,19142.0,Woodland Avenue,228.0,2.0
+5500 Chester Avenue,19143.0,Chester Avenue,66.0,2.0
+2301 Walnut Street,19103.0,23rd and Walnut,19.0,2.0
+3000 Market Street,19104.0,30th Street,48.0,2.0
+1600 N. Broad Street,19121.0,Broad and Cecil B. Moore,102.0,2.0
+2201 Ridge Avenue,19121.0,Ridge and Cecil B. Moore,122.0,4.0
+201 S. Columbus Blvd,19106.0,Central Waterfront/Penns Landing,9.0,2.0
+2200 N. Broad Street,19132.0,Broad and Susquehanna,103.0,3.0
+2901 N. 22nd Street,19132.0,N 22nd Street/Hope Plaza,145.0,2.0
+3450 Fox Street,19129.0,Hunting Park West,28.0,1.0
+2000 S. Broad Street,19148.0,Broad and Snyder,162.0,3.0
+238 Moore Street,19148.0,Pennsport Mall/South Second,49.0,3.0
+3699 Aramingo Avenue,19134.0,Aramingo Avenue,150.0,1.0
+1501 E. Erie Avenue,19124.0,Erie Torresdale,73.0,3.0
+1701 Chestnut Street,19103.0,Market West,961.0,2.0
+327 South Street,19147.0,South Street/Front-8th,422.0,1.0
+1001 South Street,19147.0,South Street/8th-12th,63.0,1.0
+801 N. 48th Street,19139.0,48th and Brown,3.0,4.0
+608 N. Delaware Ave,19123.0,Central Waterfront/Spring Garden,38.0,2.0
+1575 N. 52nd Street,19131.0,Park West Town Center,20.0,1.0
+"5601 Vine Street
+
+e Stre5601 Vine Street
+et",19139.0,Progress Haddington Plaza,15.0,2.0
+1300 N. 52nd Street,19131.0,North 52nd Street,111.0,3.0
+6014 Lansdowne Avenue,19151.0,Lansdowne Avenue,82.0,3.0
+5648 Lancaster Avenue,19131.0,54006000 Lancaster Ave,42.0,2.0
+4825 Lancaster Avenue,19131.0,Lancaster and Girard,56.0,3.0
+"1923 North 63rd Street
+",19151.0,63rd and Lancaster,34.0,3.0
+1901 N. 54th Street,19131.0,54th and Berks,45.0,3.0
+5026 Wynnefield Avenue,19131.0,Bryn Mawr and Wynnefield,10.0,3.0
+2463 N. 54th Street,19066.0,54th and City Avenue,25.0,4.0
+2016 Penrose Avenue,19145.0,Penrose and Packer,11.0,4.0
+5000 S. Broad Street ,19112.0,Navy Yard,2.0,2.0
+8300 Bustleton Ave,19152.0,Bells Corner,29.0,2.0
+8100 Roosevelt Blvd,19152.0,Pennypack Circle,45.0,1.0
+1901 W. Oregon Avenue,19145.0,West Oregon,31.0,2.0
+2300 W. Oregon Avenue,19145.0,Quartermaster Plaza and vicinity,81.0,1.0
+4800 Woodland Avenue,19143.0,49th and Woodland,43.0,3.0
+5716 Baltimore Avenue,19143.0,58th and Baltimore,20.0,2.0
+5500 Baltimore Avenue,19143.0,55th and Baltimore,30.0,4.0
+5000 Baltimore Avenue,19143.0,50th and Baltimore,81.0,2.0
+4600 Baltimore Avenue,19143.0,46th and Baltimore,58.0,2.0
+7700 City Avenue,19151.0,City Avenue Shopping Center,31.0,1.0
+7538 Haverford Avenue,19151.0,City and Haverford,76.0,1.0
+1000 Snyder Avenue,19148.0,10th and Snyder,22.0,2.0
+1801 S. Columbus Boulevard,19148.0,Pier 70 Plaza and vicinity,12.0,1.0
+5675 Rising Sun Ave,19120.0,Rising Sun and Adams vicinity,46.0,3.0
+4600 E Roosevelt Blv,19124.0,Adams and the Boulevard,85.0,1.0
+4501 Castor Ave,19124.0,Castor and Wyoming,11.0,2.0
+4261 Frankford Ave,19124.0,Frankford Avenue/Church,47.0,3.0
+3501 Kensington Avenue,19134.0,Kensington Ave/Harrowgate,19.0,4.0
+3528 I Street,19132.0,Harrowgate Plaza,11.0,4.0
+4396 Richmond Street,19137.0,Bridesburg,32.0,2.0
+2200 S. 7th Street,19148.0,South Seventh Street,138.0,3.0
+1400 S. 10th Street,19147.0,Reed and Passyunk,14.0,2.0
+1722 E. Passyunk Avenue,19148.0,East Passyunk,164.0,2.0
+1701 S. Broad Street,19148.0,Broad and Morris,51.0,2.0
+2010 W. Passyunk Avenue,19145.0,20th and Passyunk,28.0,3.0
+2101 S. 20th Street,19145.0,Snyder Avenue/17th-23rd,71.0,2.0
+2500 Snyder Avenue,19145.0,Wilson Park,8.0,4.0
+1300 Point Breeze Avenue,19146.0,Point Breeze Avenue,107.0,2.0
+2001 Washington Avenue,19146.0,Washington Avenue West,61.0,3.0
+3001 Grays Ferry Avenue,19146.0,30th and Grays Ferry,13.0,1.0
+,19146.0,reserved  - Christian St. vicinity,30.0,
+7298 Woodland Avenue,19142.0,Woodland and Island Avenues,10.0,2.0
+6924 Elmwood Avenue,19142.0,Elmwood Avenue,92.0,2.0
+6098 Passyunk,19153.0,61st and Passyunk,6.0,3.0
+2900 Island Avenue,19153.0,Penrose Plaza and vicinity,42.0,3.0
+5400 Woodland Avenue,19143.0,54th and Woodland,57.0,2.0
+1601 S. 58th Street,19143.0,58th and Florence,13.0,4.0
+5131 Chester Avenue,19143.0,52nd and Chester,10.0,4.0
+4600 Chestnut Street,19139.0,46th Street and vicinity,83.0,2.0
+4800 Spruce Street,19143.0,48th and Spruce,39.0,2.0
+318 S. 5th Street,19106.0,5th and Delancey,5.0,2.0
+1100 Pine Street,19147.0,Pine Street,46.0,3.0
+2684 S. Broad Street,19148.0,Broad and Oregon,111.0,2.0
+1526 Packer Avenue,19145.0,Packer Park ,25.0,2.0
+1300 Pattison Avenue,19148.0,Sports Complex,12.0,1.0
+3427 Conrad Street,19129.0,Conrad and Sunnyside,17.0,2.0
+3502 Scotts Lane,19129.0,Scotts Lane,12.0,3.0
+2401 Kensington Avenue,19133.0,Front and Kensington,181.0,3.0
+1700 Frankford Avenue,19125.0,Palmer Park,17.0,3.0
+2043 Frankford Avenue,19125.0,Frankford and Susquehanna,49.0,3.0
+2132 Lehigh Avenue,19125.0,Trenton and Lehigh,3.0,4.0
+4700 Frankford Ave,19124.0,Frankford Avenue/Margaret-Orthodox,206.0,4.0
+5201 Frankford Ave,19124.0,Frankford Avenue/Bridge-Pratt,88.0,1.0
+4851 James St,19124.0,Wakeling and Aramingo,5.0,4.0
+6001 Torresdale,19135.0,Torresdale Avenue - Wissinoming,67.0,4.0
+6301 Keystone Street,19135.0,reserved - Keystone Street,,
+6401 Torresdale Avenue,19135.0,Torresdale and Levick,15.0,3.0
+6900 Torresdale Avenue,19135.0,Torresdale Avenue - Tacony,133.0,2.0
+3632 Powelton Avenue,19104.0,36th and Lancaster,51.0,2.0
+2700 W. Girard Avenue,19121.0,West Girard,105.0,2.0
+600 W. Girard Avenue,19123.0,Girard and Marshall,81.0,3.0
+2701 Cecil B. Moore Avenue,19121.0,27th and Cecil B. Moore,40.0,4.0
+2121 W. Diamond Street,19121.0,22nd and Diamond,11.0,4.0
+2913 Ridge Avenue,19121.0,Ridge and Diamond,43.0,4.0
+2301 N. 29th Street,19132.0,Strawberry Square,37.0,2.0
+2600 W. Lehigh Avenue,19132.0,West Lehigh,78.0,3.0
+2634 E. Allegheny Avenue,19134.0,Richmond and Allegheny,121.0,3.0
+2638 E. Cumberland Street,19125.0,Lower Aramingo Avenue,49.0,1.0
+1201 Frankford Avenue,19125.0,East Girard,178.0,2.0
+4319 Main Street,19127.0,Main Street - Manayunk,168.0,1.0
+6521 Castor Ave,19111.0,Castor and Magee,134.0,2.0
+6600 Frankford Avenue,19135.0,Frankford Avenue - Lower Mayfair,132.0,2.0
+6501 Harbison Ave,19149.0,Roosevelt Plaza and vicinity,37.0,1.0
+6301 Bustleton Ave,19149.0,Bustleton and the Boulevard,23.0,3.0
+6800 Bustleton Ave,19149.0,Bustleton and Harbison,55.0,2.0
+7000 Castor Ave,19111.0,Castor and Tyson,41.0,2.0
+6033 Castor,19149.0,Castor and Benner,24.0,3.0
+900 Levick St,19111.0,Oxford and Levick,32.0,1.0
+6640 Oxford Ave,19111.0,Oxford and Unruh,1.0,1.0
+5423 Oxford Ave,19124.0,Oxford Circle,54.0,3.0
+5901 Rising Sun Ave,19120.0,Crescentville,62.0,2.0
+6400 Rising Sun Ave,19111.0,Lawndale,141.0,3.0
+8000 Verree Rd,19111.0,Rhawn and Verree,13.0,1.0
+7938 Dungan Rd,19152.0,Dungan Road,21.0,2.0
+8500 Bustleton Ave,19152.0,Bustleton and Tustin,25.0,3.0
+7936 Bustleton Ave,19152.0,Bustleton Avenue-Rhawnhurst,62.0,2.0
+8001 Castor Ave,19152.0,Castor and Rhawn,37.0,2.0
+7600 Castor Ave,19152.0,Castor and Glendale,77.0,3.0
+1729 Cottman Ave,19111.0,Cottman/Loretto-Pennway,30.0,2.0
+6053 Ridge Avenue,19128.0,Ridge Avenue - Roxborough,126.0,1.0
+5555 Ridge Avenue,19128.0,Ridge and Hermit,18.0,2.0
+6901 Ridge Avenue,19128.0,Ridge and Domino,73.0,1.0
+7800 Ridge Avenue,19122.0,Ridge and Shawmont,30.0,2.0
+8965 Ridge Avenue,19121.0,Ridge and Bells Mill,20.0,3.0
+2910 S. 70th Street,19153.0,70th and Lindbergh,8.0,1.0
+900 East Hunting Park Avenue,19124.0,Hunting Park Ave/Juniata Park,33.0,2.0
+2800 Willits Road,19136.0,Ashton and Willits Roads,16.0,3.0
+11000 Roosevelt Boulevard,19116.0,Boulevard Plaza,31.0,1.0
+9990 Roosevelt Boulevard,19115.0,Red Lion Plaza,32.0,2.0
+13001 Bustleton Avenue,19116.0,Bustleton and Byberry,59.0,2.0
+9853 Bustleton Avenue,19115.0,Presidential/Belair,45.0,1.0
+10833 Bustleton Avenue,19116.0,Bustleton / Somerton Center,54.0,2.0
+1681 Grant Avenue,19115.0,Grant Plaza,41.0,3.0
+6300 Chew Avenue,19138.0,Chew and Washington,9.0,2.0
+7700 Crittenden Street,19118.0,Market Square - Chestnut Hill,21.0,1.0
+6201 Germantown Avenue,19144.0,Germantown/Upsal-High,58.0,3.0
+6701 Germantown Avenue,19119.0,Germantown/Gorgas-Upsal,70.0,2.0
+7133 Germantown Avenue,19119.0,Germantown/Roumfort-Gorgas,65.0,1.0
+6555 Greene Street,19119.0,Pelham Plaza,8.0,1.0
+1800 W. Cheltenham Avenue,19126.0,19th and Cheltenham,24.0,3.0
+5200 N. Front Street,19120.0,Duncannon and Mascher,3.0,3.0
+6201 N. Front Street,19120.0,Adams Run Shopping Center,18.0,4.0
+6061 Ogontz Avenue,19141.0,Godfrey and Ogontz,37.0,3.0
+7175 Ogontz Avenue,19138.0,72nd and Ogontz,51.0,3.0
+7601 Ogontz Avenue,19150.0,Cheltenham & Ogontz,98.0,2.0
+6801 Ogontz Avenue,19126.0,68th and Ogontz,24.0,3.0
+5950 Ogontz Avenue,19141.0,Ogontoz and Champlost,26.0,3.0
+301 West Mt Pleasant,19119.0,Mount Pleasant/Cresheim-Emlen,21.0,3.0
+4661 N. 5th Street,19140.0,5th and the Boulevard,64.0,3.0
+6773 N. 5th Street,19126.0,5th and Cheltenham,29.0,1.0
+101 E. Olney Avenue,19120.0,One and Olney Square,53.0,2.0
+5701 N. Broad Street,19141.0,Broad and Olney,149.0,2.0
+6151 N. Broad Street,19141.0,Broad and Stenton/Godfrey,36.0,2.0
+2153 Chelten Avenue,19138.0,Chelten Ave/Ogontz-Wister,58.0,3.0
+9965 Bustleton Avenue,19116.0,Bustleton and Red Lion,42.0,1.0
+11709 Bustleton Avenue,19116.0,Leo Mall/Lumar Center & Vicinity,31.0,2.0
+1840 Grant Avenue,19115.0,Bustleton/Welsh/Grant and Vicinity,104.0,2.0
+12405 Academy Road,19154.0,Parkwood Center,28.0,2.0
+3320 Grant Avenue,19114.0,Grant-Academy Plaza & vicinity,35.0,1.0
+2481 Grant Avenue,19114.0,Grant and the Boulevard,63.0,2.0
+3218 Willits Road,19136.0,Holme Ave. and Willits Rd.,41.0,3.0
+2899 Holme Avenue,19152.0,Holme Circle,36.0,2.0
+11000 Rennard Avenue,19116.0,Philmont Shopping Center,16.0,4.0
+9353 Krewstown Road,19115.0,Krewstown Center,45.0,2.0
+151 Byberry Road,19116.0,Philmont and Byberry,17.0,3.0
+3221 Red Lion Road,19114.0,Academy Plaza,42.0,2.0
+10000 Verree Road,19116.0,Red Lion & Verree,33.0,2.0
+2040 Red Lion Road,19116.0,American Heritage Center,2.0,2.0
+9101 E Roosevelt Boulvard,19114.0,Welsh and the Boulevard,116.0,2.0
+2801 Kensignton Avenue,19134.0,Kensington and Somerset,72.0,4.0
+8900 Frankford Ave,19136.0,Frankford and Megargee,56.0,2.0
+9200 Frankford Ave,19114.0,Frankford and Linden,24.0,2.0
+9440 State Road,19114.0,Del-Air Shopping Center,14.0,3.0
+9902 Frankford Ave,19114.0,Morrell Plaza and Park Center,42.0,1.0
+8500 Essington Avenue,19153.0,International Airport,180.0,1.0
+601 S. Broad Street,19146.0,Broad and South,160.0,2.0
+"6000 Haverford Avenue
+",19151.0,60th and Girard,40.0,4.0
+3137 N. Broad Street,19132.0,Broad and Allegheny,26.0,2.0
+300 W Allegheny Avenue,19133.0,5th and Allegheny,17.0,3.0
+338 E Allegheny,19134.0,C and Allegheny,17.0,3.0
+3300 Henry Avenue,19129.0,Falls Center/EPPI,,
+6601 Haverford Avenue,19151.0,65006800 Haverford Ave,35.0,1.0
+"2125 North 63rd Street
+",19082.0,Overbrook Station,12.0,2.0
+6701 Chew Avenue,19119.0,Chew and Phil Ellena,19.0,2.0
+5305 Chew Avenue,19138.0,The Shoppes at LaSalle,11.0,2.0
+5301 Rising Sun Avenue,19120.0,Rising Sun Avenue/Olney,26.0,2.0
+4701 Rising Sun Avenue,19120.0,Rising Sun and Wyoming,78.0,2.0
+8235 Stenton Avenue,19150.0,Stenton and Mt. Airy,30.0,2.0
+7201 Stenton Avenue,19138.0,Stenton and Washington Lane,68.0,2.0
+1431 Vernon Road,19150.0,Vernon Road,17.0,3.0
+1600 Wadsworth Avenue,19150.0,Wadsworth Avenue,79.0,1.0
+461 E. Wyoming Avenue,19120.0,D and Wyoming,44.0,2.0
+2001 W Hunting Park Ave,19140.0,20th and Hunting Park,35.0,3.0
+4322 N. Broad Street,19140.0,Broad and Hunting Park,50.0,2.0
+3141 Frankford Avenue,19134.0,Frankford and Allegheny ,49.0,3.0
+861 E. Allegheny Avenue,19134.0,Kensington and Allegheny,205.0,3.0
+7301 Frankford Avenue,19136.0,Frankford Ave - Mayfair,219.0,2.0
+8601 Torresdale Ave,19136.0,Torresdale Ave - Holmesburg,7.0,4.0
+8000 Frankford Avenue,19136.0,Frankford Ave - Holmesburg,82.0,2.0
+8445 Frankford Ave,19136.0,Holmesburg Shopping Center,19.0,2.0
+3739 N. 6th Street,19140.0,"5th, Erie, and Rising Sun",51.0,2.0
+4222 Germantown Avenue,19140.0,Germantown/Nicetown,53.0,4.0
+3701 Germantown Avenue,19140.0,"Broad, Germantown, and Erie",185.0,3.0
+3200 N. Front Street,19134.0,Front and Allegheny,114.0,2.0
+8400 Germantown Avenue,19118.0,Chestnut Hill,260.0,1.0
+68 West Chelten Avenie,19144.0,Central Germantown,307.0,3.0
+4943 Wayne Avenue,19144.0,Wayne/Manheim-Wyneva,42.0,3.0
+5100 Germantown Avenue,19144.0,Germantown/Coulter-Logan,97.0,2.0
+744 East Chelten Avenue,19144.0,Chew and Chelten,49.0,3.0
+4827 N. Broad Street,19141.0,Broad and Logan/Wyoming,160.0,2.0
+5060 N. 5th Street,19120.0,5th and Lindley,118.0,3.0
+"5601 N. 5th Street
+5601 N. 5th Street",19120.0,5th and Olney,215.0,2.0
+"6021  N. 5th Street
+6021  N. 5th Street",19120.0,5th & Spencer,38.0,2.0
+6601 N. Broad Street ,19126.0,Old York Road and Oak Lane,63.0,3.0
+4000 Woodhaven Road,19154.0,Knights Road Center and Vicinity,22.0,2.0
+1455 Franklin Mills Circle,19154.0,Philadelphia Mills,239.0,2.0
+14425 Bustleton Avenue,19116.0,Bustleton and Philmont,47.0,2.0
+311 South 56th Street,19139.0,56th and Spruce,12.0,4.0
+,,31st and Norris,,
+3423 Haverford,19104.0,35th and Haverford,12.0,4.0
+6251 Market Street,19139.0,63rd and Market,48.0,4.0
+"5201 Haverford
+",19139.0,52nd and Haverford,25.0,4.0
+531 South 52nd Street,19143.0,52nd and Cedar,50.0,3.0
+101 South 52nd Street,19139.0,52nd Street,282.0,2.0
+633 South 56th Street,19143.0,56th and Cedar,12.0,4.0
+5601 Chestnut Street,19139.0,56th and Market ,65.0,2.0
+101 South 60th Street,19139.0,60th and Market,188.0,3.0
+539 South 60th Street,19143.0,60th and Cedar,74.0,3.0
+500 North 63rd Street,19151.0,63rd and Girard,58.0,3.0
+550 Carpenter Lane,19119.0,Carpenter/McCallum-Sherman,15.0,2.0
+4518 Germantown Avenue,19144.0,Wayne Junction,12.0,3.0
