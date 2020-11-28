@@ -1,0 +1,92 @@
+address,zip,name,hospital_type
+4900 Frankford Avenue,19124,Aria Health- Frankford Campus,General medical
+10800 Knights Road,19114,Aria Health- Torresdale Campus,General medical
+4200 Monument Road,19131,Belmont Center for Comprehensive Treatment ,Behavioral health
+8835 Germantown Avenue,19118,Chestnut Hill Hospital,General medical
+34th Street and Civic Center Boulevard      ,19104,The Children's Hospital of Philadelphia,General medical
+5501 Old York Rd,19141,Einstein Medical Center - Philadelphia,General medical
+333 Cottman Avenue,19111,Fox Chase Cancer Center,General medical
+8th St. & Girard Avenue,19122,Girard Medical Center,Long term care
+3400 Spruce Street,19104,Hospital of the University of Pennsylvania,General medical
+7600 Central Avenue,19111,Jeanes Hospital,General medical
+6129 Palmetto St.,19111,Kindred Hospital Philadelphia ,Long term care
+1930 S. Broad Street,19145,Kindred Hospital South Philadelphia ,Long term care
+1513 Race Street,19102,Magee Rehabilitation Hospital ,Rehabilitation
+501 South 54th Street,19143,Mercy Philadelphia Hospital,General medical
+2301 South Broad St.,19148,Thomas Jefferson University Hospitals Methodist,General medical
+2601 Holme Avenue,19152,Nazareth Hospital,General medical
+800 Spruce Street,19107,Pennsylvania Hospital,General medical
+ 51 North 39th street,19104,Penn Presbyterian Medical Center,General medical
+5800 Ridge Avenue,19128,Roxborough Memorial Hospital,General medical
+3601 A Street,19134,St. Christopher's Hospital for Children,General medical
+16th and Girard Ave ,19130,St.Joseph's Hospital (dba North Phila Health System),General medical
+3401 N. Broad Street,19140,Temple University Hospital - Main Campus,General medical
+100 E Lehigh Ave,19125,Temple Episcopal,Behavioral health
+111 South 11th Street  ,19107,Thomas Jefferson University Hospital,General medical
+3900 Woodland Ave,19104,Philadelphia VA Medical Center,General medical
+8410 Roosevelt Boulevard,19152,Angela Jane Pavilion Rehabilitation Hospital,Rehabilitation
+561 Fairthorne Avenue,19128,Fairmount Behavioral Health Systems,Behavioral health
+4641 Roosevelt Boulevard,19124,Friends Hospital,Behavioral health
+1 Penn Boulevard,19144,Germantown Community Health Center,Behavioral health
+1800 Lombard Street,19146,Good Shepherd Penn Partners,Rehabilitation
+136 West Diamond Street,19122,Kensington Hospital,Behavioral health
+111 North 49th Street,19139,Kirkbride Center,Behavioral health
+1200 W Tabor Road,19141,Moss Rehabilitation Hospital,Rehabilitation
+1900 South Broad Street,19145,Saint Agnes Long Term Care Hospital,Long term care
+3551 North Broad Street,19140,Shriners Hospitals For Children ,General medical
+840 Walnut Street,19107,Wills Eye Hospital,General medical
+401 West Allegheny Ave,19133,Maria de los Santos Health Center,n/a
+"400 West Allegheny Ave, Unit B-5",19133,Maria de los Santos Women's Health Center,n/a
+"841 E. Hunting Park Avenue, 2nd Floor",19124,Parkview OB/Gyn & Podiatry Services,n/a
+801 W. Girard Ave,19122,Fairmount Primary Care Center at Girard Medical Center,n/a
+3156 Kensington Ave ,19134,K&A,n/a
+2490 North 5th Street ,19133,Esperanza Health Center  (Fifth Street),n/a
+4417 N. 6th Street,19140,Hunting Park,n/a
+6120B Woodland Avenue,19142,The Health Annex,n/a
+850 North 11th Street,19123,11th Street Family Health Services,n/a
+"4700 Wissahickon Ave, Building D",19144,Abbotsford Falls  Family Practice and Counseling,n/a
+"2800 Fox Street, In Shoprite",19129,Fast Family Care,n/a
+"3901 Market Street, (40th and Filbert on Filbert Street)",19104,Annex West Health Center,n/a
+5000 Woodland Avenue,19143,Woodland Avenue Health Center,n/a
+800 Washington Avenue ,19147,Southeast Health Center,n/a
+432 N. 6th Street,19123,Chinatown Medical Services & Chinatown Dental Services,n/a
+1401 South 4th Street,19147,4th Street Behavioral Healthcare,n/a
+1401 South 4th Street,19147,4th Street Medical Suite,n/a
+"4500-10 Frankford Avenue, 2nd Floor",19124,Frankford Avenue Behavioral Healthcare Location,n/a
+4500-10 Frankford Avenue,19124,Frankford Avenue Health Center & Frankford Avenue Dental Center,n/a
+5501 Woodland Avenue,19143,"Greater Philadelphia Health Action, Inc. Dental and Behavorial Healthcare",n/a
+640 Snyder Avenue,19148,Snyder Avenue Dental Center,n/a
+1999 W. Hunting Park Avenue,19140,Hunting Park Health & Hunting Park Dental Center ,n/a
+1401 S. 31st Street,19146,Carl Moore Health Center,n/a
+"3223 N. Broad Street, Suite 136, 1st Floor",19140,GPHA Medical Suite at Temple University Kornberg School of Dentistry,n/a
+"1700 S. Broad Street, Unit 201",19145,Health Center 2,n/a
+555 S. 43rd Street,19104,Health Center 3,n/a
+4400 Haverford Avenue,19104,Health Center 4,n/a
+1900 N. 20th Street,19121,Health Center 5,n/a
+321 W. Girard Avenue,19123,Health Center 6,n/a
+131 E. Chelten Avenue,19144,Health Center 9,n/a
+2230 Cottman Avenue,19149,Health Center 10,n/a
+2840 W. Dauphin Street,19132,Strawberry Mansion Health Center,n/a
+"1207 Chestnut Street, Floor 3",19107,John Bell Health Center and Dental Clinic,n/a
+"1233 Locust Street, 4th Floor",19107,Jonathan Lax Treatment Center,n/a
+412 W. Lehigh Avenue,19133,Congreso Health Center,n/a
+"1200 Callowhill Street, Suite 101",19123,PHMC Care Clinic,n/a
+125 S. 9th Street,19107,Mary Howard Health Center,n/a
+1900 N. 9th Street,19122,PHMC Health Connection,n/a
+5675 N. Front Street,19120,Rising Sun Health Center,n/a
+"3401 N. Broad Street, Suite D101",19140,PHMC Health Center at Temple,n/a
+2144 Cecil B. Moore Ave,19121,Stephen Klein Wellness Center,n/a
+"5201 Old York Rd, Suite 108",19141,Pathways to Housing,n/a
+"16th Street and JKF Boulevard, Suburban Station, Concourse level",19102,The Hub of Hope,n/a
+1600 N. 18th Street,19121,Meade Family Health Center,n/a
+2501 West Lehigh Avenue,19132,QCHC Family Health Center,n/a
+1300 West Louden Street,19141,Cooke Family Health Center,n/a
+5800 Walnut St,19139,Sayre Health Center,n/a
+5201 Haverford Ave,19139,Spectrum Community Health Center,n/a
+"1415 North Broad Street, Suite 224",19122,Broad Street Health Center,n/a
+"1325 S. 33rd Street, Floor 3",19146,Reed Street Health Center,n/a
+"1930 S. Broad St., 2nd Floor",19145,Health Center 1,n/a
+251 East Bringhurst Street,19144,Covenant House Health Services,n/a
+8125 Stenton Avenue,19150,Mt. Pleasant Medical Center,n/a
+1412 Fairmount Avenue,19130,Fairmount Primary Care Center,n/a
+120 S. 30th Street,19104,Fairmount Primary Care Center at Horizon House,n/a
