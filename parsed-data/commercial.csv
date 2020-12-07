@@ -1,279 +1,280 @@
-lat,lng,name,num_stores,quality
-39.952399,-75.16359,2nd and Fairmount,83.0,3.0
-39.952399,-75.16359,2nd and Girard,124.0,1.0
-39.988832,-75.146777,6th and Germantown,16.0,3.0
-39.989017,-75.155616,"Broad, Lehigh, & Glenwood",49.0,3.0
-40.009852,-75.151013,Germantown and Lehigh,141.0,2.0
-39.975082,-75.196289,40th and Girard,16.0,4.0
-39.967126,-75.173243,Fairmount/19th-25th,69.0,1.0
-39.963786,-75.170795,Spring Garden/16th-23rd,46.0,4.0
-39.961276,-75.148211,Spring Garden/9th-13th ,51.0,4.0
-39.960436,-75.161914,Broad and Fairmount,54.0,4.0
-39.961938,-75.161193,Broad and Spring Garden,45.0,4.0
-39.963982,-75.158994,Callowhill East,50.0,4.0
-39.961276,-75.148211,Spring Garden/2nd-9th,36.0,2.0
-39.956916,-75.147474,5th and Lehigh,147.0,2.0
-39.992028,-75.139707,2nd and Lehigh,31.0,1.0
-39.957031,-75.176617,Parkway/Logan Circle,60.0,3.0
-39.948104,-75.147747,South 4th Street ,76.0,2.0
-39.933337,-75.14349,9th Street - Italian Market,334.0,2.0
-40.015355,-75.21052,Wissahickon,38.0,3.0
-40.035705,-75.209144,Andorra Shopping Center,43.0,1.0
-39.933337,-75.14349,6th and Washington,57.0,2.0
-39.998823,-75.187598,East Falls,60.0,2.0
-39.911557,-75.150591,Central Waterfront/Washington,81.0,4.0
-39.924725,-75.172427,Snyder Plaza and Columbus Commons,51.0,1.0
-40.005791,-75.075572,Harbison and Torresdale ,21.0,3.0
-39.898996,-75.1745,Market East,941.0,3.0
-39.916414,-75.168187,Whitman Plaza and vicinity,91.0,1.0
-40.068714,-75.077112,Five Points,135.0,1.0
-39.96522,-75.160791,Broad and Girard,110.0,2.0
-39.972689,-75.168985,Girard and Ridge,49.0,4.0
-39.999094,-75.231007,City Avenue/50th-52nd,30.0,2.0
-39.999094,-75.231007,City Ave and Belmont vicinity,68.0,1.0
-39.992377,-75.22043,Pathmark Super Center,10.0,2.0
-39.997285,-75.204831,Wynnefield Heights,18.0,2.0
-39.954308,-75.19512,36th Street and vicinity,104.0,2.0
-39.95456,-75.202946,40th Street and vicinity,119.0,1.0
-39.960927,-75.198147,40th and Lancaster,203.0,3.0
-39.917147,-75.163208,Oregon Ave/5th-13th,62.0,2.0
-40.062919,-75.083501,Fox Chase,64.0,2.0
-39.952399,-75.16359,Cottman and the Boulevard,209.0,1.0
-40.034981,-75.069567,Roosevelt/Cottman-Tyson,62.0,1.0
-39.960382,-75.170686,Callowhill West,42.0,2.0
-39.954617,-75.156357,Chinatown,220.0,1.0
-39.941807,-75.165821,Broad and Washington,94.0,3.0
-39.944506,-75.171726,South Street/16th-21st,57.0,2.0
-39.940957,-75.186686,South and Grays Ferry,53.0,1.0
-39.949953,-75.14354,Old City,395.0,2.0
-39.917108,-75.246459,Woodland Avenue,228.0,2.0
-39.925853,-75.242605,Chester Avenue,66.0,2.0
-39.951257,-75.179409,23rd and Walnut,19.0,2.0
-39.954668,-75.183657,30th Street,48.0,2.0
-39.977745,-75.158309,Broad and Cecil B. Moore,102.0,2.0
-39.994886,-75.187244,Ridge and Cecil B. Moore,122.0,4.0
-39.945363,-75.141367,Central Waterfront/Penns Landing,9.0,2.0
-39.989017,-75.155616,Broad and Susquehanna,103.0,3.0
-39.960116,-75.17534,N 22nd Street/Hope Plaza,145.0,2.0
-40.005016,-75.169945,Hunting Park West,28.0,1.0
-39.918164,-75.171111,Broad and Snyder,162.0,3.0
-39.924942,-75.145333,Pennsport Mall/South Second,49.0,3.0
-39.978879,-75.118611,Aramingo Avenue,150.0,1.0
-40.00719,-75.135257,Erie Torresdale,73.0,3.0
-39.953085,-75.181627,Market West,961.0,2.0
-39.947453,-75.187634,South Street/Front-8th,422.0,1.0
-39.943113,-75.159376,South Street/8th-12th,63.0,1.0
-39.977344,-75.214834,48th and Brown,3.0,4.0
-39.965448,-75.133105,Central Waterfront/Spring Garden,38.0,2.0
-39.976305,-75.226748,Park West Town Center,20.0,1.0
-39.952399,-75.16359,Progress Haddington Plaza,15.0,2.0
-39.976305,-75.226748,North 52nd Street,111.0,3.0
-39.974667,-75.251513,Lansdowne Avenue,82.0,3.0
-39.97264,-75.217772,54006000 Lancaster Ave,42.0,2.0
-39.97264,-75.217772,Lancaster and Girard,56.0,3.0
-39.973778,-75.245248,63rd and Lancaster,34.0,3.0
-39.981556,-75.2301,54th and Berks,45.0,3.0
-39.988549,-75.218114,Bryn Mawr and Wynnefield,10.0,3.0
-39.981556,-75.2301,54th and City Avenue,25.0,4.0
-39.906168,-75.193221,Penrose and Packer,11.0,4.0
-39.899926,-75.174621,Navy Yard,2.0,2.0
-40.070178,-75.050279,Bells Corner,29.0,2.0
-40.057975,-75.045866,Pennypack Circle,45.0,1.0
-39.917509,-75.177212,West Oregon,31.0,2.0
-39.917509,-75.177212,Quartermaster Plaza and vicinity,81.0,1.0
-39.923781,-75.236909,49th and Woodland,43.0,3.0
-39.948393,-75.219229,58th and Baltimore,20.0,2.0
-39.948393,-75.219229,55th and Baltimore,30.0,4.0
-39.948393,-75.219229,50th and Baltimore,81.0,2.0
-39.948393,-75.219229,46th and Baltimore,58.0,2.0
-39.978327,-75.272475,City Avenue Shopping Center,31.0,1.0
-39.972229,-75.247882,City and Haverford,76.0,1.0
-39.924883,-75.173854,10th and Snyder,22.0,2.0
-39.922285,-75.142435,Pier 70 Plaza and vicinity,12.0,1.0
-40.035478,-75.114049,Rising Sun and Adams vicinity,46.0,3.0
-40.031713,-75.099556,Adams and the Boulevard,85.0,1.0
-40.010247,-75.098097,Castor and Wyoming,11.0,2.0
-40.005234,-75.092712,Frankford Avenue/Church,47.0,3.0
-40.00669,-75.094851,Kensington Ave/Harrowgate,19.0,4.0
-40.006959,-75.109019,Harrowgate Plaza,11.0,4.0
-39.991361,-75.085127,Bridesburg,32.0,2.0
-39.907418,-75.161558,South Seventh Street,138.0,3.0
-39.940958,-75.159033,Reed and Passyunk,14.0,2.0
-39.925378,-75.170103,East Passyunk,164.0,2.0
-39.918164,-75.171111,Broad and Morris,51.0,2.0
-39.922137,-75.188053,20th and Passyunk,28.0,3.0
-39.909246,-75.182899,Snyder Avenue/17th-23rd,71.0,2.0
-39.923697,-75.164433,Wilson Park,8.0,4.0
-39.926965,-75.189858,Point Breeze Avenue,107.0,2.0
-39.938853,-75.174749,Washington Avenue West,61.0,3.0
-39.940957,-75.186686,30th and Grays Ferry,13.0,1.0
-39.940106,-75.178248,reserved  - Christian St. vicinity,30.0,
-39.917108,-75.246459,Woodland and Island Avenues,10.0,2.0
-39.927107,-75.223371,Elmwood Avenue,92.0,2.0
-39.918182,-75.209261,61st and Passyunk,6.0,3.0
-39.901374,-75.239332,Penrose Plaza and vicinity,42.0,3.0
-39.923781,-75.236909,54th and Woodland,57.0,2.0
-39.928822,-75.220322,58th and Florence,13.0,4.0
-39.925853,-75.242605,52nd and Chester,10.0,4.0
-39.953085,-75.181627,46th Street and vicinity,83.0,2.0
-39.953429,-75.218367,48th and Spruce,39.0,2.0
-39.94962,-75.149082,5th and Delancey,5.0,2.0
-39.955979,-75.246059,Pine Street,46.0,3.0
-39.918164,-75.171111,Broad and Oregon,111.0,2.0
-39.910852,-75.166306,Packer Park ,25.0,2.0
-39.904482,-75.166417,Sports Complex,12.0,1.0
-40.012001,-75.189307,Conrad and Sunnyside,17.0,2.0
-40.01095,-75.186092,Scotts Lane,12.0,3.0
-40.00669,-75.094851,Front and Kensington,181.0,3.0
-39.967019,-75.134419,Palmer Park,17.0,3.0
-39.967019,-75.134419,Frankford and Susquehanna,49.0,3.0
-39.988822,-75.124375,Trenton and Lehigh,3.0,4.0
-40.005234,-75.092712,Frankford Avenue/Margaret-Orthodox,206.0,4.0
-40.005234,-75.092712,Frankford Avenue/Bridge-Pratt,88.0,1.0
-40.009093,-75.070507,Wakeling and Aramingo,5.0,4.0
-40.005996,-75.092163,Torresdale Avenue - Wissinoming,67.0,4.0
-40.018026,-75.051185,reserved - Keystone Street,,
-40.005996,-75.092163,Torresdale and Levick,15.0,3.0
-40.005996,-75.092163,Torresdale Avenue - Tacony,133.0,2.0
-39.960292,-75.190168,36th and Lancaster,51.0,2.0
-39.975468,-75.189905,West Girard,105.0,2.0
-39.970714,-75.154167,Girard and Marshall,81.0,3.0
-39.982122,-75.184544,27th and Cecil B. Moore,40.0,4.0
-39.985964,-75.166098,22nd and Diamond,11.0,4.0
-39.994886,-75.187244,Ridge and Diamond,43.0,4.0
-39.984596,-75.181287,Strawberry Square,37.0,2.0
-39.99462,-75.15981,West Lehigh,78.0,3.0
-39.996508,-75.113526,Richmond and Allegheny,121.0,3.0
-39.981642,-75.124417,Lower Aramingo Avenue,49.0,1.0
-39.969043,-75.134306,East Girard,178.0,2.0
-40.016461,-75.211865,Main Street - Manayunk,168.0,1.0
-40.066612,-75.05147,Castor and Magee,134.0,2.0
-40.02948,-75.056057,Frankford Avenue - Lower Mayfair,132.0,2.0
-40.040233,-75.065414,Roosevelt Plaza and vicinity,37.0,1.0
-40.067023,-75.051237,Bustleton and the Boulevard,23.0,3.0
-40.067023,-75.051237,Bustleton and Harbison,55.0,2.0
-40.066612,-75.05147,Castor and Tyson,41.0,2.0
-40.018256,-75.096915,Castor and Benner,24.0,3.0
-40.035473,-75.07028,Oxford and Levick,32.0,1.0
-40.062919,-75.083501,Oxford and Unruh,1.0,1.0
-40.047042,-75.087636,Oxford Circle,54.0,3.0
-40.035478,-75.114049,Crescentville,62.0,2.0
-40.068714,-75.077112,Lawndale,141.0,3.0
-40.080164,-75.068463,Rhawn and Verree,13.0,1.0
-40.06774,-75.069134,Dungan Road,21.0,2.0
-40.070178,-75.050279,Bustleton and Tustin,25.0,3.0
-40.070178,-75.050279,Bustleton Avenue-Rhawnhurst,62.0,2.0
-40.066612,-75.05147,Castor and Rhawn,37.0,2.0
-40.066612,-75.05147,Castor and Glendale,77.0,3.0
-40.050303,-75.064519,Cottman/Loretto-Pennway,30.0,2.0
-40.063262,-75.238638,Ridge Avenue - Roxborough,126.0,1.0
-40.063262,-75.238638,Ridge and Hermit,18.0,2.0
-40.043998,-75.227439,Ridge and Domino,73.0,1.0
-39.986345,-75.180258,Ridge and Shawmont,30.0,2.0
-39.994886,-75.187244,Ridge and Bells Mill,20.0,3.0
-39.924519,-75.245665,70th and Lindbergh,8.0,1.0
-40.005893,-75.09323,Hunting Park Ave/Juniata Park,33.0,2.0
-40.056628,-75.013193,Ashton and Willits Roads,16.0,3.0
-40.101404,-75.006259,Boulevard Plaza,31.0,1.0
-40.079068,-75.03004,Red Lion Plaza,32.0,2.0
-40.111181,-75.024306,Bustleton and Byberry,59.0,2.0
-40.096007,-75.03055,Presidential/Belair,45.0,1.0
-40.111181,-75.024306,Bustleton / Somerton Center,54.0,2.0
-40.082336,-75.031213,Grant Plaza,41.0,3.0
-40.049199,-75.170884,Chew and Washington,9.0,2.0
-40.076812,-75.198641,Market Square - Chestnut Hill,21.0,1.0
-40.01992,-75.156349,Germantown/Upsal-High,58.0,3.0
-40.053246,-75.186114,Germantown/Gorgas-Upsal,70.0,2.0
-40.059327,-75.190119,Germantown/Roumfort-Gorgas,65.0,1.0
-40.03743,-75.181796,Pelham Plaza,8.0,1.0
-40.071732,-75.154076,19th and Cheltenham,24.0,3.0
-40.004328,-75.128022,Duncannon and Mascher,3.0,3.0
-40.004328,-75.128022,Adams Run Shopping Center,18.0,4.0
-40.053483,-75.149869,Godfrey and Ogontz,37.0,3.0
-40.059825,-75.150119,72nd and Ogontz,51.0,3.0
-40.073634,-75.158235,Cheltenham & Ogontz,98.0,2.0
-40.0542,-75.149768,68th and Ogontz,24.0,3.0
-40.053483,-75.149869,Ogontoz and Champlost,26.0,3.0
-39.952399,-75.16359,Mount Pleasant/Cresheim-Emlen,21.0,3.0
-39.961106,-75.146599,5th and the Boulevard,64.0,3.0
-39.961106,-75.146599,5th and Cheltenham,29.0,1.0
-40.035138,-75.120319,One and Olney Square,53.0,2.0
-40.034099,-75.145772,Broad and Olney,149.0,2.0
-40.034099,-75.145772,Broad and Stenton/Godfrey,36.0,2.0
-40.048776,-75.133255,Chelten Ave/Ogontz-Wister,58.0,3.0
-40.111181,-75.024306,Bustleton and Red Lion,42.0,1.0
-40.111181,-75.024306,Leo Mall/Lumar Center & Vicinity,31.0,2.0
-40.082336,-75.031213,Bustleton/Welsh/Grant and Vicinity,104.0,2.0
-40.089737,-74.984427,Parkwood Center,28.0,2.0
-40.066758,-75.002815,Grant-Academy Plaza & vicinity,35.0,1.0
-40.066758,-75.002815,Grant and the Boulevard,63.0,2.0
-40.056628,-75.013193,Holme Ave. and Willits Rd.,41.0,3.0
-40.058951,-75.044116,Holme Circle,36.0,2.0
-40.114115,-75.017457,Philmont Shopping Center,16.0,4.0
-40.07475,-75.056128,Krewstown Center,45.0,2.0
-40.113524,-75.004819,Philmont and Byberry,17.0,3.0
-40.08328,-75.001166,Academy Plaza,42.0,2.0
-40.106458,-75.030194,Red Lion & Verree,33.0,2.0
-40.102795,-75.029292,American Heritage Center,2.0,2.0
-39.952399,-75.16359,Welsh and the Boulevard,116.0,2.0
-39.952399,-75.16359,Kensington and Somerset,72.0,4.0
-40.043679,-75.021802,Frankford and Megargee,56.0,2.0
-40.047485,-75.014025,Frankford and Linden,24.0,2.0
-40.033331,-75.01806,Del-Air Shopping Center,14.0,3.0
-40.047485,-75.014025,Morrell Plaza and Park Center,42.0,1.0
-39.898044,-75.226357,International Airport,180.0,1.0
-39.937134,-75.16698,Broad and South,160.0,2.0
-39.972229,-75.247882,60th and Girard,40.0,4.0
-39.989017,-75.155616,Broad and Allegheny,26.0,2.0
-40.00199,-75.14411,5th and Allegheny,17.0,3.0
-39.993288,-75.110552,C and Allegheny,17.0,3.0
-40.009611,-75.180335,Falls Center/EPPI,,
-39.972229,-75.247882,65006800 Haverford Ave,35.0,1.0
-39.973778,-75.245248,Overbrook Station,12.0,2.0
-40.056901,-75.183422,Chew and Phil Ellena,19.0,2.0
-40.049199,-75.170884,The Shoppes at LaSalle,11.0,2.0
-40.035478,-75.114049,Rising Sun Avenue/Olney,26.0,2.0
-40.035478,-75.114049,Rising Sun and Wyoming,78.0,2.0
-40.068839,-75.180902,Stenton and Mt. Airy,30.0,2.0
-40.053545,-75.154382,Stenton and Washington Lane,68.0,2.0
-40.070424,-75.17004,Vernon Road,17.0,3.0
-40.067437,-75.185948,Wadsworth Avenue,79.0,1.0
-40.018724,-75.101724,D and Wyoming,44.0,2.0
-40.015326,-75.155127,20th and Hunting Park,35.0,3.0
-40.014795,-75.150006,Broad and Hunting Park,50.0,2.0
-40.004509,-75.093493,Frankford and Allegheny ,49.0,3.0
-39.996508,-75.113526,Kensington and Allegheny,205.0,3.0
-40.043679,-75.021802,Frankford Ave - Mayfair,219.0,2.0
-40.048804,-75.002346,Torresdale Ave - Holmesburg,7.0,4.0
-40.043679,-75.021802,Frankford Ave - Holmesburg,82.0,2.0
-40.04454,-75.017516,Holmesburg Shopping Center,19.0,2.0
-40.004567,-75.139499,"5th, Erie, and Rising Sun",51.0,2.0
-40.016023,-75.153911,Germantown/Nicetown,53.0,4.0
-40.016023,-75.153911,"Broad, Germantown, and Erie",185.0,3.0
-39.998539,-75.12926,Front and Allegheny,114.0,2.0
-40.053246,-75.186114,Chestnut Hill,260.0,1.0
-39.952399,-75.16359,Central Germantown,307.0,3.0
-40.02621,-75.169189,Wayne/Manheim-Wyneva,42.0,3.0
-40.01992,-75.156349,Germantown/Coulter-Logan,97.0,2.0
-40.051776,-75.153809,Chew and Chelten,49.0,3.0
-40.034099,-75.145772,Broad and Logan/Wyoming,160.0,2.0
-40.020372,-75.134016,5th and Lindley,118.0,3.0
-39.952399,-75.16359,5th and Olney,215.0,2.0
-39.952399,-75.16359,5th & Spencer,38.0,2.0
-40.057344,-75.14068,Old York Road and Oak Lane,63.0,3.0
-40.096563,-74.983176,Knights Road Center and Vicinity,22.0,2.0
-40.087121,-74.961382,Philadelphia Mills,239.0,2.0
-40.111181,-75.024306,Bustleton and Philmont,47.0,2.0
-39.93191,-75.218719,56th and Spruce,12.0,4.0
-39.963576,-75.195945,31st and Norris,,
-39.95907,-75.217091,35th and Haverford,12.0,4.0
-39.972229,-75.247882,63rd and Market,48.0,4.0
-39.950469,-75.226867,52nd and Haverford,25.0,4.0
-39.952074,-75.226525,52nd and Cedar,50.0,3.0
-39.93191,-75.218719,52nd Street,282.0,2.0
-39.960595,-75.233999,56th and Cedar,12.0,4.0
-39.956552,-75.241888,56th and Market ,65.0,2.0
-39.925094,-75.221746,60th and Market,188.0,3.0
-39.973778,-75.245248,60th and Cedar,74.0,3.0
-40.043417,-75.199071,63rd and Girard,58.0,3.0
-40.01992,-75.156349,Carpenter/McCallum-Sherman,15.0,2.0
+name,num_stores,quality,lat,lng
+2nd and Fairmount,83.0,3.0,39.962128,-75.140989
+2nd and Girard,124.0,1.0,39.968135,-75.139872
+6th and Germantown,16.0,3.0,39.981635,-75.14406
+"Broad, Lehigh, & Glenwood",49.0,3.0,39.994122999999995,-75.153829
+Germantown and Lehigh,141.0,2.0,39.992781,-75.147583
+40th and Girard,16.0,4.0,39.973864,-75.204084
+Fairmount/19th-25th,69.0,1.0,39.967074,-75.173302
+Spring Garden/16th-23rd,46.0,4.0,39.963912,-75.17078199999999
+Spring Garden/9th-13th ,51.0,4.0,39.961719,-75.157705
+Broad and Fairmount,54.0,4.0,39.966699,-75.16076600000001
+Broad and Spring Garden,45.0,4.0,39.961929999999995,-75.16119
+Callowhill East,50.0,4.0,39.95892,-75.155445
+Spring Garden/2nd-9th,36.0,2.0,39.961104999999996,-75.146557
+5th and Lehigh,147.0,2.0,39.994367,-75.13988499999999
+2nd and Lehigh,31.0,1.0,39.992262,-75.135568
+Parkway/Logan Circle,60.0,3.0,39.955918,-75.168309
+South 4th Street ,76.0,2.0,39.939155,-75.14956
+9th Street - Italian Market,334.0,2.0,39.936221999999994,-75.158424
+Wissahickon,38.0,3.0,40.015728,-75.21100200000001
+Andorra Shopping Center,43.0,1.0,40.060935,-75.23621800000001
+6th and Washington,57.0,2.0,39.934656,-75.154656
+East Falls,60.0,2.0,40.008879,-75.193608
+Central Waterfront/Washington,81.0,4.0,39.93249,-75.146176
+Snyder Plaza and Columbus Commons,51.0,1.0,39.92123,-75.146372
+Harbison and Torresdale ,21.0,3.0,40.012361,-75.068955
+Market East,941.0,3.0,39.950891999999996,-75.159048
+Whitman Plaza and vicinity,91.0,1.0,39.913961,-75.152937
+Five Points,135.0,1.0,40.061196,-75.083826
+Broad and Girard,110.0,2.0,39.971211,-75.15900500000001
+Girard and Ridge,49.0,4.0,39.972148,-75.166013
+City Avenue/50th-52nd,30.0,2.0,39.998675,-75.23103499999999
+City Ave and Belmont vicinity,68.0,1.0,40.00345,-75.22101500000001
+Pathmark Super Center,10.0,2.0,40.002316,-75.213832
+Wynnefield Heights,18.0,2.0,39.999840999999996,-75.20913399999999
+36th Street and vicinity,104.0,2.0,39.954376,-75.195549
+40th Street and vicinity,119.0,1.0,39.954556,-75.202924
+40th and Lancaster,203.0,3.0,39.964919,-75.204464
+Oregon Ave/5th-13th,62.0,2.0,39.916255,-75.163512
+Fox Chase,64.0,2.0,40.076975,-75.085484
+Cottman and the Boulevard,209.0,1.0,40.049428000000006,-75.060383
+Roosevelt/Cottman-Tyson,62.0,1.0,40.042493,-75.055841
+Callowhill West,42.0,2.0,39.960946,-75.170648
+Chinatown,220.0,1.0,39.954609000000005,-75.156358
+Broad and Washington,94.0,3.0,39.938355,-75.165492
+South Street/16th-21st,57.0,2.0,39.944477,-75.170825
+South and Grays Ferry,53.0,1.0,39.945052000000004,-75.179601
+Old City,395.0,2.0,39.950287,-75.145256
+Woodland Avenue,228.0,2.0,39.927882000000004,-75.230586
+Chester Avenue,66.0,2.0,39.938468,-75.224226
+23rd and Walnut,19.0,2.0,39.951499,-75.17868100000001
+30th Street,48.0,2.0,39.954473,-75.183926
+Broad and Cecil B. Moore,102.0,2.0,39.977999,-75.15843199999999
+Ridge and Cecil B. Moore,122.0,4.0,39.979926,-75.17126
+Central Waterfront/Penns Landing,9.0,2.0,40.190452,-75.126983
+Broad and Susquehanna,103.0,3.0,39.986576,-75.156596
+N 22nd Street/Hope Plaza,145.0,2.0,39.998792,-75.166652
+Hunting Park West,28.0,1.0,40.011907,-75.17567700000001
+Broad and Snyder,162.0,3.0,39.925084999999996,-75.17002099999999
+Pennsport Mall/South Second,49.0,3.0,39.925539,-75.151023
+Aramingo Avenue,150.0,1.0,39.994203000000006,-75.09465300000001
+Erie Torresdale,73.0,3.0,40.006204,-75.098686
+Market West,961.0,2.0,39.951743,-75.16891600000001
+South Street/Front-8th,422.0,1.0,39.941638,-75.148095
+South Street/8th-12th,63.0,1.0,39.94265,-75.158631
+48th and Brown,3.0,4.0,39.966996,-75.216138
+Central Waterfront/Spring Garden,38.0,2.0,39.960597,-75.137582
+Park West Town Center,20.0,1.0,39.978759000000004,-75.224046
+Progress Haddington Plaza,15.0,2.0,39.966537,-75.23275600000001
+North 52nd Street,111.0,3.0,39.973143,-75.226504
+Lansdowne Avenue,82.0,3.0,39.975596,-75.24086700000001
+54006000 Lancaster Ave,42.0,2.0,39.980181,-75.235414
+Lancaster and Girard,56.0,3.0,39.973267,-75.21824000000001
+63rd and Lancaster,34.0,3.0,39.984596999999994,-75.24690600000001
+54th and Berks,45.0,3.0,39.986081,-75.231595
+Bryn Mawr and Wynnefield,10.0,3.0,39.991234999999996,-75.226169
+54th and City Avenue,25.0,4.0,39.995774,-75.234066
+Penrose and Packer,11.0,4.0,39.912948,-75.182277
+Navy Yard,2.0,2.0,39.889371999999995,-75.176162
+Bells Corner,29.0,2.0,40.067352,-75.05148100000001
+Pennypack Circle,45.0,1.0,40.058113,-75.045859
+West Oregon,31.0,2.0,39.917755,-75.179285
+Quartermaster Plaza and vicinity,81.0,1.0,39.918671999999994,-75.18607800000001
+49th and Woodland,43.0,3.0,39.941741,-75.211608
+58th and Baltimore,20.0,2.0,39.945551,-75.238553
+55th and Baltimore,30.0,4.0,39.947054,-75.233897
+50th and Baltimore,81.0,2.0,39.947751000000004,-75.223382
+46th and Baltimore,58.0,2.0,39.948619,-75.215032
+City Avenue Shopping Center,31.0,1.0,39.977209,-75.274212
+City and Haverford,76.0,1.0,39.977759999999996,-75.26692800000001
+10th and Snyder,22.0,2.0,39.923328000000005,-75.16302900000001
+Pier 70 Plaza and vicinity,12.0,1.0,39.908533,-75.138562
+Rising Sun and Adams vicinity,46.0,3.0,40.038321,-75.107578
+Adams and the Boulevard,85.0,1.0,40.031573,-75.100652
+Castor and Wyoming,11.0,2.0,40.016684000000005,-75.096423
+Frankford Avenue/Church,47.0,3.0,40.010162,-75.088887
+Kensington Ave/Harrowgate,19.0,4.0,40.000206,-75.106211
+Harrowgate Plaza,11.0,4.0,40.002355,-75.111471
+Bridesburg,32.0,2.0,39.997478,-75.074045
+South Seventh Street,138.0,3.0,39.921509,-75.158464
+Reed and Passyunk,14.0,2.0,39.931789,-75.160886
+East Passyunk,164.0,2.0,39.928292,-75.165642
+Broad and Morris,51.0,2.0,39.929093,-75.16827099999999
+20th and Passyunk,28.0,3.0,39.923390000000005,-75.180097
+Snyder Avenue/17th-23rd,71.0,2.0,39.92542,-75.179068
+Wilson Park,8.0,4.0,39.926202,-75.188802
+Point Breeze Avenue,107.0,2.0,39.93547,-75.178862
+Washington Avenue West,61.0,3.0,39.939361,-75.176441
+30th and Grays Ferry,13.0,1.0,39.941261,-75.19424599999999
+reserved  - Christian St. vicinity,30.0,,40.001811,-75.11787
+Woodland and Island Avenues,10.0,2.0,39.917367999999996,-75.245736
+Elmwood Avenue,92.0,2.0,39.917349,-75.236358
+61st and Passyunk,6.0,3.0,40.001811,-75.11787
+Penrose Plaza and vicinity,42.0,3.0,39.903314,-75.240659
+54th and Woodland,57.0,2.0,39.935939000000005,-75.21892
+58th and Florence,13.0,4.0,39.938925,-75.231955
+52nd and Chester,10.0,4.0,39.941887,-75.220246
+46th Street and vicinity,83.0,2.0,39.956812,-75.213909
+48th and Spruce,39.0,2.0,39.953383,-75.218384
+5th and Delancey,5.0,2.0,39.944551000000004,-75.150318
+Pine Street,46.0,3.0,39.944721,-75.159953
+Broad and Oregon,111.0,2.0,39.91718,-75.171476
+Packer Park ,25.0,2.0,39.911568,-75.175003
+Sports Complex,12.0,1.0,39.904006,-75.169616
+Conrad and Sunnyside,17.0,2.0,40.011851,-75.188919
+Scotts Lane,12.0,3.0,40.007915000000004,-75.184656
+Front and Kensington,181.0,3.0,39.986199,-75.131687
+Palmer Park,17.0,3.0,39.974703999999996,-75.133398
+Frankford and Susquehanna,49.0,3.0,39.979371,-75.12941500000001
+Trenton and Lehigh,3.0,4.0,39.995332,-75.166389
+Frankford Avenue/Margaret-Orthodox,206.0,4.0,40.016929,-75.084163
+Frankford Avenue/Bridge-Pratt,88.0,1.0,40.02232,-75.07793199999999
+Wakeling and Aramingo,5.0,4.0,40.008619,-75.073224
+Torresdale Avenue - Wissinoming,67.0,4.0,40.017485,-75.059005
+reserved - Keystone Street,,,40.017746,-75.051006
+Torresdale and Levick,15.0,3.0,40.021390999999994,-75.051302
+Torresdale Avenue - Tacony,133.0,2.0,40.026201,-75.043262
+36th and Lancaster,51.0,2.0,39.959534000000005,-75.195062
+West Girard,105.0,2.0,39.973944,-75.18066
+Girard and Marshall,81.0,3.0,39.970126,-75.146877
+27th and Cecil B. Moore,40.0,4.0,39.9816,-75.179022
+22nd and Diamond,11.0,4.0,39.986457,-75.168769
+Ridge and Diamond,43.0,4.0,39.98742,-75.181198
+Strawberry Square,37.0,2.0,39.991516,-75.178481
+West Lehigh,78.0,3.0,39.996276,-75.17410100000001
+Richmond and Allegheny,121.0,3.0,39.984624,-75.10339300000001
+Lower Aramingo Avenue,49.0,1.0,39.976236,-75.120339
+East Girard,178.0,2.0,39.969117,-75.134217
+Main Street - Manayunk,168.0,1.0,40.025185,-75.22246
+Castor and Magee,134.0,2.0,40.040867999999996,-75.075911
+Frankford Avenue - Lower Mayfair,132.0,2.0,40.030954,-75.054979
+Roosevelt Plaza and vicinity,37.0,1.0,40.034787,-75.06338199999999
+Bustleton and the Boulevard,23.0,3.0,40.03407,-75.07057900000001
+Bustleton and Harbison,55.0,2.0,40.040815,-75.065639
+Castor and Tyson,41.0,2.0,40.047193,-75.070458
+Castor and Benner,24.0,3.0,40.001811,-75.11787
+Oxford and Levick,32.0,1.0,40.045363,-75.088312
+Oxford and Unruh,1.0,1.0,40.050154,-75.086968
+Oxford Circle,54.0,3.0,40.030772,-75.084576
+Crescentville,62.0,2.0,40.044009,-75.102259
+Lawndale,141.0,3.0,40.049856,-75.095678
+Rhawn and Verree,13.0,1.0,40.073315,-75.076059
+Dungan Road,21.0,2.0,40.068014,-75.068752
+Bustleton and Tustin,25.0,3.0,40.07142,-75.049661
+Bustleton Avenue-Rhawnhurst,62.0,2.0,40.058923,-75.052727
+Castor and Rhawn,37.0,2.0,40.061817,-75.055575
+Castor and Glendale,77.0,3.0,40.056137,-75.061897
+Cottman/Loretto-Pennway,30.0,2.0,40.05369,-75.069787
+Ridge Avenue - Roxborough,126.0,1.0,40.032956,-75.214173
+Ridge and Hermit,18.0,2.0,40.025048999999996,-75.208202
+Ridge and Domino,73.0,1.0,40.043978,-75.227488
+Ridge and Shawmont,30.0,2.0,40.053002,-75.236621
+Ridge and Bells Mill,20.0,3.0,40.070203,-75.24056800000001
+70th and Lindbergh,8.0,1.0,39.912794,-75.233398
+Hunting Park Ave/Juniata Park,33.0,2.0,40.011379999999996,-75.109666
+Ashton and Willits Roads,16.0,3.0,40.062699,-75.02206600000001
+Boulevard Plaza,31.0,1.0,40.100361,-75.008641
+Red Lion Plaza,32.0,2.0,40.094183,-75.016698
+Bustleton and Byberry,59.0,2.0,40.123651,-75.014975
+Presidential/Belair,45.0,1.0,40.0918,-75.031875
+Bustleton / Somerton Center,54.0,2.0,40.111045000000004,-75.02431700000001
+Grant Plaza,41.0,3.0,40.086616,-75.038539
+Chew and Washington,9.0,2.0,40.050816999999995,-75.17326
+Market Square - Chestnut Hill,21.0,1.0,40.072472999999995,-75.194429
+Germantown/Upsal-High,58.0,3.0,40.042776,-75.17989
+Germantown/Gorgas-Upsal,70.0,2.0,40.052256,-75.185148
+Germantown/Roumfort-Gorgas,65.0,1.0,40.0597,-75.189899
+Pelham Plaza,8.0,1.0,40.043054,-75.19034
+19th and Cheltenham,24.0,3.0,40.066841,-75.14518699999999
+Duncannon and Mascher,3.0,3.0,40.029309999999995,-75.122937
+Adams Run Shopping Center,18.0,4.0,40.045102,-75.118111
+Godfrey and Ogontz,37.0,3.0,40.047767,-75.150712
+72nd and Ogontz,51.0,3.0,40.064091999999995,-75.152578
+Cheltenham & Ogontz,98.0,2.0,40.070138,-75.156856
+68th and Ogontz,24.0,3.0,40.057709,-75.14886
+Ogontoz and Champlost,26.0,3.0,40.044877,-75.149939
+Mount Pleasant/Cresheim-Emlen,21.0,3.0,40.0544,-75.194295
+5th and the Boulevard,64.0,3.0,40.02221,-75.133486
+5th and Cheltenham,29.0,1.0,40.054489000000004,-75.126416
+One and Olney Square,53.0,2.0,40.035788000000004,-75.120405
+Broad and Olney,149.0,2.0,40.040376,-75.14376999999999
+Broad and Stenton/Godfrey,36.0,2.0,40.047128,-75.14246700000001
+Chelten Ave/Ogontz-Wister,58.0,3.0,40.052073,-75.157097
+Bustleton and Red Lion,42.0,1.0,40.099740999999995,-75.02999100000001
+Leo Mall/Lumar Center & Vicinity,31.0,2.0,40.119292,-75.015563
+Bustleton/Welsh/Grant and Vicinity,104.0,2.0,40.084365999999996,-75.036084
+Parkwood Center,28.0,2.0,40.096307,-74.975637
+Grant-Academy Plaza & vicinity,35.0,1.0,40.06879,-75.00702
+Grant and the Boulevard,63.0,2.0,40.078288,-75.024248
+Holme Ave. and Willits Rd.,41.0,3.0,40.056942,-75.014053
+Holme Circle,36.0,2.0,40.056983,-75.031811
+Philmont Shopping Center,16.0,4.0,40.121528999999995,-75.035124
+Krewstown Center,45.0,2.0,40.086048999999996,-75.046424
+Philmont and Byberry,17.0,3.0,40.129146,-75.02425799999999
+Academy Plaza,42.0,2.0,40.081317,-74.993409
+Red Lion & Verree,33.0,2.0,40.105519,-75.032884
+American Heritage Center,2.0,2.0,40.100134999999995,-75.022711
+Welsh and the Boulevard,116.0,2.0,40.07405,-75.03473699999999
+Kensington and Somerset,72.0,4.0,40.001811,-75.11787
+Frankford and Megargee,56.0,2.0,40.051096,-75.01008900000001
+Frankford and Linden,24.0,2.0,40.055661,-75.005032
+Del-Air Shopping Center,14.0,3.0,40.048974,-74.989861
+Morrell Plaza and Park Center,42.0,1.0,40.063491,-74.985626
+International Airport,180.0,1.0,39.880338,-75.231775
+Broad and South,160.0,2.0,39.943386,-75.16529200000001
+60th and Girard,40.0,4.0,39.969729,-75.239331
+Broad and Allegheny,26.0,2.0,40.000562,-75.153025
+5th and Allegheny,17.0,3.0,39.999565999999994,-75.13596899999999
+C and Allegheny,17.0,3.0,39.997347,-75.123673
+Falls Center/EPPI,,,40.01177,-75.184606
+65006800 Haverford Ave,35.0,1.0,39.972374,-75.251659
+Overbrook Station,12.0,2.0,39.989044,-75.249829
+Chew and Phil Ellena,19.0,2.0,40.055958000000004,-75.181348
+The Shoppes at LaSalle,11.0,2.0,40.042488,-75.15906700000001
+Rising Sun Avenue/Olney,26.0,2.0,40.030066999999995,-75.118444
+Rising Sun and Wyoming,78.0,2.0,40.021916999999995,-75.1253
+Stenton and Mt. Airy,30.0,2.0,40.06882,-75.180888
+Stenton and Washington Lane,68.0,2.0,40.059816999999995,-75.165429
+Vernon Road,17.0,3.0,40.073634000000006,-75.167299
+Wadsworth Avenue,79.0,1.0,40.080512,-75.171716
+D and Wyoming,44.0,2.0,40.020765000000004,-75.116371
+20th and Hunting Park,35.0,3.0,40.012795000000004,-75.161164
+Broad and Hunting Park,50.0,2.0,40.019338,-75.149534
+Frankford and Allegheny ,49.0,3.0,39.992157,-75.110845
+Kensington and Allegheny,205.0,3.0,39.996849,-75.11346999999999
+Frankford Ave - Mayfair,219.0,2.0,40.036695,-75.04026
+Torresdale Ave - Holmesburg,7.0,4.0,40.042699,-75.010542
+Frankford Ave - Holmesburg,82.0,2.0,40.041759000000006,-75.02835300000001
+Holmesburg Shopping Center,19.0,2.0,40.043821,-75.017937
+"5th, Erie, and Rising Sun",51.0,2.0,40.008764,-75.138488
+Germantown/Nicetown,53.0,4.0,40.018685999999995,-75.155792
+"Broad, Germantown, and Erie",185.0,3.0,40.009392,-75.150671
+Front and Allegheny,114.0,2.0,39.998853000000004,-75.129469
+Chestnut Hill,260.0,1.0,40.074983,-75.205877
+Central Germantown,307.0,3.0,40.03406,-75.176034
+Wayne/Manheim-Wyneva,42.0,3.0,40.025424,-75.16719499999999
+Germantown/Coulter-Logan,97.0,2.0,40.030143,-75.16573299999999
+Chew and Chelten,49.0,3.0,40.0447,-75.16553499999999
+Broad and Logan/Wyoming,160.0,2.0,40.026891,-75.14701
+5th and Lindley,118.0,3.0,40.02839,-75.132437
+5th and Olney,215.0,2.0,40.036287,-75.13051800000001
+5th & Spencer,38.0,2.0,40.042944,-75.12906
+Old York Road and Oak Lane,63.0,3.0,40.053901,-75.140866
+Knights Road Center and Vicinity,22.0,2.0,40.085186,-74.971336
+Philadelphia Mills,239.0,2.0,40.09024,-74.95909499999999
+Bustleton and Philmont,47.0,2.0,40.132577000000005,-75.01128100000001
+56th and Spruce,12.0,4.0,39.955192,-75.233825
+31st and Norris,,,40.001811,-75.11787
+35th and Haverford,12.0,4.0,40.001811,-75.11787
+63rd and Market,48.0,4.0,39.962782000000004,-75.246111
+52nd and Haverford,25.0,4.0,40.001811,-75.11787
+52nd and Cedar,50.0,3.0,39.950701,-75.226511
+52nd Street,282.0,2.0,39.958026000000004,-75.224926
+56th and Cedar,12.0,4.0,39.950351,-75.234827
+56th and Market ,65.0,2.0,39.960417,-75.233845
+60th and Market,188.0,3.0,39.96027,-75.240861
+60th and Cedar,74.0,3.0,39.952659000000004,-75.242457
+63rd and Girard,58.0,3.0,39.970502,-75.245401
+Carpenter/McCallum-Sherman,15.0,2.0,40.046378999999995,-75.1956
+Wayne Junction,12.0,3.0,40.023514,-75.159733
