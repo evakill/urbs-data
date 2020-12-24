@@ -1,0 +1,298 @@
+,name,lat,lng,category,mode,dist,time
+0,Chestnut Hill Farmers’ Market,40.067706,-75.19733599999998,farmers_markets,bicycle,0.62,4.75
+1,Mt. Airy,40.046377,-75.19591199999998,farmers_markets,bicycle,1.22,9.2
+2,Germantown/Roumfort-Gorgas,40.0597,-75.189899,commercial,pedestrian,0.18,5.32
+3,Mount Pleasant/Cresheim-Emlen,40.0544,-75.194295,commercial,pedestrian,0.53,14.57
+4,Chew and Washington,40.050817,-75.17326,commercial,bicycle,1.26,9.53
+5,Market Square - Chestnut Hill,40.072473,-75.194429,commercial,bicycle,1.03,8.88
+6,Germantown/Upsal-High,40.042776,-75.17989,commercial,bicycle,1.42,11.17
+7,Germantown/Gorgas-Upsal,40.052256,-75.185148,commercial,bicycle,0.68,5.58
+8,Germantown/Roumfort-Gorgas,40.0597,-75.189899,commercial,bicycle,0.18,1.98
+9,Pelham Plaza,40.043054,-75.19034,commercial,bicycle,1.41,10.18
+10,Mount Pleasant/Cresheim-Emlen,40.0544,-75.194295,commercial,bicycle,0.57,4.37
+11,Chew and Phil Ellena,40.055958,-75.181348,commercial,bicycle,0.69,5.5
+12,Stenton and Mt. Airy,40.06882,-75.180888,commercial,bicycle,0.86,7.1
+13,Stenton and Washington Lane,40.059817,-75.165429,commercial,bicycle,1.82,14.08
+14,Vernon Road,40.07363400000001,-75.167299,commercial,bicycle,1.89,14.23
+15,Wadsworth Avenue,40.080512,-75.171716,commercial,bicycle,1.82,14.23
+16,Chestnut Hill,40.074983,-75.205877,commercial,bicycle,1.36,11.95
+17,Chew and Chelten,40.0447,-75.16553499999998,commercial,bicycle,1.9,13.97
+18,Carpenter/McCallum-Sherman,40.046379,-75.1956,commercial,bicycle,1.21,8.98
+19,HENRY H. HOUSTON SCHOOL,40.0591252651313,-75.194819995356,schools,pedestrian,0.33,9.45
+20,ANNA B. DAY SCHOOL,40.058406820418895,-75.1683346406611,schools,bicycle,1.56,12.48
+21,FRANKLIN S. EDMONDS SCHOOL,40.072961257233096,-75.1709998691682,schools,bicycle,1.63,12.45
+22,ELEANOR C. EMLEN SCHOOL,40.05436289023661,-75.1779057294733,schools,bicycle,0.92,7.25
+23,HILL-FREEDMAN WORLD ACADEMY,40.071214298362,-75.1751743756385,schools,bicycle,1.31,10.08
+24,HENRY H. HOUSTON SCHOOL,40.0591252651313,-75.194819995356,schools,bicycle,0.36,3.6
+25,JENKS ACADEMY FOR ARTS AND SCIENCES,40.0747980046461,-75.20336828536409,schools,bicycle,1.21,10.3
+26,CHARLES W. HENRY SCHOOL,40.0462577099047,-75.1965877592889,schools,bicycle,1.27,9.87
+27,ANNA L. LINGELBACH SCHOOL,40.037084130489,-75.189613639261,schools,bicycle,1.89,14.18
+28,JOHN F. MCCLOSKEY SCHOOL,40.0814117201095,-75.1747000232622,schools,bicycle,1.88,14.87
+29,THEODORE ROOSEVELT SCHOOL,40.0482382288608,-75.17505705050701,schools,bicycle,1.31,10.13
+30,Mt. Pleasant Medical Center,40.067482,-75.179305,medical,bicycle,0.95,7.65
+31,Mount Airy Playground,40.057999,-75.187871,recreation,pedestrian,0.37,10.43
+32,Lovett Park,40.056119,-75.18740799999998,recreation,pedestrian,0.37,10.17
+33,Pastorius Park,40.070145,-75.204821,recreation,bicycle,1.14,8.77
+34,Water Tower Recreation Center,40.075363,-75.200536,recreation,bicycle,1.2,9.67
+35,Vernon Park,40.036533,-75.17555899999998,recreation,bicycle,1.87,13.75
+36,Charles M Finley Playground,40.064661,-75.170728,recreation,bicycle,1.49,11.57
+37,Cliveden Park,40.051748,-75.177187,recreation,bicycle,1.11,8.43
+38,Waterview Recreation Center,40.04515900000001,-75.167753,recreation,bicycle,1.83,13.58
+39,Pleasant Playground,40.056566,-75.182799,recreation,bicycle,0.6,4.7
+40,Mount Airy Playground,40.057999,-75.187871,recreation,bicycle,0.37,3.28
+41,Daniel E Rumph II Recreation Center,40.04779600000001,-75.18007,recreation,bicycle,1.2,9.58
+42,Dorothy Emanuel Recreation Center,40.080945,-75.175679,recreation,bicycle,1.84,14.77
+43,Lovett Park,40.056119,-75.18740799999998,recreation,bicycle,0.37,3.02
+44,Winston Park,40.072856,-75.198977,recreation,bicycle,1.01,8.17
+45,Woodward Pines,40.067455,-75.203177,recreation,bicycle,0.97,7.5
+46,Ned Wolf Park,40.048875,-75.196575,recreation,bicycle,1.0,8.03
+47,Charles J Buckley Park,40.073283,-75.202316,recreation,bicycle,1.11,9.32
+48,Wissahickon East,40.069342,-75.191301,recreation,bicycle,0.73,6.4
+49,Allens Lane Art Center,40.051671,-75.202177,recreation,bicycle,0.93,7.23
+50,Carpenters Woods,40.044137,-75.20006,recreation,bicycle,1.43,10.93
+51,Dodge Tract,40.058897,-75.211136,recreation,bicycle,1.64,11.77
+52,Weavers Way Co-op,40.0465657,-75.1960213,supermarket,bicycle,1.23,9.53
+53,The Fresh Market,40.0731849,-75.2032318,supermarket,bicycle,1.17,9.92
+54,Save A Lot,40.051316799999995,-75.17359920000001,supermarket,bicycle,1.25,9.47
+55,Family Dollar,40.043985600000006,-75.19074300000003,supermarket,bicycle,1.32,9.17
+56,Family Dollar,40.0804153,-75.17195759999998,supermarket,bicycle,1.81,14.13
+57,Pat's Caribbean Market,40.0800035,-75.17351339999998,supermarket,bicycle,1.72,14.37
+58,YMG Stenton Supermarket,40.0604406,-75.1673986,supermarket,bicycle,1.68,12.95
+59,Hans Family Discount Store,40.0379463,-75.17669149999998,supermarket,bicycle,1.75,12.95
+60,Family Dollar,40.0346189,-75.17542309999997,supermarket,bicycle,2.02,14.98
+61,Earth Bread + Brewery,40.0591514,-75.1904672,restaurant,pedestrian,0.12,3.65
+62,High Point Cafe,40.057516899999996,-75.19462370000002,restaurant,pedestrian,0.28,7.73
+63,Mi Puebla Restaurant & Bakery,40.05994739999999,-75.190747,restaurant,pedestrian,0.05,1.6
+64,Jansen,40.062681,-75.19319499999997,restaurant,pedestrian,0.19,5.18
+65,Wawa,40.060808,-75.19194999999998,restaurant,pedestrian,0.06,1.95
+66,Trattoria Moma,40.0593149,-75.19004709999999,restaurant,pedestrian,0.11,3.12
+67,Jyoti Indian Bistro,40.06044970000001,-75.1915257,restaurant,pedestrian,0.04,1.45
+68,Cresheim Valley Grain Exchange,40.0596009,-75.1907583,restaurant,pedestrian,0.07,2.38
+69,Evo Brick Oven Pizza,40.05461,-75.19397,restaurant,pedestrian,0.5,13.87
+70,Valley Green Inn,40.054232899999995,-75.21818789999998,restaurant,bicycle,2.22,15.0
+71,Earth Bread + Brewery,40.0591514,-75.1904672,restaurant,bicycle,0.12,1.92
+72,CinCin Restaurant,40.0691943,-75.1998158,restaurant,bicycle,0.82,6.78
+73,Iron Hill Brewery & Restaurant,40.0752174,-75.20531899999997,restaurant,bicycle,1.3,11.25
+74,Mr Hook Fish & Chicken,40.035719,-75.17425899999998,restaurant,bicycle,1.96,14.42
+75,McNally's Tavern,40.0771023,-75.20887259999998,restaurant,bicycle,1.55,13.48
+76,Cake,40.076303100000004,-75.20629240000002,restaurant,bicycle,1.41,12.48
+77,Tiffin Indian Cuisine Mt Airy,40.053028999999995,-75.195697,restaurant,bicycle,0.7,5.47
+78,"Weavers Way Co-op, Chestnut Hill",40.07547599999999,-75.2057698,restaurant,bicycle,1.33,11.6
+79,Toto's Pizzeria,40.0435829,-75.19069669999998,restaurant,bicycle,1.35,9.65
+80,Philly Platinum Grill,40.07261959999999,-75.19493469999998,restaurant,bicycle,1.04,9.02
+81,Top of the Hill Cafe,40.0768783,-75.20655740000002,restaurant,bicycle,1.5,13.08
+82,New China Court,40.07315510000001,-75.19467159999998,restaurant,bicycle,1.08,9.42
+83,Chestnut Grill & Sidewalk Cafe,40.07405000000001,-75.20307220000002,restaurant,bicycle,1.17,10.47
+84,Campbell's Place,40.075162,-75.20450600000002,restaurant,bicycle,1.3,11.23
+85,Mermaid Inn,40.0679852,-75.19678499999998,restaurant,bicycle,0.63,4.87
+86,Starbucks,40.076366,-75.206754,restaurant,bicycle,1.41,12.23
+87,High Point Cafe,40.057516899999996,-75.19462370000002,restaurant,bicycle,0.41,3.87
+88,Mi Puebla Restaurant & Bakery,40.05994739999999,-75.190747,restaurant,bicycle,0.05,0.55
+89,Thai Kuu Restaurant,40.0779389,-75.20850340000001,restaurant,bicycle,1.57,14.4
+90,Mica,40.076871600000004,-75.2075448,restaurant,bicycle,1.46,12.63
+91,Ranck's Lunchmeats,40.07419239999999,-75.2023719,restaurant,bicycle,1.22,11.95
+92,King's Garden,40.0739062,-75.20303489999998,restaurant,bicycle,1.16,10.35
+93,Herb Scott's Catering,40.0493015,-75.18382679999998,restaurant,bicycle,0.88,6.93
+94,Paris Bistro & Jazz Cafe,40.0742043,-75.20320319999998,restaurant,bicycle,1.19,10.1
+95,Wadsworth Pizzeria Inc,40.0798783,-75.1735391,restaurant,bicycle,1.69,13.25
+96,El Poquito,40.07361160000001,-75.202635,restaurant,bicycle,1.16,9.83
+97,China Garden Restaurant,40.06701339999999,-75.1780335,restaurant,bicycle,1.03,8.55
+98,Biryani Bowl Indian Cuisine,40.0734891,-75.19833129999998,restaurant,bicycle,1.08,9.53
+99,Mario's Pizza,40.07261079999999,-75.19434079999998,restaurant,bicycle,1.04,8.95
+100,Golden China,40.0450515,-75.164513,restaurant,bicycle,1.86,13.65
+101,Blunile Chefs Servsafe Training,40.046994299999994,-75.1949396,restaurant,bicycle,1.15,8.58
+102,Jansen,40.062681,-75.19319499999997,restaurant,bicycle,0.19,1.73
+103,Tyemeka's Soul Food Restaurant,40.0381549,-75.1769466,restaurant,bicycle,1.73,12.83
+104,Wawa,40.060808,-75.19194999999998,restaurant,bicycle,0.06,1.05
+105,Newman's Grill,40.03887260000001,-75.17760369999998,restaurant,bicycle,1.67,12.45
+106,X Mark's the Spot Bar and Grille,40.06010260000001,-75.16680459999998,restaurant,bicycle,1.72,13.23
+107,Trattoria Moma,40.0593149,-75.19004709999999,restaurant,bicycle,0.11,1.12
+108,Tavern On the Hill,40.077130200000006,-75.2089321,restaurant,bicycle,1.55,13.48
+109,Jyoti Indian Bistro,40.06044970000001,-75.1915257,restaurant,bicycle,0.04,0.88
+110,Rita's Italian Ice & Frozen Custard,40.067809999999994,-75.179316,restaurant,bicycle,0.97,7.95
+111,Cresheim Valley Grain Exchange,40.0596009,-75.1907583,restaurant,bicycle,0.07,0.78
+112,Macaroni's Outdoor Cafe,40.052077600000004,-75.18391249999998,restaurant,bicycle,0.81,6.43
+113,Little Caesars Pizza,40.0805,-75.17299,restaurant,bicycle,1.75,13.97
+114,Dunkin',40.081230299999994,-75.17124809999999,restaurant,bicycle,1.9,14.95
+115,Evo Brick Oven Pizza,40.05461,-75.19397,restaurant,bicycle,0.54,4.0
+116,Hokka Hokka Japanese Restaurant,40.069058,-75.199519,restaurant,bicycle,0.77,6.37
+117,PrimoHoagies,40.07821819999999,-75.2082422,restaurant,bicycle,1.59,13.77
+118,Cosimo's Pizza Cafe,40.076978000000004,-75.20859200000002,restaurant,bicycle,1.52,13.32
+119,Baker Street Bread Co. Cafe & Bakery,40.07117249999999,-75.20083309999998,restaurant,bicycle,0.94,7.78
+120,Yu Hsiang Garden,40.067145000000004,-75.19717,restaurant,bicycle,0.62,4.9
+121,Fiesta Pizza III,40.0752078,-75.20454570000003,restaurant,bicycle,1.3,11.25
+122,Hong Kong Restaurant,40.05321349999999,-75.1859116,restaurant,bicycle,0.59,4.63
+123,Christine Belton,40.0542766,-75.1868872,entertainment,pedestrian,0.5,13.62
+124,Lovett Memorial Library,40.05677539999999,-75.18769,entertainment,pedestrian,0.32,8.88
+125,Mount Airy Contemporary,40.05947159999999,-75.19167399999998,entertainment,pedestrian,0.1,3.1
+126,Lovett Park,40.0567982,-75.18768829999998,entertainment,pedestrian,0.32,8.85
+127,Allens Lane Art Center,40.0519751,-75.2031554,entertainment,bicycle,0.95,7.35
+128,October Gallery,40.04063199999999,-75.186408,entertainment,bicycle,1.63,11.9
+129,art by steven,40.0808318,-75.17372449999998,entertainment,bicycle,1.81,14.4
+130,Wendy Concannon Photography,40.071025399999996,-75.2006694,entertainment,bicycle,0.92,7.6
+131,"Gravers Lane Gallery in Historic Chestnut Hill, Philadelphia",40.07539969999999,-75.2051575,entertainment,bicycle,1.31,11.38
+132,Palladio Custom Framing,40.0777614,-75.20590109999998,entertainment,bicycle,1.52,12.83
+133,Judy McCabe Jarvis Art Gallery,40.076925700000004,-75.208486,entertainment,bicycle,1.53,13.32
+134,Carol Schwartz Gallery,40.080575,-75.20822690000001,entertainment,bicycle,1.75,14.65
+135,"Lucien Crump Gallery Art Education Resource Center, Inc.",40.045691,-75.18226190000001,entertainment,bicycle,1.14,8.8
+136,The Little Gallery,40.0769579,-75.2084661,entertainment,bicycle,1.52,13.32
+137,Gallery on the Avenue,40.076966,-75.2084618,entertainment,bicycle,1.52,13.3
+138,Beatrice Golden Arts,40.069996,-75.19769579999998,entertainment,bicycle,0.77,6.17
+139,Christine Belton,40.0542766,-75.1868872,entertainment,bicycle,0.5,3.93
+140,McCarty Fine Art and Antiques,40.069487,-75.197339,entertainment,bicycle,0.76,6.1
+141,WAX PORTRAIT GALLERY,40.041607299999995,-75.17820449999998,entertainment,bicycle,1.63,12.53
+142,Nichols Berg Gallery,40.07698320000001,-75.2077255,entertainment,bicycle,1.48,12.73
+143,Mt. Airy Art Garage,40.050981,-75.1851135,entertainment,bicycle,0.76,5.97
+144,McCarty Gallery,40.06934520000001,-75.1974323,entertainment,bicycle,0.73,5.72
+145,ellen r brooks art studio,40.0743904,-75.20186770000002,entertainment,bicycle,1.17,9.62
+146,Borrelli's Chestnut Hill Gallery & Frame Shoppe,40.0752354,-75.2048863,entertainment,bicycle,1.29,11.18
+147,Medical Library,40.07927460000001,-75.2116033,entertainment,bicycle,1.77,14.87
+148,Lovett Memorial Library,40.05677539999999,-75.18769,entertainment,bicycle,0.32,2.7
+149,Chestnut Hill Library,40.077795200000004,-75.20929819999998,entertainment,bicycle,1.61,14.52
+150,Wadsworth Branch,40.0789169,-75.17380940000002,entertainment,bicycle,1.63,12.87
+151,Little Free Library,40.04332,-75.181223,entertainment,bicycle,1.31,9.82
+152,Cliveden of the National Trust,40.0480831,-75.18130529999998,entertainment,bicycle,1.15,10.13
+153,Ebenezer Maxwell Mansion,40.0382074,-75.18362409999997,entertainment,bicycle,1.75,12.87
+154,Mount Airy Contemporary,40.05947159999999,-75.19167399999998,entertainment,bicycle,0.1,2.4
+155,Wyck Historic House And Garden,40.03993319999999,-75.17857729999999,entertainment,bicycle,1.6,12.7
+156,DHEx Enterprises LLC,40.0451506,-75.18170400000002,entertainment,bicycle,1.19,8.98
+157,Berkelbach's,40.074436299999995,-75.1785017,entertainment,bicycle,1.3,10.62
+158,Aces Museum,40.036981,-75.17546399999998,entertainment,bicycle,1.87,13.9
+159,Noe's studio,40.037777,-75.18288199999998,entertainment,bicycle,1.81,13.48
+160,Johnson House Historic Site,40.0433454,-75.1812599,entertainment,bicycle,1.32,9.83
+161,Black Writers Museum,40.035551,-75.17677599999998,entertainment,bicycle,1.97,14.95
+162,Philadelphia insectarium,40.043779,-75.173439,entertainment,bicycle,1.64,12.6
+163,Harris Benvenuti Inc,40.04074709999999,-75.177019,entertainment,bicycle,1.66,12.67
+164,Maguire Stadium,40.06397450000001,-75.20716290000001,entertainment,bicycle,1.33,10.72
+165,Germantown Supersite,40.07007410000001,-75.1732038,entertainment,bicycle,1.45,11.93
+166,Cliveden of the National Trust,40.0480831,-75.18130529999998,entertainment,bicycle,1.15,10.13
+167,Friends of the Wissahickon,40.07539479999999,-75.20818419999998,entertainment,bicycle,1.54,13.25
+168,Ebenezer Maxwell Mansion,40.0382074,-75.18362409999997,entertainment,bicycle,1.75,12.87
+169,Wyck Historic House And Garden,40.03993319999999,-75.17857729999999,entertainment,bicycle,1.6,12.7
+170,Chestnut Hill Friends Meeting Skyspace,40.0683476,-75.1961469,entertainment,bicycle,0.7,6.1
+171,Awbury Arboretum,40.0505556,-75.1680556,entertainment,bicycle,1.73,13.55
+172,Wissahickon Valley Park,40.056210799999995,-75.21733100000002,entertainment,bicycle,2.06,13.8
+173,Thomas Mansion,40.0348149,-75.190073,entertainment,bicycle,1.96,13.48
+174,The Undercover Unit,40.04072,-75.17701600000002,entertainment,bicycle,1.73,13.0
+175,Lovett Park,40.0567982,-75.18768829999998,entertainment,bicycle,0.32,2.7
+176,Johnson House Historic Site,40.0433454,-75.1812599,entertainment,bicycle,1.32,9.83
+177,Ned Wolf Park,40.049055700000004,-75.19650250000002,entertainment,bicycle,0.99,7.97
+178,Gorgas Creek Cave,40.043311300000006,-75.2127618,entertainment,bicycle,2.08,13.92
+179,Wissahickon Valley Park,40.056210799999995,-75.21733100000002,entertainment,bicycle,2.06,13.8
+180,Glen Fern,40.0494281,-75.2132821,entertainment,bicycle,1.74,11.32
+182,Chestnut Hill,40.074983,-75.205877,commercial,transit,-1.0,8.0
+183,Germantown/Roumfort-Gorgas,40.0597,-75.189899,commercial,transit,-1.0,3.0
+185,Market Square - Chestnut Hill,40.072473,-75.194429,commercial,transit,-1.0,11.0
+186,Mount Pleasant/Cresheim-Emlen,40.0544,-75.194295,commercial,transit,-1.0,4.0
+187,Germantown/Upsal-High,40.042776,-75.17989,commercial,transit,-1.0,9.0
+188,Germantown/Gorgas-Upsal,40.052256,-75.185148,commercial,transit,-1.0,4.0
+189,Chew and Phil Ellena,40.055958,-75.181348,commercial,transit,-1.0,8.0
+192,Stenton and Mt. Airy,40.06882,-75.180888,commercial,transit,-1.0,9.0
+194,Carpenter/McCallum-Sherman,40.046379,-75.1956,commercial,transit,-1.0,10.0
+195,ELEANOR C. EMLEN SCHOOL,40.05436289023661,-75.1779057294733,schools,transit,-1.0,11.0
+199,CHARLES W. HENRY SCHOOL,40.0462577099047,-75.1965877592889,schools,transit,-1.0,10.0
+200,HENRY H. HOUSTON SCHOOL,40.0591252651313,-75.194819995356,schools,transit,-1.0,6.0
+201,JENKS ACADEMY FOR ARTS AND SCIENCES,40.0747980046461,-75.20336828536409,schools,transit,-1.0,7.0
+204,Mt. Pleasant Medical Center,40.067482,-75.179305,medical,transit,-1.0,7.0
+209,Pastorius Park,40.070145,-75.204821,recreation,transit,-1.0,9.0
+210,Woodward Pines,40.067455,-75.203177,recreation,transit,-1.0,9.0
+211,Vernon Park,40.036533,-75.17555899999998,recreation,transit,-1.0,11.0
+212,Allens Lane Art Center,40.051671,-75.202177,recreation,transit,-1.0,10.0
+213,Wissahickon East,40.069342,-75.191301,recreation,transit,-1.0,9.0
+214,Lovett Park,40.056119,-75.18740799999998,recreation,transit,-1.0,3.0
+215,Winston Park,40.072856,-75.198977,recreation,transit,-1.0,8.0
+216,Daniel E Rumph II Recreation Center,40.04779600000001,-75.18007,recreation,transit,-1.0,8.0
+218,Ned Wolf Park,40.048875,-75.196575,recreation,transit,-1.0,7.0
+221,Mount Airy Playground,40.057999,-75.187871,recreation,transit,-1.0,3.0
+223,Pleasant Playground,40.056566,-75.182799,recreation,transit,-1.0,7.0
+224,Charles J Buckley Park,40.073283,-75.202316,recreation,transit,-1.0,6.0
+225,Water Tower Recreation Center,40.075363,-75.200536,recreation,transit,-1.0,9.0
+226,Weavers Way Co-op,40.0465657,-75.1960213,supermarket,transit,-1.0,9.0
+231,Family Dollar,40.043985600000006,-75.19074300000003,supermarket,transit,-1.0,11.0
+232,Hans Family Discount Store,40.0379463,-75.17669149999998,supermarket,transit,-1.0,10.0
+233,The Fresh Market,40.0731849,-75.2032318,supermarket,transit,-1.0,7.0
+238,Top of the Hill Cafe,40.0768783,-75.20655740000002,restaurant,transit,-1.0,8.0
+239,Thai Kuu Restaurant,40.0779389,-75.20850340000001,restaurant,transit,-1.0,9.0
+240,"Weavers Way Co-op, Chestnut Hill",40.07547599999999,-75.2057698,restaurant,transit,-1.0,8.0
+241,Iron Hill Brewery & Restaurant,40.0752174,-75.20531899999997,restaurant,transit,-1.0,8.0
+242,Mermaid Inn,40.0679852,-75.19678499999998,restaurant,transit,-1.0,5.0
+243,McNally's Tavern,40.0771023,-75.20887259999998,restaurant,transit,-1.0,10.0
+245,Mi Puebla Restaurant & Bakery,40.05994739999999,-75.190747,restaurant,transit,-1.0,3.0
+248,Chestnut Grill & Sidewalk Cafe,40.07405000000001,-75.20307220000002,restaurant,transit,-1.0,6.0
+249,Campbell's Place,40.075162,-75.20450600000002,restaurant,transit,-1.0,7.0
+251,CinCin Restaurant,40.0691943,-75.1998158,restaurant,transit,-1.0,5.0
+252,Cake,40.076303100000004,-75.20629240000002,restaurant,transit,-1.0,7.0
+253,Starbucks,40.076366,-75.206754,restaurant,transit,-1.0,8.0
+254,New China Court,40.07315510000001,-75.19467159999998,restaurant,transit,-1.0,10.0
+255,Tiffin Indian Cuisine Mt Airy,40.053028999999995,-75.195697,restaurant,transit,-1.0,5.0
+256,High Point Cafe,40.057516899999996,-75.19462370000002,restaurant,transit,-1.0,6.0
+257,Philly Platinum Grill,40.07261959999999,-75.19493469999998,restaurant,transit,-1.0,10.0
+258,Earth Bread + Brewery,40.0591514,-75.1904672,restaurant,transit,-1.0,2.0
+259,Dunkin',40.081230299999994,-75.17124809999999,restaurant,transit,-1.0,11.0
+260,Jansen,40.062681,-75.19319499999997,restaurant,transit,-1.0,2.0
+261,Blunile Chefs Servsafe Training,40.046994299999994,-75.1949396,restaurant,transit,-1.0,9.0
+262,Paris Bistro & Jazz Cafe,40.0742043,-75.20320319999998,restaurant,transit,-1.0,6.0
+263,Herb Scott's Catering,40.0493015,-75.18382679999998,restaurant,transit,-1.0,5.0
+264,Jyoti Indian Bistro,40.06044970000001,-75.1915257,restaurant,transit,-1.0,4.0
+265,PrimoHoagies,40.07821819999999,-75.2082422,restaurant,transit,-1.0,10.0
+266,Evo Brick Oven Pizza,40.05461,-75.19397,restaurant,transit,-1.0,4.0
+268,Newman's Grill,40.03887260000001,-75.17760369999998,restaurant,transit,-1.0,10.0
+269,King's Garden,40.0739062,-75.20303489999998,restaurant,transit,-1.0,6.0
+270,Cosimo's Pizza Cafe,40.076978000000004,-75.20859200000002,restaurant,transit,-1.0,10.0
+271,Mario's Pizza,40.07261079999999,-75.19434079999998,restaurant,transit,-1.0,11.0
+272,Mica,40.076871600000004,-75.2075448,restaurant,transit,-1.0,9.0
+273,Rita's Italian Ice & Frozen Custard,40.067809999999994,-75.179316,restaurant,transit,-1.0,8.0
+274,Cresheim Valley Grain Exchange,40.0596009,-75.1907583,restaurant,transit,-1.0,3.0
+275,Biryani Bowl Indian Cuisine,40.0734891,-75.19833129999998,restaurant,transit,-1.0,9.0
+276,Macaroni's Outdoor Cafe,40.052077600000004,-75.18391249999998,restaurant,transit,-1.0,5.0
+278,Hokka Hokka Japanese Restaurant,40.069058,-75.199519,restaurant,transit,-1.0,5.0
+279,Tyemeka's Soul Food Restaurant,40.0381549,-75.1769466,restaurant,transit,-1.0,10.0
+280,Little Caesars Pizza,40.0805,-75.17299,restaurant,transit,-1.0,11.0
+281,El Poquito,40.07361160000001,-75.202635,restaurant,transit,-1.0,7.0
+282,Tavern On the Hill,40.077130200000006,-75.2089321,restaurant,transit,-1.0,10.0
+283,Wadsworth Pizzeria Inc,40.0798783,-75.1735391,restaurant,transit,-1.0,11.0
+284,Ranck's Lunchmeats,40.07419239999999,-75.2023719,restaurant,transit,-1.0,7.0
+285,China Garden Restaurant,40.06701339999999,-75.1780335,restaurant,transit,-1.0,8.0
+286,Wawa,40.060808,-75.19194999999998,restaurant,transit,-1.0,3.0
+287,Trattoria Moma,40.0593149,-75.19004709999999,restaurant,transit,-1.0,2.0
+289,Hong Kong Restaurant,40.05321349999999,-75.1859116,restaurant,transit,-1.0,3.0
+290,Baker Street Bread Co. Cafe & Bakery,40.07117249999999,-75.20083309999998,restaurant,transit,-1.0,6.0
+291,Yu Hsiang Garden,40.067145000000004,-75.19717,restaurant,transit,-1.0,5.0
+292,Fiesta Pizza III,40.0752078,-75.20454570000003,restaurant,transit,-1.0,7.0
+293,Mount Airy Contemporary,40.05947159999999,-75.19167399999998,entertainment,transit,-1.0,3.0
+294,Wyck Historic House And Garden,40.03993319999999,-75.17857729999999,entertainment,transit,-1.0,10.0
+295,Borrelli's Chestnut Hill Gallery & Frame Shoppe,40.0752354,-75.2048863,entertainment,transit,-1.0,7.0
+296,Wadsworth Branch,40.0789169,-75.17380940000002,entertainment,transit,-1.0,10.0
+297,The Little Gallery,40.0769579,-75.2084661,entertainment,transit,-1.0,9.0
+298,Gallery on the Avenue,40.076966,-75.2084618,entertainment,transit,-1.0,9.0
+299,McCarty Gallery,40.06934520000001,-75.1974323,entertainment,transit,-1.0,6.0
+301,Beatrice Golden Arts,40.069996,-75.19769579999998,entertainment,transit,-1.0,6.0
+303,Wendy Concannon Photography,40.071025399999996,-75.2006694,entertainment,transit,-1.0,5.0
+305,Christine Belton,40.0542766,-75.1868872,entertainment,transit,-1.0,2.0
+306,"Gravers Lane Gallery in Historic Chestnut Hill, Philadelphia",40.07539969999999,-75.2051575,entertainment,transit,-1.0,8.0
+309,Cliveden of the National Trust,40.0480831,-75.18130529999998,entertainment,transit,-1.0,7.0
+312,Palladio Custom Framing,40.0777614,-75.20590109999998,entertainment,transit,-1.0,9.0
+313,WAX PORTRAIT GALLERY,40.041607299999995,-75.17820449999998,entertainment,transit,-1.0,10.0
+314,"Lucien Crump Gallery Art Education Resource Center, Inc.",40.045691,-75.18226190000001,entertainment,transit,-1.0,6.0
+315,Allens Lane Art Center,40.0519751,-75.2031554,entertainment,transit,-1.0,11.0
+316,ellen r brooks art studio,40.0743904,-75.20186770000002,entertainment,transit,-1.0,8.0
+317,Lovett Memorial Library,40.05677539999999,-75.18769,entertainment,transit,-1.0,2.0
+318,Chestnut Hill Library,40.077795200000004,-75.20929819999998,entertainment,transit,-1.0,10.0
+319,Mt. Airy Art Garage,40.050981,-75.1851135,entertainment,transit,-1.0,5.0
+320,Little Free Library,40.04332,-75.181223,entertainment,transit,-1.0,8.0
+321,Nichols Berg Gallery,40.07698320000001,-75.2077255,entertainment,transit,-1.0,9.0
+323,Judy McCabe Jarvis Art Gallery,40.076925700000004,-75.208486,entertainment,transit,-1.0,9.0
+325,McCarty Fine Art and Antiques,40.069487,-75.197339,entertainment,transit,-1.0,6.0
+327,Berkelbach's,40.074436299999995,-75.1785017,entertainment,transit,-1.0,10.0
+328,DHEx Enterprises LLC,40.0451506,-75.18170400000002,entertainment,transit,-1.0,7.0
+329,Aces Museum,40.036981,-75.17546399999998,entertainment,transit,-1.0,11.0
+332,Ned Wolf Park,40.049055700000004,-75.19650250000002,entertainment,transit,-1.0,7.0
+335,Chestnut Hill Friends Meeting Skyspace,40.0683476,-75.1961469,entertainment,transit,-1.0,5.0
+336,Johnson House Historic Site,40.0433454,-75.1812599,entertainment,transit,-1.0,8.0
+337,Friends of the Wissahickon,40.07539479999999,-75.20818419999998,entertainment,transit,-1.0,9.0
+340,Harris Benvenuti Inc,40.04074709999999,-75.177019,entertainment,transit,-1.0,11.0
+342,Cliveden of the National Trust,40.0480831,-75.18130529999998,entertainment,transit,-1.0,7.0
+345,The Undercover Unit,40.04072,-75.17701600000002,entertainment,transit,-1.0,11.0
+347,Lovett Park,40.0567982,-75.18768829999998,entertainment,transit,-1.0,2.0
+348,Wyck Historic House And Garden,40.03993319999999,-75.17857729999999,entertainment,transit,-1.0,10.0
+350,Johnson House Historic Site,40.0433454,-75.1812599,entertainment,transit,-1.0,8.0

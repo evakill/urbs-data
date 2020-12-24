@@ -1,0 +1,243 @@
+,name,lat,lng,category,mode,dist,time
+0,Germantown Kitchen Garden,40.034987,-75.167077,farmers_markets,bicycle,1.63,12.98
+1,Germantown & Schoolhouse,40.034365,-75.17271,farmers_markets,bicycle,1.79,14.55
+2,Park and Tabor,40.038046,-75.143757,farmers_markets,bicycle,1.28,10.0
+3,West Oak Lane,40.064285,-75.153512,farmers_markets,bicycle,1.09,8.97
+4,Godfrey and Ogontz,40.047767,-75.150712,commercial,pedestrian,0.34,9.58
+5,Chelten Ave/Ogontz-Wister,40.052073,-75.157097,commercial,pedestrian,0.2,5.75
+6,Chew and Washington,40.050817,-75.17326,commercial,bicycle,1.38,11.0
+7,19th and Cheltenham,40.066841,-75.14518699999998,commercial,bicycle,1.44,11.1
+8,Godfrey and Ogontz,40.047767,-75.150712,commercial,bicycle,0.34,2.77
+9,72nd and Ogontz,40.064092,-75.152578,commercial,bicycle,1.18,9.47
+10,Cheltenham & Ogontz,40.070138,-75.156856,commercial,bicycle,1.54,12.65
+11,68th and Ogontz,40.057709,-75.14886,commercial,bicycle,0.76,6.0
+12,Ogontoz and Champlost,40.044877,-75.149939,commercial,bicycle,0.57,4.32
+13,Broad and Olney,40.040376,-75.14376999999998,commercial,bicycle,1.24,9.68
+14,Broad and Stenton/Godfrey,40.047128,-75.14246700000002,commercial,bicycle,0.77,6.23
+15,Chelten Ave/Ogontz-Wister,40.052073,-75.157097,commercial,bicycle,0.2,1.72
+16,The Shoppes at LaSalle,40.042488,-75.15906700000002,commercial,bicycle,0.75,6.45
+17,Stenton and Washington Lane,40.059817,-75.165429,commercial,bicycle,0.96,8.68
+18,Central Germantown,40.03406,-75.176034,commercial,bicycle,1.82,14.37
+19,Chew and Chelten,40.0447,-75.16553499999998,commercial,bicycle,0.86,7.1
+20,Broad and Logan/Wyoming,40.026891,-75.14701,commercial,bicycle,1.98,13.97
+21,5th and Olney,40.036287,-75.13051800000002,commercial,bicycle,1.95,14.35
+22,5th & Spencer,40.042944,-75.12906,commercial,bicycle,1.68,12.87
+23,Old York Road and Oak Lane,40.053901,-75.140866,commercial,bicycle,1.0,8.22
+24,BUILDING 21,40.0536310003,-75.1524810003661,schools,pedestrian,0.28,7.77
+25,GENERAL LOUIS WAGNER SCHOOL,40.0517474803904,-75.1476796206116,schools,pedestrian,0.5,14.05
+26,OMBUDSMAN NORTHWEST,40.0559490453277,-75.15647125520358,schools,pedestrian,0.44,12.6
+27,IMHOTEP INSTITUTE CHARTER HIGH SCHOOL,40.0494270004526,-75.1547169995902,schools,pedestrian,0.1,2.73
+28,MASTERY CHARTER SCHOOL AT PASTORIUS,40.0482079997674,-75.1614239994098,schools,pedestrian,0.49,13.82
+29,PRINCE HALL SCHOOL,40.0477074202454,-75.1495605206067,schools,pedestrian,0.4,11.32
+30,ANNA B. DAY SCHOOL,40.058406820418895,-75.1683346406611,schools,bicycle,1.22,10.68
+31,ELLWOOD SCHOOL,40.0550249498537,-75.1385380940791,schools,bicycle,1.17,9.48
+32,ELEANOR C. EMLEN SCHOOL,40.05436289023661,-75.1779057294733,schools,bicycle,1.79,14.57
+33,PHILADELPHIA HIGH SCHOOL FOR GIRLS,40.0387049134426,-75.1452251593178,schools,bicycle,1.16,8.75
+34,CAMELOT THERAPEUTIC DAY SCHOOL,40.0335546772673,-75.17623601067679,schools,bicycle,1.83,14.45
+35,BUILDING 21,40.0536310003,-75.1524810003661,schools,bicycle,0.28,2.55
+36,CENTRAL HIGH SCHOOL,40.0372850996777,-75.1507482501065,schools,bicycle,1.2,9.47
+37,JULIA W. HOWE SCHOOL,40.0413185655449,-75.1422093713412,schools,bicycle,1.13,9.05
+38,MARTIN LUTHER KING HIGH SCHOOL,40.056462024960496,-75.16167785536359,schools,bicycle,0.7,7.72
+39,PARKWAY NORTHWEST HIGH SCHOOL,40.0564530955096,-75.1651703669058,schools,bicycle,0.95,9.67
+40,JOSEPH PENNELL SCHOOL,40.0433940035014,-75.1507814774704,schools,bicycle,0.7,5.3
+41,SAMUEL PENNYPACKER SCHOOL,40.0652550495601,-75.15894649056241,schools,bicycle,1.22,10.03
+42,GENERAL LOUIS WAGNER SCHOOL,40.0517474803904,-75.1476796206116,schools,bicycle,0.63,5.33
+43,OMBUDSMAN NORTHWEST,40.0559490453277,-75.15647125520358,schools,bicycle,0.49,4.22
+44,JAMES LOGAN SCHOOL,40.0308530602314,-75.1520599505873,schools,bicycle,1.59,11.77
+45,IMHOTEP INSTITUTE CHARTER HIGH SCHOOL,40.0494270004526,-75.1547169995902,schools,bicycle,0.1,0.65
+46,MASTERY CHARTER SCHOOL AT PASTORIUS,40.0482079997674,-75.1614239994098,schools,bicycle,0.55,4.93
+47,PRINCE HALL SCHOOL,40.0477074202454,-75.1495605206067,schools,bicycle,0.4,3.32
+48,THEODORE ROOSEVELT SCHOOL,40.0482382288608,-75.17505705050701,schools,bicycle,1.56,13.33
+49,WILLIAM ROWEN SCHOOL,40.058749817373794,-75.1485660747121,schools,bicycle,0.77,6.25
+50,WEST OAK LANE CHARTER SCHOOL,40.0595120027579,-75.1634134086327,schools,bicycle,0.87,7.72
+51,WIDENER MEMORIAL SCHOOL,40.0367059998385,-75.1465980005368,schools,bicycle,1.24,9.38
+52,Einstein Medical Center - Philadelphia,40.036848,-75.141589,medical,bicycle,1.47,11.28
+53,Health Center 9,40.048776000000004,-75.133255,medical,bicycle,1.28,9.7
+54,Covenant House Health Services,40.033541,-75.165651,medical,bicycle,1.7,13.85
+55,Morris Estate Cultural Center,40.050455,-75.146292,recreation,pedestrian,0.52,14.45
+56,Lonnie Young Recreation Center of East Germantown,40.050035,-75.159207,recreation,pedestrian,0.29,8.08
+57,Awbury Park and Recreation Center,40.053652,-75.163177,recreation,bicycle,0.82,7.27
+58,Fisher Park,40.044127,-75.130177,recreation,bicycle,1.54,12.08
+59,Wisters Woods Park,40.036147,-75.155686,recreation,bicycle,1.28,9.67
+60,William B Simons Recreation Center,40.062062,-75.15695600000002,recreation,bicycle,0.88,7.95
+61,Wakefield Park,40.034494,-75.14996500000002,recreation,bicycle,1.31,9.45
+62,Vernon Park,40.036533,-75.17555899999998,recreation,bicycle,1.71,13.33
+63,Fanny Kemble Abolitionist Memorial Park,40.039912,-75.15055,recreation,bicycle,0.9,6.27
+64,Charles M Finley Playground,40.064661,-75.170728,recreation,bicycle,1.41,11.42
+65,Morris Estate Cultural Center,40.050455,-75.146292,recreation,bicycle,0.57,4.55
+66,Cliveden Park,40.051748,-75.177187,recreation,bicycle,1.66,13.65
+67,A Albert Cherashore Playground,40.038709,-75.136907,recreation,bicycle,1.49,10.95
+68,Lonnie Young Recreation Center of East Germantown,40.050035,-75.159207,recreation,bicycle,0.35,3.18
+69,Waterview Recreation Center,40.04515900000001,-75.167753,recreation,bicycle,1.01,8.18
+70,Belfield Recreation Center,40.042077,-75.156348,recreation,bicycle,0.66,4.8
+71,Harpers Hollow Park,40.042165,-75.151938,recreation,bicycle,0.76,5.95
+72,Wister Playground,40.032574,-75.16032,recreation,bicycle,1.53,12.85
+73,Morton Playground,40.039965,-75.174346,recreation,bicycle,1.64,13.27
+74,Clarkson Park,40.036661,-75.145175,recreation,bicycle,1.3,9.6
+75,Shevchenko Park,40.034544,-75.14533399999998,recreation,bicycle,1.45,10.87
+76,West Oak Lane Senior Center,40.064351,-75.15426500000002,recreation,bicycle,1.12,9.58
+77,S & J Food Market,40.053343,-75.15610840000002,supermarket,pedestrian,0.31,8.98
+78,The Fresh Grocer of LaSalle,40.04353010000001,-75.1599335,supermarket,bicycle,0.79,6.82
+79,H Mart Elkins Park,40.0629904,-75.13693420000001,supermarket,bicycle,1.77,14.48
+80,Save A Lot,40.051316799999995,-75.17359920000001,supermarket,bicycle,1.42,11.3
+81,Family Dollar,40.05010770000001,-75.1418142,supermarket,bicycle,0.84,6.82
+82,YMG Stenton Supermarket,40.0604406,-75.1673986,supermarket,bicycle,1.04,9.03
+83,Hans Family Discount Store,40.0379463,-75.17669149999998,supermarket,bicycle,1.78,14.27
+84,Family Dollar,40.066868400000004,-75.14591879999998,supermarket,bicycle,1.43,11.07
+85,Family Dollar,40.0346189,-75.17542309999997,supermarket,bicycle,1.73,13.53
+86,S & J Food Market,40.053343,-75.15610840000002,supermarket,bicycle,0.32,2.77
+87,ALDI,40.04661,-75.14226790000002,supermarket,bicycle,0.86,7.0
+88,Town Supermarket Inc,40.03003100000001,-75.16467209999998,supermarket,bicycle,1.7,13.93
+89,Save More Market,40.04329600000001,-75.1287059,supermarket,bicycle,1.66,12.67
+90,My Destiny Supermarket,40.0284075,-75.14673259999998,supermarket,bicycle,1.88,13.23
+91,BP,40.055581,-75.1580079,restaurant,pedestrian,0.46,13.2
+92,Crown Fried Chicken,40.0515028,-75.1504003,restaurant,pedestrian,0.29,8.13
+93,Sugafoot Cafe',40.0517414,-75.15649619999998,restaurant,pedestrian,0.17,4.63
+94,Rita's Italian Ice & Frozen Custard,40.05621399999999,-75.158939,restaurant,pedestrian,0.51,14.32
+95,Cafe Soho,40.05504009999999,-75.12593290000002,restaurant,bicycle,1.88,14.62
+96,Relish,40.0634151,-75.15309690000002,restaurant,bicycle,1.11,9.32
+97,BP,40.055581,-75.1580079,restaurant,bicycle,0.5,4.48
+98,Mr Hook Fish & Chicken,40.035719,-75.17425899999998,restaurant,bicycle,1.67,13.78
+99,Crab Shack,40.0269444,-75.1508333,restaurant,bicycle,1.92,13.68
+100,Ga Yeon Rice Cake,40.0628903,-75.1369588,restaurant,bicycle,1.67,13.85
+101,Jong Ka Jib,40.052031,-75.127381,restaurant,bicycle,1.77,14.07
+102,Kim's Restaurant,40.04214299999999,-75.128999,restaurant,bicycle,1.74,13.42
+103,Giovanni's Pizzeria,40.0335107,-75.17580229999999,restaurant,bicycle,1.85,14.62
+104,Bruno's Pizza,40.0671465,-75.1464731,restaurant,bicycle,1.38,10.58
+105,Crown Fried Chicken,40.0515028,-75.1504003,restaurant,bicycle,0.29,2.33
+106,Vernie's Soul Food Inc,40.02735300000001,-75.154005,restaurant,bicycle,1.84,13.13
+107,Papa John's Pizza,40.04492909999999,-75.14390350000002,restaurant,bicycle,0.81,6.42
+108,Little Caesars Pizza,40.062858299999995,-75.15181439999998,restaurant,bicycle,1.05,8.43
+109,Little Caesars Pizza,40.062862,-75.15187999999998,restaurant,bicycle,1.05,8.67
+110,KFC,40.04267189999999,-75.14467979999998,restaurant,bicycle,0.93,7.2
+111,Checkers,40.0586217,-75.16332059999998,restaurant,bicycle,0.8,7.55
+112,Crab & Claw,40.071907700000004,-75.15737159999998,restaurant,bicycle,1.67,13.87
+113,In & Out Pizza,40.07002749999999,-75.1575821,restaurant,bicycle,1.54,12.78
+114,Quality Donuts,40.03414029999999,-75.1767809,restaurant,bicycle,1.81,14.17
+115,Popeyes Louisiana Kitchen,40.0334182,-75.176998,restaurant,bicycle,1.85,14.42
+116,O&M Halal,40.03045439999999,-75.1654369,restaurant,bicycle,1.75,14.48
+117,Subway,40.0379285,-75.1529793,restaurant,bicycle,1.05,10.72
+118,Happy House,40.044688,-75.1499089,restaurant,bicycle,0.58,4.32
+119,China Garden Restaurant,40.06701339999999,-75.1780335,restaurant,bicycle,1.79,14.87
+120,St Vincents,40.04158230000001,-75.16780390000002,restaurant,bicycle,1.27,10.37
+121,Go Hyang San Chun,40.068091700000004,-75.1466599,restaurant,bicycle,1.41,11.22
+122,Golden China,40.0450515,-75.164513,restaurant,bicycle,0.83,7.0
+123,New Ogontz Pizza,40.0446432,-75.1498849,restaurant,bicycle,0.58,4.32
+124,La Rose Jazz Club,40.0346552,-75.17300300000002,restaurant,bicycle,1.77,14.35
+125,Sugafoot Cafe',40.0517414,-75.15649619999998,restaurant,bicycle,0.17,1.43
+126,Domino's Pizza,40.040638200000004,-75.1438893,restaurant,bicycle,1.25,9.78
+127,Tyemeka's Soul Food Restaurant,40.0381549,-75.1769466,restaurant,bicycle,1.78,14.28
+128,Red Star,40.0280364,-75.1460816,restaurant,bicycle,1.92,14.25
+129,Takka Grill & Shrimpies,40.06751609999999,-75.1471273,restaurant,bicycle,1.37,10.72
+130,Family Spot Jamaican Restaurant,40.05595,-75.14137,restaurant,bicycle,1.12,8.72
+131,Taco Bell,40.0426126,-75.14462490000003,restaurant,bicycle,0.9,7.53
+132,The Flavor Spot ll,40.02948,-75.14648299999998,restaurant,bicycle,1.83,13.22
+133,Holiday Pizza,40.064157,-75.153924,restaurant,bicycle,1.07,8.85
+134,Sangkee Asian Kitchen,40.0628347,-75.13793079999998,restaurant,bicycle,1.69,13.87
+135,Chef Donte's Delicious Dishes,40.0461198,-75.1440477,restaurant,bicycle,0.77,6.05
+136,Newman's Grill,40.03887260000001,-75.17760369999998,restaurant,bicycle,1.82,14.38
+137,X Mark's the Spot Bar and Grille,40.06010260000001,-75.16680459999998,restaurant,bicycle,1.0,8.77
+138,DuBu,40.0630569,-75.1376877,restaurant,bicycle,1.71,14.0
+139,Breakfast Boutique,40.0433838,-75.1433673,restaurant,bicycle,0.88,6.63
+140,crown fried chicken,40.0611,-75.162093,restaurant,bicycle,0.91,8.22
+141,Rita's Italian Ice & Frozen Custard,40.05621399999999,-75.158939,restaurant,bicycle,0.51,4.6
+142,David Cohen Ogontz Library,40.0471037,-75.150752,entertainment,pedestrian,0.39,11.25
+143,Library,40.047413,-75.152383,entertainment,pedestrian,0.39,11.0
+144,Olney Art Exchange,40.042409,-75.126379,entertainment,bicycle,1.88,14.6
+145,Imperfect Gallery,40.0348936,-75.1730135,entertainment,bicycle,1.76,14.27
+146,Ecuclectic Art,40.0423809,-75.12640959999997,entertainment,bicycle,1.88,14.6
+147,WAX PORTRAIT GALLERY,40.041607299999995,-75.17820449999998,entertainment,bicycle,1.85,14.93
+148,Korman Library,40.03682120000001,-75.14350619999998,entertainment,bicycle,1.42,11.05
+149,Korman Library,40.03682120000001,-75.14350619999998,entertainment,bicycle,1.42,11.05
+150,Joseph E. Coleman Northwest Regional Library,40.0340756,-75.1760812,entertainment,bicycle,1.82,14.35
+151,Connelly Library,40.0391521,-75.1550567,entertainment,bicycle,0.95,9.05
+152,Greater Olney Library,40.0350234,-75.1306781,entertainment,bicycle,2.03,14.92
+153,David Cohen Ogontz Library,40.0471037,-75.150752,entertainment,bicycle,0.39,3.73
+154,West Oak Lane Library,40.067151,-75.15768469999998,entertainment,bicycle,1.34,10.98
+155,Logan Library,40.031756099999996,-75.1453715,entertainment,bicycle,1.66,11.98
+156,Free Library of Philadelphia,40.0467849,-75.1404574,entertainment,bicycle,0.87,6.95
+157,Oak Lane Library,40.0545894,-75.1378434,entertainment,bicycle,1.21,9.72
+158,Library,40.047413,-75.152383,entertainment,bicycle,0.39,3.13
+159,La Mott Free Library,40.067465999999996,-75.14171499999998,entertainment,bicycle,1.58,12.42
+160,Museum of Nursing History,40.0377071,-75.15332819999998,entertainment,bicycle,1.06,10.78
+161,La Salle University Art Museum,40.0377696,-75.1521621,entertainment,bicycle,1.21,11.1
+162,Aces Museum,40.036981,-75.17546399999998,entertainment,bicycle,1.66,13.18
+163,Black Writers Museum,40.035551,-75.17677599999998,entertainment,bicycle,1.8,14.4
+164,Philadelphia insectarium,40.043779,-75.173439,entertainment,bicycle,1.46,12.03
+165,Harris Benvenuti Inc,40.04074709999999,-75.177019,entertainment,bicycle,1.82,14.67
+166,Mc Carthy Stadium,40.0374141,-75.1541732,entertainment,bicycle,1.01,10.62
+167,McCarthy Stadium,40.037187100000004,-75.15410279999998,entertainment,bicycle,1.02,11.02
+168,Museum of Nursing History,40.0377071,-75.15332819999998,entertainment,bicycle,1.06,10.78
+169,La Salle University Art Museum,40.0377696,-75.1521621,entertainment,bicycle,1.21,11.1
+170,Cherashore Playground,40.037135600000006,-75.1357967,entertainment,bicycle,1.65,12.13
+171,Awbury Arboretum,40.0505556,-75.1680556,entertainment,bicycle,1.26,10.85
+172,Fisher Park,40.04324620000001,-75.13138479999998,entertainment,bicycle,1.61,12.6
+173,Awbury Park,40.0523805,-75.16324870000003,entertainment,bicycle,0.67,5.8
+174,Kemble Park,40.039978700000006,-75.1497952,entertainment,bicycle,0.99,7.37
+176,West Oak Lane,40.064285,-75.153512,farmers_markets,transit,-1.0,10.0
+178,68th and Ogontz,40.057709,-75.14886,commercial,transit,-1.0,7.0
+179,Ogontoz and Champlost,40.044877,-75.149939,commercial,transit,-1.0,6.0
+180,Broad and Stenton/Godfrey,40.047128,-75.14246700000002,commercial,transit,-1.0,11.0
+181,Chelten Ave/Ogontz-Wister,40.052073,-75.157097,commercial,transit,-1.0,3.0
+182,Old York Road and Oak Lane,40.053901,-75.140866,commercial,transit,-1.0,9.0
+183,The Shoppes at LaSalle,40.042488,-75.15906700000002,commercial,transit,-1.0,9.0
+187,Stenton and Washington Lane,40.059817,-75.165429,commercial,transit,-1.0,9.0
+188,Broad and Olney,40.040376,-75.14376999999998,commercial,transit,-1.0,11.0
+189,72nd and Ogontz,40.064092,-75.152578,commercial,transit,-1.0,11.0
+191,Chew and Chelten,40.0447,-75.16553499999998,commercial,transit,-1.0,8.0
+192,Godfrey and Ogontz,40.047767,-75.150712,commercial,transit,-1.0,5.0
+193,PARKWAY NORTHWEST HIGH SCHOOL,40.0564530955096,-75.1651703669058,schools,transit,-1.0,10.0
+194,OMBUDSMAN NORTHWEST,40.0559490453277,-75.15647125520358,schools,transit,-1.0,6.0
+197,BUILDING 21,40.0536310003,-75.1524810003661,schools,transit,-1.0,5.0
+198,ELLWOOD SCHOOL,40.0550249498537,-75.1385380940791,schools,transit,-1.0,11.0
+199,MARTIN LUTHER KING HIGH SCHOOL,40.056462024960496,-75.16167785536359,schools,transit,-1.0,7.0
+201,MASTERY CHARTER SCHOOL AT PASTORIUS,40.0482079997674,-75.1614239994098,schools,transit,-1.0,5.0
+202,GENERAL LOUIS WAGNER SCHOOL,40.0517474803904,-75.1476796206116,schools,transit,-1.0,8.0
+204,IMHOTEP INSTITUTE CHARTER HIGH SCHOOL,40.0494270004526,-75.1547169995902,schools,transit,-1.0,6.0
+206,JULIA W. HOWE SCHOOL,40.0413185655449,-75.1422093713412,schools,transit,-1.0,10.0
+207,JOSEPH PENNELL SCHOOL,40.0433940035014,-75.1507814774704,schools,transit,-1.0,8.0
+209,PHILADELPHIA HIGH SCHOOL FOR GIRLS,40.0387049134426,-75.1452251593178,schools,transit,-1.0,11.0
+210,WEST OAK LANE CHARTER SCHOOL,40.0595120027579,-75.1634134086327,schools,transit,-1.0,8.0
+212,WILLIAM ROWEN SCHOOL,40.058749817373794,-75.1485660747121,schools,transit,-1.0,7.0
+213,PRINCE HALL SCHOOL,40.0477074202454,-75.1495605206067,schools,transit,-1.0,5.0
+217,Belfield Recreation Center,40.042077,-75.156348,recreation,transit,-1.0,9.0
+218,Morris Estate Cultural Center,40.050455,-75.146292,recreation,transit,-1.0,9.0
+219,Charles M Finley Playground,40.064661,-75.170728,recreation,transit,-1.0,11.0
+220,Fanny Kemble Abolitionist Memorial Park,40.039912,-75.15055,recreation,transit,-1.0,10.0
+221,Awbury Park and Recreation Center,40.053652,-75.163177,recreation,transit,-1.0,8.0
+222,West Oak Lane Senior Center,40.064351,-75.15426500000002,recreation,transit,-1.0,11.0
+223,Lonnie Young Recreation Center of East Germantown,40.050035,-75.159207,recreation,transit,-1.0,5.0
+230,Harpers Hollow Park,40.042165,-75.151938,recreation,transit,-1.0,10.0
+232,Waterview Recreation Center,40.04515900000001,-75.167753,recreation,transit,-1.0,9.0
+233,YMG Stenton Supermarket,40.0604406,-75.1673986,supermarket,transit,-1.0,9.0
+234,S & J Food Market,40.053343,-75.15610840000002,supermarket,transit,-1.0,4.0
+235,The Fresh Grocer of LaSalle,40.04353010000001,-75.1599335,supermarket,transit,-1.0,9.0
+237,ALDI,40.04661,-75.14226790000002,supermarket,transit,-1.0,11.0
+245,BP,40.055581,-75.1580079,restaurant,transit,-1.0,6.0
+246,Relish,40.0634151,-75.15309690000002,restaurant,transit,-1.0,11.0
+248,Checkers,40.0586217,-75.16332059999998,restaurant,transit,-1.0,7.0
+249,Papa John's Pizza,40.04492909999999,-75.14390350000002,restaurant,transit,-1.0,8.0
+252,KFC,40.04267189999999,-75.14467979999998,restaurant,transit,-1.0,10.0
+253,Crown Fried Chicken,40.0515028,-75.1504003,restaurant,transit,-1.0,5.0
+254,Little Caesars Pizza,40.062858299999995,-75.15181439999998,restaurant,transit,-1.0,10.0
+257,Little Caesars Pizza,40.062862,-75.15187999999998,restaurant,transit,-1.0,10.0
+259,Sugafoot Cafe',40.0517414,-75.15649619999998,restaurant,transit,-1.0,3.0
+260,Domino's Pizza,40.040638200000004,-75.1438893,restaurant,transit,-1.0,11.0
+261,New Ogontz Pizza,40.0446432,-75.1498849,restaurant,transit,-1.0,6.0
+262,Happy House,40.044688,-75.1499089,restaurant,transit,-1.0,6.0
+263,Chef Donte's Delicious Dishes,40.0461198,-75.1440477,restaurant,transit,-1.0,10.0
+264,Family Spot Jamaican Restaurant,40.05595,-75.14137,restaurant,transit,-1.0,11.0
+265,Golden China,40.0450515,-75.164513,restaurant,transit,-1.0,8.0
+268,Breakfast Boutique,40.0433838,-75.1433673,restaurant,transit,-1.0,9.0
+271,Taco Bell,40.0426126,-75.14462490000003,restaurant,transit,-1.0,10.0
+273,crown fried chicken,40.0611,-75.162093,restaurant,transit,-1.0,10.0
+274,Rita's Italian Ice & Frozen Custard,40.05621399999999,-75.158939,restaurant,transit,-1.0,6.0
+278,X Mark's the Spot Bar and Grille,40.06010260000001,-75.16680459999998,restaurant,transit,-1.0,9.0
+279,Holiday Pizza,40.064157,-75.153924,restaurant,transit,-1.0,10.0
+280,St Vincents,40.04158230000001,-75.16780390000002,restaurant,transit,-1.0,9.0
+283,Oak Lane Library,40.0545894,-75.1378434,entertainment,transit,-1.0,11.0
+288,David Cohen Ogontz Library,40.0471037,-75.150752,entertainment,transit,-1.0,5.0
+292,Library,40.047413,-75.152383,entertainment,transit,-1.0,6.0
+301,Kemble Park,40.039978700000006,-75.1497952,entertainment,transit,-1.0,10.0
+303,Awbury Park,40.0523805,-75.16324870000003,entertainment,transit,-1.0,8.0
+311,Awbury Arboretum,40.0505556,-75.1680556,entertainment,transit,-1.0,11.0

@@ -1,0 +1,2155 @@
+name,lat,lng,category,mode,dist,time
+Broad and Morris,39.928034999999994,-75.16895500000003,farmers_markets,transit,-1.0,15.0
+Fitler Square Park,39.954158,-75.177823,farmers_markets,transit,-1.0,7.0
+Fairmount,39.967313,-75.17398299999998,farmers_markets,transit,-1.0,14.0
+University Square,39.953142,-75.194786,farmers_markets,transit,-1.0,11.0
+Christ Church,39.950004,-75.150071,farmers_markets,transit,-1.0,13.0
+Walnut Hill,39.958304999999996,-75.21352399999998,farmers_markets,transit,-1.0,15.0
+Rittenhouse,39.950131,-75.17066700000002,farmers_markets,transit,-1.0,4.0
+Broad and South,39.943386,-75.16529200000002,commercial,transit,-1.0,9.0
+23rd and Walnut,39.951499,-75.17868100000003,commercial,transit,-1.0,7.0
+Point Breeze Avenue,39.93547,-75.178862,commercial,transit,-1.0,14.0
+Washington Avenue West,39.939361,-75.176441,commercial,transit,-1.0,10.0
+40th Street and vicinity,39.954556,-75.202924,commercial,transit,-1.0,15.0
+30th Street,39.954473,-75.183926,commercial,transit,-1.0,8.0
+36th Street and vicinity,39.954376,-75.195549,commercial,transit,-1.0,11.0
+5th and Delancey,39.944551000000004,-75.150318,commercial,transit,-1.0,14.0
+Market West,39.951743,-75.16891600000002,commercial,transit,-1.0,3.0
+Spring Garden/9th-13th ,39.961719,-75.157705,commercial,transit,-1.0,13.0
+Broad and Girard,39.971211,-75.15900500000002,commercial,transit,-1.0,13.0
+Fairmount/19th-25th,39.967074,-75.173302,commercial,transit,-1.0,14.0
+Broad and Spring Garden,39.961929999999995,-75.16119,commercial,transit,-1.0,10.0
+Pine Street,39.944721,-75.159953,commercial,transit,-1.0,10.0
+Parkway/Logan Circle,39.955918,-75.168309,commercial,transit,-1.0,8.0
+Market East,39.950891999999996,-75.159048,commercial,transit,-1.0,8.0
+South and Grays Ferry,39.945052000000004,-75.179601,commercial,transit,-1.0,10.0
+Callowhill East,39.95892,-75.155445,commercial,transit,-1.0,12.0
+South Street/16th-21st,39.944477,-75.170825,commercial,transit,-1.0,5.0
+Broad and Washington,39.938355,-75.165492,commercial,transit,-1.0,12.0
+South Street/8th-12th,39.94265,-75.158631,commercial,transit,-1.0,12.0
+Chinatown,39.95460900000001,-75.156358,commercial,transit,-1.0,13.0
+Broad and Fairmount,39.966699,-75.16076600000002,commercial,transit,-1.0,12.0
+Callowhill West,39.960946,-75.170648,commercial,transit,-1.0,11.0
+Old City,39.950287,-75.145256,commercial,transit,-1.0,14.0
+Broad and Snyder,39.925084999999996,-75.17002099999998,commercial,transit,-1.0,15.0
+46th Street and vicinity,39.956812,-75.213909,commercial,transit,-1.0,14.0
+Broad and Morris,39.929093,-75.16827099999998,commercial,transit,-1.0,13.0
+52nd Street,39.958026000000004,-75.224926,commercial,transit,-1.0,15.0
+Spring Garden/16th-23rd,39.963912,-75.17078199999997,commercial,transit,-1.0,12.0
+YOUTHBUILD PHILADELPHIA CHARTER SCHOOL,39.9729064903214,-75.15863286979659,schools,transit,-1.0,14.0
+FOLK ARTS-CULTURAL TREASURES CHARTER SCHOOL,39.9589836872666,-75.1561225600225,schools,transit,-1.0,11.0
+ARCHITECTURE AND DESIGN CHARTER SCHOOL,39.948891999853295,-75.1522490007144,schools,transit,-1.0,11.0
+PHILADELPHIA PERFORMING ARTS CHARTER SCHOOL,39.9578909273953,-75.1663226360723,schools,transit,-1.0,10.0
+PHILADELPHIA ELECTRICAL AND TECHNOLOGY CHARTER SCHOOL,39.9506078902696,-75.1651108195508,schools,transit,-1.0,5.0
+PEOPLE FOR PEOPLE CHARTER SCHOOL,39.9681014097758,-75.16067476933041,schools,transit,-1.0,13.0
+ACADEMY AT PALUMBO,39.9401978697975,-75.1619491496587,schools,transit,-1.0,12.0
+BENJAMIN FRANKLIN HIGH SCHOOL,39.9635299998603,-75.1616399993992,schools,transit,-1.0,11.0
+GATEWAY TO COLLEGE - COMMUNITY COLLEGE OF PHILADELPHIA,39.9628357147828,-75.1666280688128,schools,transit,-1.0,12.0
+CHESTER A. ARTHUR SCHOOL,39.9418644651471,-75.17589862561759,schools,transit,-1.0,9.0
+SOUTH PHILADELPHIA HIGH SCHOOL,39.9238987005212,-75.16910650068891,schools,transit,-1.0,15.0
+JULIA R. MASTERMAN SCHOOL,39.963450899886496,-75.16573278273202,schools,transit,-1.0,12.0
+SPRING GARDEN SCHOOL,39.965161549612496,-75.1561404206783,schools,transit,-1.0,14.0
+RUSSELL BYERS CHARTER SCHOOL,39.95594921951221,-75.17155063941871,schools,transit,-1.0,8.0
+SOUTH PHILADELPHIA HIGH SCHOOL,39.9238987005212,-75.16910650068891,schools,transit,-1.0,15.0
+INDEPENDENCE CHARTER SCHOOL,39.9449388777306,-75.1690056208506,schools,transit,-1.0,5.0
+HIGH SCHOOL FOR CREATIVE AND PERFORMING ARTS SCHOOL,39.93941992019922,-75.16548375023379,schools,transit,-1.0,12.0
+ANDREW JACKSON SCHOOL,39.9346230003901,-75.1634809995532,schools,transit,-1.0,14.0
+GENERAL GEORGE A. MCCALL SCHOOL,39.944598132546794,-75.152366532041,schools,transit,-1.0,14.0
+FRANKLIN LEARNING CENTER,39.9650489996572,-75.1627529996906,schools,transit,-1.0,13.0
+PHILADELPHIA OIC WORKFORCE ACADEMY,39.972966000493,-75.15872099941821,schools,transit,-1.0,14.0
+PHILADELPHIA VIRTUAL ACADEMY,39.961021589463,-75.1626440495439,schools,transit,-1.0,12.0
+UNIVERSAL INSTITUTE CHARTER SCHOOL,39.9408997340373,-75.16769048137179,schools,transit,-1.0,9.0
+PHILADELPHIA VIRTUAL ACADEMY,39.961021589463,-75.1626440495439,schools,transit,-1.0,12.0
+GEORGE W. CHILDS SCHOOL,39.9346369997854,-75.1704930003667,schools,transit,-1.0,12.0
+FREIRE CHARTER SCHOOL,39.9514322380152,-75.1580562211964,schools,transit,-1.0,9.0
+MASTERY CHARTER SCHOOL AT LENFEST,39.94952698141171,-75.14701419190821,schools,transit,-1.0,13.0
+"MATH, CIVICS AND SCIENCES CHARTER SCHOOL",39.9611519963734,-75.1609555297349,schools,transit,-1.0,12.0
+BEN FRANKLIN HIGH SCHOOL EOP,39.9629032996421,-75.1593020014646,schools,transit,-1.0,12.0
+FREIRE CHARTER SCHOOL,39.9524728898904,-75.17442258950321,schools,transit,-1.0,6.0
+ALBERT M. GREENFIELD SCHOOL,39.9522723404091,-75.1773920597576,schools,transit,-1.0,7.0
+EDWIN M. STANTON SCHOOL,39.9405029995584,-75.17101700037891,schools,transit,-1.0,7.0
+SCIENCE LEADERSHIP ACADEMY,39.96122417056171,-75.1626167526329,schools,transit,-1.0,12.0
+SCIENCE LEADERSHIP ACADEMY MIDDLE SCHOOL,39.9559095512984,-75.19455964495859,schools,transit,-1.0,13.0
+LAURA W. WARING SCHOOL,39.9649193905508,-75.1677006005967,schools,transit,-1.0,15.0
+PARKWAY CENTER CITY MIDDLE COLLEGE HIGH SCHOOL,39.9630050104016,-75.1592864998634,schools,transit,-1.0,12.0
+CONSTITUTION HIGH SCHOOL,39.9502520000276,-75.15233599995742,schools,transit,-1.0,11.0
+4th Street Behavioral Healthcare,39.948104,-75.147747,medical,transit,-1.0,12.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+Snyder Avenue Dental Center,39.924883,-75.173854,medical,transit,-1.0,14.0
+Fairmount Primary Care Center at Horizon House,39.952657,-75.18388900000002,medical,transit,-1.0,7.0
+Health Center 5,39.954491,-75.173035,medical,transit,-1.0,7.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+Fairmount Primary Care Center,39.96743,-75.18008499999998,medical,transit,-1.0,15.0
+Good Shepherd Penn Partners,39.944911,-75.172638,medical,transit,-1.0,6.0
+Meade Family Health Center,39.958852,-75.16878100000002,medical,transit,-1.0,8.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+Mary Howard Health Center,39.948852,-75.155392,medical,transit,-1.0,11.0
+Hospital of the University of Pennsylvania,39.949948,-75.194096,medical,transit,-1.0,13.0
+11th Street Family Health Services,39.957067,-75.157156,medical,transit,-1.0,13.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+Penn Presbyterian Medical Center,39.958495,-75.199329,medical,transit,-1.0,15.0
+Magee Rehabilitation Hospital ,39.956806,-75.165397,medical,transit,-1.0,9.0
+Wills Eye Hospital,39.94802,-75.155019,medical,transit,-1.0,10.0
+Pennsylvania Hospital,39.945308,-75.15567,medical,transit,-1.0,12.0
+Thomas Jefferson University Hospital,39.949348,-75.158015,medical,transit,-1.0,8.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+4th Street Behavioral Healthcare,39.948104,-75.147747,medical,transit,-1.0,12.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,transit,-1.0,7.0
+Charles H Chew Sr Playground,39.938235999999996,-75.174033,recreation,transit,-1.0,9.0
+Philadelphia Museum of Art,39.967935,-75.176073,recreation,transit,-1.0,14.0
+Eakins Oval,39.961332,-75.174226,recreation,transit,-1.0,12.0
+Julian Abele Park,39.940836,-75.179303,recreation,transit,-1.0,12.0
+Ralph Brooks Park,39.931445000000004,-75.177734,recreation,transit,-1.0,14.0
+John F Kennedy Plaza (LOVE Park),39.953457,-75.165063,recreation,transit,-1.0,6.0
+Roberto Clemente Playground,39.965643,-75.168109,recreation,transit,-1.0,15.0
+Matthias Baldwin Park,39.96102,-75.16975699999998,recreation,transit,-1.0,11.0
+22nd and Catharine Park,39.942277000000004,-75.179381,recreation,transit,-1.0,12.0
+Coxe Park,39.956702,-75.175521,recreation,transit,-1.0,9.0
+River Field,39.962136,-75.179553,recreation,transit,-1.0,15.0
+Levy Park,39.955031,-75.166774,recreation,transit,-1.0,6.0
+18th and Jackson War Memorial,39.9244,-75.176295,recreation,transit,-1.0,15.0
+17th and Carpenter Play Lot,39.939968,-75.1715,recreation,transit,-1.0,8.0
+South Philadelphia High School Park,39.924044,-75.169527,recreation,transit,-1.0,15.0
+Washington Square,39.947008000000004,-75.15229000000002,recreation,transit,-1.0,12.0
+Fitler Square,39.947596999999995,-75.179774,recreation,transit,-1.0,9.0
+Charles Seger Park,39.943705,-75.158684,recreation,transit,-1.0,12.0
+10th and Lemon Playground,39.963531,-75.15490799999998,recreation,transit,-1.0,14.0
+Hawthorne Park,39.940667,-75.162817,recreation,transit,-1.0,12.0
+Sister Cities Park,39.958033,-75.170005,recreation,transit,-1.0,9.0
+Starr Garden Playground,39.942888,-75.152214,recreation,transit,-1.0,15.0
+Torun Triangle,39.956762,-75.168436,recreation,transit,-1.0,9.0
+Binswanger Triangle,39.960951,-75.175208,recreation,transit,-1.0,11.0
+William H (Billy) Markward Memorial Playground,39.947556,-75.18395799999998,recreation,transit,-1.0,12.0
+William H (Billy) Markward Memorial Playground,39.947556,-75.18395799999998,recreation,transit,-1.0,12.0
+Cianfrani Park,39.940682,-75.15537900000002,recreation,transit,-1.0,15.0
+Philadelphia Museum of Art,39.967935,-75.176073,recreation,transit,-1.0,14.0
+Ben-Gurion Place,39.951605,-75.148538,recreation,transit,-1.0,13.0
+Commerce Street Walk,39.951169,-75.146651,recreation,transit,-1.0,14.0
+Waverly Street Community Garden,39.944711,-75.161022,recreation,transit,-1.0,9.0
+Sartain Garden,39.947835999999995,-75.16033,recreation,transit,-1.0,7.0
+South Street Community Garden,39.94271,-75.156719,recreation,transit,-1.0,12.0
+Von Colln Field,39.96353,-75.175318,recreation,transit,-1.0,13.0
+Rail Park,39.959922999999996,-75.15885,recreation,transit,-1.0,13.0
+Barnes Foundation Museum,39.960027000000004,-75.172471,recreation,transit,-1.0,10.0
+Wharton Square,39.93554,-75.183235,recreation,transit,-1.0,15.0
+Basilica Green,39.957128999999995,-75.168461,recreation,transit,-1.0,9.0
+Walter Palumbo Recreation Center,39.941338,-75.158149,recreation,transit,-1.0,14.0
+Reliance Triangle,39.967196,-75.178937,recreation,transit,-1.0,15.0
+Galusha Pennypacker Park,39.95825,-75.16935699999998,recreation,transit,-1.0,8.0
+Shakespeare Park,39.959039000000004,-75.17095400000002,recreation,transit,-1.0,9.0
+Aviator Park,39.957903,-75.171749,recreation,transit,-1.0,9.0
+Sister Cities Park,39.958033,-75.170005,recreation,transit,-1.0,9.0
+Cret Park,39.955531,-75.166714,recreation,transit,-1.0,7.0
+Rittenhouse Square,39.949464,-75.17189300000003,recreation,transit,-1.0,4.0
+Franklin Square,39.955697,-75.150369,recreation,transit,-1.0,15.0
+Giuseppe Bardascino Park,39.93785,-75.159948,recreation,transit,-1.0,15.0
+OConnor Pool,39.946034999999995,-75.183489,recreation,transit,-1.0,12.0
+Delancey Park,39.944179999999996,-75.147708,recreation,transit,-1.0,15.0
+Rodin Museum,39.961465000000004,-75.174588,recreation,transit,-1.0,11.0
+Clarence H Clark Park,39.948919000000004,-75.21001700000002,recreation,transit,-1.0,15.0
+William H (Billy) Markward Memorial Playground,39.947556,-75.18395799999998,recreation,transit,-1.0,12.0
+Vine Street Park (95),39.957053,-75.157503,recreation,transit,-1.0,13.0
+Vine Street Park (95),39.957053,-75.157503,recreation,transit,-1.0,13.0
+Philadelphia History Museum at the Atwater Kent,39.950348,-75.151955,recreation,transit,-1.0,11.0
+Vine Street Park (95),39.957053,-75.157503,recreation,transit,-1.0,13.0
+Park Towne,39.961314,-75.17576600000002,recreation,transit,-1.0,11.0
+Columbus Square,39.933155,-75.164775,recreation,transit,-1.0,15.0
+Ridgway Park,39.939306,-75.164553,recreation,transit,-1.0,12.0
+June 5th Memorial Park ,39.953688,-75.176597,recreation,transit,-1.0,6.0
+Marian Anderson Recreation Center,39.941776000000004,-75.17099499999998,recreation,transit,-1.0,7.0
+Hawthorne Cultural Center,39.93843,-75.163478,recreation,transit,-1.0,13.0
+A Giuseppe DiSilvestro Playground,39.929072,-75.169597,recreation,transit,-1.0,14.0
+Louis I Kahn Park,39.945168,-75.160035,recreation,transit,-1.0,10.0
+Christ Church Park,39.950874,-75.143074,recreation,transit,-1.0,14.0
+ALDI,39.96596789999999,-75.159565,supermarket,transit,-1.0,14.0
+Rowhouse Grocery,39.9264115,-75.17470589999998,supermarket,transit,-1.0,13.0
+Family Dollar,39.9706831,-75.1601151,supermarket,transit,-1.0,14.0
+Point Save Super Market,39.9363079,-75.17757499999998,supermarket,transit,-1.0,12.0
+Food & Friends,39.9482565,-75.17419699999998,supermarket,transit,-1.0,6.0
+Hung Vuong Supermarket,39.93654730000001,-75.16271970000003,supermarket,transit,-1.0,15.0
+Klein's Supermarket,39.96700209999999,-75.17765729999998,supermarket,transit,-1.0,15.0
+South Square Market,39.94558299999999,-75.179406,supermarket,transit,-1.0,9.0
+Whole Foods Market,39.962951200000006,-75.1742385,supermarket,transit,-1.0,12.0
+Trader Joe's,39.9541809,-75.17597020000002,supermarket,transit,-1.0,6.0
+ALDI,39.9592785,-75.2130031,supermarket,transit,-1.0,15.0
+Rittenhouse Market,39.9478562,-75.1709777,supermarket,transit,-1.0,3.0
+Family Dollar,39.93814229999999,-75.17191199999998,supermarket,transit,-1.0,9.0
+Grocery,39.9504544,-75.16166120000003,supermarket,transit,-1.0,7.0
+Whole Foods Market,39.9428511,-75.1577303,supermarket,transit,-1.0,12.0
+Supremo Shop n Bag,39.9551931,-75.2091679,supermarket,transit,-1.0,15.0
+Olde City Food Market,39.9497429,-75.1440556,supermarket,transit,-1.0,13.0
+Park Town place,39.9607377,-75.1770465,supermarket,transit,-1.0,12.0
+Family Dollar,39.9348157,-75.178934,supermarket,transit,-1.0,14.0
+Target Grocery,39.951674800000006,-75.17225400000002,supermarket,transit,-1.0,5.0
+Spruce Market,39.9474662,-75.16744729999998,supermarket,transit,-1.0,4.0
+7-Eleven,39.9547354,-75.168516,supermarket,transit,-1.0,7.0
+Heng Fa food market,39.9543959,-75.15620369999998,supermarket,transit,-1.0,13.0
+Target Grocery,39.9499352,-75.1599648,supermarket,transit,-1.0,7.0
+Trader Joe's,39.9541911,-75.16243349999998,supermarket,transit,-1.0,8.0
+Sprouts Farmers Market,39.9391344,-75.16810749999998,supermarket,transit,-1.0,10.0
+Trebol Supermarket,39.9620554,-75.15744720000002,supermarket,transit,-1.0,13.0
+Lucky Strike Philadelphia,39.9503667,-75.16324200000003,restaurant,transit,-1.0,7.0
+New Deck Tavern,39.95348170000001,-75.19261230000002,restaurant,transit,-1.0,11.0
+The Sidecar Bar & Grille,39.94182199999999,-75.17949300000002,restaurant,transit,-1.0,12.0
+Monk's Cafe,39.947701,-75.16812399999998,restaurant,transit,-1.0,4.0
+Fox & Hound,39.94731,-75.16655999999998,restaurant,transit,-1.0,5.0
+Davio's Northern Italian Steakhouse,39.951001,-75.16874,restaurant,transit,-1.0,3.0
+Landmark Americana University City,39.9559266,-75.19059,restaurant,transit,-1.0,11.0
+The Continental Mid-town,39.951903,-75.170445,restaurant,transit,-1.0,4.0
+The Capital Grille,39.9507554,-75.1637453,restaurant,transit,-1.0,6.0
+Sumo Sushi,39.94518389999999,-75.1628028,restaurant,transit,-1.0,9.0
+Helium Comedy Club - Philadelphia,39.9515214,-75.17473199999998,restaurant,transit,-1.0,5.0
+The Dandelion,39.9510075,-75.1707493,restaurant,transit,-1.0,5.0
+QDOBA Mexican Eats,39.9531869,-75.2029737,restaurant,transit,-1.0,15.0
+Howl at the Moon Philadelphia,39.94768699999999,-75.1665446,restaurant,transit,-1.0,5.0
+Creperie Beau Monde & L'Etage,39.94127069999999,-75.152648,restaurant,transit,-1.0,15.0
+Cameron's Seafood,39.9707094,-75.1601089,restaurant,transit,-1.0,14.0
+World Cafe Live Philadelphia,39.9520673,-75.18517259999999,restaurant,transit,-1.0,7.0
+The Continental Restaurant and Martini Bar,39.94967860000001,-75.14355959999997,restaurant,transit,-1.0,13.0
+McCrossen's Tavern,39.9630934,-75.17092729999997,restaurant,transit,-1.0,11.0
+St. Stephen's Green,39.96455050000001,-75.1660753,restaurant,transit,-1.0,14.0
+Cavanaugh's Restaurant & Sports Bar,39.9545211,-75.19999809999999,restaurant,transit,-1.0,14.0
+JG Domestic,39.9571241,-75.1821484,restaurant,transit,-1.0,10.0
+Hummus Grill,39.954356,-75.202162,restaurant,transit,-1.0,14.0
+Starbucks,39.95302609999999,-75.19223149999998,restaurant,transit,-1.0,10.0
+Dunkin',39.96252570000001,-75.1636833,restaurant,transit,-1.0,12.0
+Boot & Saddle,39.93685599999999,-75.1667638,restaurant,transit,-1.0,11.0
+Ralph's Italian Restaurant,39.9400584,-75.1578321,restaurant,transit,-1.0,15.0
+Vedge,39.9478911,-75.16138889999998,restaurant,transit,-1.0,7.0
+Greek Lady,39.95336010000001,-75.20295759999998,restaurant,transit,-1.0,15.0
+Fork,39.9500919,-75.14602370000001,restaurant,transit,-1.0,15.0
+Barbuzzo,39.95000699999999,-75.16215770000002,restaurant,transit,-1.0,7.0
+Pagano's Pizzeria,39.9516506,-75.15267829999998,restaurant,transit,-1.0,10.0
+White Dog Cafe,39.9535582,-75.1929054,restaurant,transit,-1.0,11.0
+Little Pete's,39.967080300000006,-75.17748259999998,restaurant,transit,-1.0,15.0
+City View Pizza and Grill,39.963068,-75.16444299999998,restaurant,transit,-1.0,11.0
+City Tap House Logan Square,39.9559106,-75.169578,restaurant,transit,-1.0,8.0
+Parc,39.94912219999999,-75.170749,restaurant,transit,-1.0,3.0
+Jones,39.9492661,-75.15248849999998,restaurant,transit,-1.0,11.0
+12th & Filbert,39.9531992,-75.160217,restaurant,transit,-1.0,10.0
+Cuba Libre Restaurant & Rum Bar - Philadelphia,39.9496092,-75.14393759999999,restaurant,transit,-1.0,13.0
+Yakitori Boy,39.9559412,-75.1572626,restaurant,transit,-1.0,13.0
+Umai Umai,39.964673,-75.17412999999998,restaurant,transit,-1.0,13.0
+King of Tandoor,39.9603572,-75.1692901,restaurant,transit,-1.0,10.0
+Talula's Garden,39.9472602,-75.15353470000002,restaurant,transit,-1.0,11.0
+Devil's Den,39.93574419999999,-75.16199509999998,restaurant,transit,-1.0,15.0
+Village Whiskey,39.9513999,-75.17377379999998,restaurant,transit,-1.0,5.0
+Pagano's Market and Bar,39.95396799999999,-75.17356099999998,restaurant,transit,-1.0,7.0
+Tsuki Sushi - Authentic Japanese Restaurant in Philadelphia，PA,39.9510933,-75.177133,restaurant,transit,-1.0,5.0
+Devon Seafood Grill,39.9494863,-75.17063409999999,restaurant,transit,-1.0,3.0
+Jim's South St. (Jim's Steaks South Street),39.9415536,-75.14931340000003,restaurant,transit,-1.0,15.0
+Sabrina's Cafe & Spencer's Too,39.960273,-75.16870639999998,restaurant,transit,-1.0,10.0
+Circles Thai,39.93069920000001,-75.170757,restaurant,transit,-1.0,13.0
+Panda Express,39.95470299999999,-75.16849619999998,restaurant,transit,-1.0,7.0
+Morning Glory Diner,39.9408402,-75.15887029999998,restaurant,transit,-1.0,14.0
+Han Dynasty,39.956727,-75.19710400000002,restaurant,transit,-1.0,15.0
+Fogo de Chão Brazilian Steakhouse,39.95091659999999,-75.1629711,restaurant,transit,-1.0,7.0
+Tir na nOg Irish Bar & Grill,39.95437099999999,-75.16672709999997,restaurant,transit,-1.0,6.0
+Sitar India,39.9555123,-75.19858,restaurant,transit,-1.0,14.0
+The Bourse,39.94981020000001,-75.1475438,restaurant,transit,-1.0,13.0
+Buddakan,39.9490386,-75.1471998,restaurant,transit,-1.0,13.0
+Zahav,39.9462581,-75.1453259,restaurant,transit,-1.0,15.0
+Osteria,39.965029,-75.16105600000002,restaurant,transit,-1.0,13.0
+Pizzeria Vetri,39.96089170000001,-75.17121390000001,restaurant,transit,-1.0,11.0
+City Tap House University City,39.95422979999999,-75.20148689999998,restaurant,transit,-1.0,14.0
+South Philadelphia Tap Room,39.927216,-75.171477,restaurant,transit,-1.0,15.0
+Sofitel Philadelphia at Rittenhouse Square,39.9507723,-75.1690167,restaurant,transit,-1.0,4.0
+New Delhi Indian Restaurant,39.95539210000001,-75.2026195,restaurant,transit,-1.0,14.0
+Boston Market,39.9556727,-75.20026170000001,restaurant,transit,-1.0,15.0
+Chipotle Mexican Grill,39.954101,-75.200795,restaurant,transit,-1.0,14.0
+McGillin's Olde Ale House,39.9501768,-75.1626101,restaurant,transit,-1.0,7.0
+Shake Shack,39.9511265,-75.1738353,restaurant,transit,-1.0,5.0
+Max Brenner - Philadelphia,39.94903329999999,-75.1662583,restaurant,transit,-1.0,5.0
+VALANNI,39.94685,-75.162217,restaurant,transit,-1.0,8.0
+Butcher and Singer,39.9489949,-75.1663033,restaurant,transit,-1.0,5.0
+El Vez,39.94970199999999,-75.1617703,restaurant,transit,-1.0,7.0
+Rose Tattoo Cafe,39.960758,-75.1698569,restaurant,transit,-1.0,10.0
+Urban Saloon,39.9671692,-75.17291519999998,restaurant,transit,-1.0,14.0
+Jack's Firehouse,39.9670667,-75.1733,restaurant,transit,-1.0,14.0
+Cafe Lift,39.96044699999999,-75.15981,restaurant,transit,-1.0,13.0
+Chima Steakhouse,39.95476499999999,-75.17267109999997,restaurant,transit,-1.0,6.0
+HipCityVeg,39.9507609,-75.17039759999999,restaurant,transit,-1.0,4.0
+Chick-fil-A,39.9589223,-75.19066389999998,restaurant,transit,-1.0,15.0
+Zorba's Tavern,39.96715800000001,-75.17491600000002,restaurant,transit,-1.0,14.0
+Vetri Cucina,39.94672429999999,-75.1631704,restaurant,transit,-1.0,8.0
+Pod,39.9539708,-75.19603699999998,restaurant,transit,-1.0,12.0
+Vernick Food & Drink,39.9508618,-75.1748874,restaurant,transit,-1.0,4.0
+Blarney Stone,39.9547693,-75.20101559999998,restaurant,transit,-1.0,14.0
+Prohibition Taproom,39.961304,-75.15930999999998,restaurant,transit,-1.0,12.0
+Miss Rachel's Pantry,39.92651499999999,-75.17377599999998,restaurant,transit,-1.0,13.0
+Green Eggs Cafe,39.931393,-75.166487,restaurant,transit,-1.0,15.0
+Distrito,39.9558695,-75.20191290000002,restaurant,transit,-1.0,14.0
+KFC,39.9717188,-75.1598948,restaurant,transit,-1.0,13.0
+Fare,39.967072,-75.17128100000002,restaurant,transit,-1.0,14.0
+Time,39.95003699999999,-75.16251290000002,restaurant,transit,-1.0,7.0
+The Restaurant School at Walnut Hill College,39.9549347,-75.20741140000001,restaurant,transit,-1.0,15.0
+Giovani Pizza,39.9515761,-75.1556396,restaurant,transit,-1.0,11.0
+Morimoto,39.9496528,-75.153275,restaurant,transit,-1.0,10.0
+Ruth's Chris Steak House,39.95295649999999,-75.1702986,restaurant,transit,-1.0,4.0
+Pyramid Club,39.95336,-75.16972870000002,restaurant,transit,-1.0,5.0
+Amada,39.948655,-75.14489300000002,restaurant,transit,-1.0,15.0
+Mill Creek Tavern,39.9482447,-75.20729240000001,restaurant,transit,-1.0,15.0
+Tinto,39.95151060000001,-75.1737407,restaurant,transit,-1.0,5.0
+Shake Shack,39.9534403,-75.1883722,restaurant,transit,-1.0,10.0
+The Rittenhouse Hotel,39.949831,-75.1732573,restaurant,transit,-1.0,4.0
+Kansai,39.963185,-75.16932709999998,restaurant,transit,-1.0,13.0
+Au Bon Pain,39.95394769999999,-75.1747192,restaurant,transit,-1.0,7.0
+Good Dog Bar,39.94875880000001,-75.1662235,restaurant,transit,-1.0,5.0
+Tequilas Restaurant / Bar,39.94848700000001,-75.16805099999998,restaurant,transit,-1.0,3.0
+Dunkin',39.9531857,-75.193533,restaurant,transit,-1.0,11.0
+Tria Cafe Wash West,39.9466238,-75.16091390000003,restaurant,transit,-1.0,8.0
+Hard Rock Cafe,39.9521211,-75.15962270000001,restaurant,transit,-1.0,9.0
+R2L Restaurant,39.9518068,-75.1672031,restaurant,transit,-1.0,4.0
+Devil's Alley Bar & Grill,39.952118,-75.17221599999998,restaurant,transit,-1.0,5.0
+Drinker's Pub,39.9521057,-75.17207259999998,restaurant,transit,-1.0,5.0
+Oriental Chinese Restaurant,39.9279936,-75.1692692,restaurant,transit,-1.0,15.0
+Starbucks,39.954724,-75.16668899999998,restaurant,transit,-1.0,6.0
+Café y Chocolate,39.924584,-75.1726758,restaurant,transit,-1.0,15.0
+Bistrot La Minette,39.941312,-75.15229599999998,restaurant,transit,-1.0,14.0
+Baby Blues BBQ Philly,39.95348900000001,-75.192441,restaurant,transit,-1.0,11.0
+Bonchon Philadelphia,39.95450199999999,-75.15699000000002,restaurant,transit,-1.0,13.0
+The Black Sheep Pub & Restaurant,39.9484223,-75.1692901,restaurant,transit,-1.0,2.0
+PrimoHoagies,39.95236269999999,-75.1750177,restaurant,transit,-1.0,6.0
+FARMiCiA,39.9497062,-75.145652,restaurant,transit,-1.0,15.0
+Mama's Vegetarian,39.9526891,-75.17347939999998,restaurant,transit,-1.0,6.0
+Pattaya Thai Cuisine,39.9555484,-75.2026616,restaurant,transit,-1.0,14.0
+Honey's Sit 'N Eat,39.94519469999999,-75.1770879,restaurant,transit,-1.0,9.0
+Fado Irish Pub,39.9483519,-75.16634470000002,restaurant,transit,-1.0,4.0
+Hawthornes,39.94102309999999,-75.16085609999998,restaurant,transit,-1.0,12.0
+Entree BYOB,39.944008,-75.169139,restaurant,transit,-1.0,6.0
+Positano Coast by Aldo Lamberti,39.9466667,-75.14472219999998,restaurant,transit,-1.0,15.0
+Panorama,39.95016470000001,-75.1421903,restaurant,transit,-1.0,14.0
+Ekta Indian Cuisine,39.9551123,-75.20248609999999,restaurant,transit,-1.0,15.0
+Pub & Kitchen,39.94565040000001,-75.1747723,restaurant,transit,-1.0,6.0
+Green Eggs Café,39.9482356,-75.16242129999998,restaurant,transit,-1.0,7.0
+Checkers,39.97194649999999,-75.1597573,restaurant,transit,-1.0,14.0
+Campo's Philly Cheesesteaks,39.9498303,-75.14426379999998,restaurant,transit,-1.0,13.0
+Sazon Restaurant & Cafe,39.961849,-75.154375,restaurant,transit,-1.0,13.0
+El Rey,39.9522506,-75.17402890000002,restaurant,transit,-1.0,6.0
+Field House,39.95283149999999,-75.15896740000002,restaurant,transit,-1.0,10.0
+Bleu Martini,39.9493489,-75.14398249999998,restaurant,transit,-1.0,13.0
+Vietnam Restaurant,39.9563241,-75.157202,restaurant,transit,-1.0,13.0
+Wawa,39.9510359,-75.19900159999997,restaurant,transit,-1.0,14.0
+Audrey Claire,39.94828370000001,-75.17455199999998,restaurant,transit,-1.0,6.0
+Nam Phuong Restaurant,39.93652279999999,-75.16182309999998,restaurant,transit,-1.0,15.0
+Sampan,39.9495449,-75.1622095,restaurant,transit,-1.0,7.0
+The Plough & the Stars,39.9486869,-75.1439231,restaurant,transit,-1.0,14.0
+Alma de Cuba,39.95007830000001,-75.1685167,restaurant,transit,-1.0,4.0
+Smokey Joe's,39.953808,-75.202958,restaurant,transit,-1.0,14.0
+Erawan Thai Cuisine,39.951795,-75.17819490000002,restaurant,transit,-1.0,7.0
+Marrakesh,39.9421039,-75.1495139,restaurant,transit,-1.0,15.0
+Tria Cafe Rittenhouse,39.95094810000001,-75.1704175,restaurant,transit,-1.0,4.0
+Smiths Restaurant & Bar,39.9522612,-75.17173939999998,restaurant,transit,-1.0,6.0
+Savas Brick Oven Pizza,39.958284,-75.19270300000002,restaurant,transit,-1.0,14.0
+Subway,39.9513298,-75.17767719999998,restaurant,transit,-1.0,6.0
+Jimmy John's,39.947789,-75.193297,restaurant,transit,-1.0,14.0
+XIX (Nineteen) Restaurant,39.9490956,-75.16476759999998,restaurant,transit,-1.0,6.0
+Ed's Buffalo Wings & Pizza,39.95832899999999,-75.192871,restaurant,transit,-1.0,14.0
+Fat Tuesday,39.94187529999999,-75.15025130000002,restaurant,transit,-1.0,15.0
+Abner's Cheesesteaks,39.955366700000006,-75.1988361,restaurant,transit,-1.0,14.0
+La Famiglia Ristorante,39.9493909,-75.1423166,restaurant,transit,-1.0,14.0
+Sang Kee Peking Duck House,39.9564399,-75.1542511,restaurant,transit,-1.0,15.0
+Starbucks,39.96090900000001,-75.171453,restaurant,transit,-1.0,10.0
+La Calaca Feliz,39.9675162,-75.1760731,restaurant,transit,-1.0,14.0
+Kite & Key,39.960356,-75.169675,restaurant,transit,-1.0,10.0
+Tattooed Mom,39.9418757,-75.1518313,restaurant,transit,-1.0,14.0
+Spasso Italian Grill,39.948706,-75.142687,restaurant,transit,-1.0,15.0
+Nan Zhou Hand Drawn Noodle House,39.95520120000001,-75.1568535,restaurant,transit,-1.0,13.0
+Smokin' Betty's,39.9495556,-75.1589694,restaurant,transit,-1.0,8.0
+Barclay Prime,39.9484864,-75.1707607,restaurant,transit,-1.0,3.0
+Pietro's Italian,39.9499611,-75.17002219999998,restaurant,transit,-1.0,4.0
+Ishkabibble's,39.9416636,-75.14879789999998,restaurant,transit,-1.0,15.0
+Shula's Steak House,39.956841,-75.16759700000001,restaurant,transit,-1.0,9.0
+OCF Coffee House,39.967147,-75.172299,restaurant,transit,-1.0,14.0
+Mixto Restaurante,39.945192,-75.16105999999998,restaurant,transit,-1.0,9.0
+Dutch Eating Place,39.9537339,-75.15909409999998,restaurant,transit,-1.0,11.0
+Di Bruno Bros.,39.9513713,-75.1700434,restaurant,transit,-1.0,4.0
+Moriarty's Restaurant,39.94868579999999,-75.15981640000003,restaurant,transit,-1.0,7.0
+Papa John's Pizza,39.9551984,-75.2025639,restaurant,transit,-1.0,15.0
+Friday Saturday Sunday,39.94893560000001,-75.17597590000003,restaurant,transit,-1.0,6.0
+Marathon Grill,39.9529865,-75.1712941,restaurant,transit,-1.0,5.0
+Coventry Deli,39.953289,-75.17364479999998,restaurant,transit,-1.0,7.0
+Wawa,39.9623542,-75.1730244,restaurant,transit,-1.0,12.0
+West Tavern,39.959686,-75.16360399999998,restaurant,transit,-1.0,10.0
+Oyster House,39.9503308,-75.1666036,restaurant,transit,-1.0,5.0
+Mercato BYOB,39.9465,-75.161765,restaurant,transit,-1.0,8.0
+Day by Day,39.95164060000001,-75.17568159999998,restaurant,transit,-1.0,5.0
+Twenty Manning Grill,39.948613,-75.17403399999998,restaurant,transit,-1.0,5.0
+Rotten Ralph's,39.9484837,-75.1441287,restaurant,transit,-1.0,15.0
+Good Day Eatery & Specialty Sandwiches,39.95363270000001,-75.1695319,restaurant,transit,-1.0,5.0
+Drinker's Tavern,39.9496657,-75.143277,restaurant,transit,-1.0,13.0
+Domino's Pizza,39.96224779999999,-75.1729739,restaurant,transit,-1.0,12.0
+Dante & Luigi's,39.94006419999999,-75.1594444,restaurant,transit,-1.0,14.0
+Doma Japanese Restaurant,39.96036400000001,-75.1692333,restaurant,transit,-1.0,10.0
+Pete's Famous Pizza,39.9563495,-75.17474190000001,restaurant,transit,-1.0,9.0
+Asia on the Parkway,39.95585199999999,-75.16828799999998,restaurant,transit,-1.0,8.0
+Estia Restaurant,39.948459,-75.16525519999998,restaurant,transit,-1.0,6.0
+Luigi's Pizza Fresca,39.9675657,-75.17710670000002,restaurant,transit,-1.0,15.0
+Lisa M Reisman & Cie Ltd,39.94917810000001,-75.14269490000002,entertainment,transit,-1.0,14.0
+Locks Gallery,39.945925,-75.151673,entertainment,transit,-1.0,13.0
+Scott Memorial Library at Thomas Jefferson University,39.948341000000006,-75.15825699999998,entertainment,transit,-1.0,8.0
+Veterinary School Library,39.9499783,-75.20008929999999,entertainment,transit,-1.0,15.0
+FrameWorks Studio & Gallery,39.95091199999999,-75.175961,entertainment,transit,-1.0,4.0
+Foundation For Self Taught,39.95264960000001,-75.1690393,entertainment,transit,-1.0,4.0
+Talismanik,39.94477930000001,-75.1801309,entertainment,transit,-1.0,10.0
+Historical Society of Pennsylvania,39.94778699999999,-75.16273199999998,entertainment,transit,-1.0,6.0
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,transit,-1.0,9.0
+Cardell Dance Studio,39.9668771,-75.1656459,entertainment,transit,-1.0,14.0
+Mary Nomecos,39.94667099999999,-75.183089,entertainment,transit,-1.0,11.0
+US Attorney,39.946191,-75.121865,entertainment,transit,-1.0,15.0
+Art Around Gallery,39.952296200000006,-75.1739587,entertainment,transit,-1.0,6.0
+Eyes Gallery,39.941576,-75.149363,entertainment,transit,-1.0,15.0
+"Vincent R. McGuinness, Jr.",39.95265879999999,-75.1682021,entertainment,transit,-1.0,5.0
+Central Childrens Department,39.959549,-75.17158719999998,entertainment,transit,-1.0,9.0
+American Philosophical Society Library,39.94837620000001,-75.1489423,entertainment,transit,-1.0,11.0
+Jenkins Law Library,39.9536091,-75.17012079999998,entertainment,transit,-1.0,5.0
+Fotto Star Gallery,39.95163270000001,-75.15574509999998,entertainment,transit,-1.0,11.0
+David David Gallery,39.9480512,-75.17126400000002,entertainment,transit,-1.0,3.0
+Esther Klein Gallery,39.95580560000001,-75.19458409999999,entertainment,transit,-1.0,13.0
+Art Studio: Melanie Miller,39.94686979999999,-75.1671697,entertainment,transit,-1.0,5.0
+Art & The Ageless Gardens,39.9463513,-75.181901,entertainment,transit,-1.0,10.0
+Art Space Collaborative,39.9482359,-75.1708166,entertainment,transit,-1.0,3.0
+"DAVID ROCCO GALLERY, LLC",39.9475922,-75.15852799999998,entertainment,transit,-1.0,8.0
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,transit,-1.0,9.0
+Demography Library,39.952081,-75.19804719999998,entertainment,transit,-1.0,14.0
+Music Library and Ormandy Center,39.952593,-75.1935678,entertainment,transit,-1.0,11.0
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,transit,-1.0,9.0
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,transit,-1.0,9.0
+Heavy Bubble HQ,39.9388907,-75.16379529999998,entertainment,transit,-1.0,13.0
+Works On Paper,39.949915,-75.1680362,entertainment,transit,-1.0,4.0
+Collectible Art Gallery,39.9521124,-75.17526600000002,entertainment,transit,-1.0,6.0
+New Image Art & Frame,39.95225749999999,-75.17330489999998,entertainment,transit,-1.0,6.0
+Vintage Photography,39.95230079999999,-75.17043009999998,entertainment,transit,-1.0,5.0
+Gross Mc Cleaf Gallery,39.9502352,-75.16722399999998,entertainment,transit,-1.0,5.0
+Institute of Contemporary Art,39.95406870000001,-75.1947096,entertainment,transit,-1.0,10.0
+Twenty-Two Gallery,39.949442,-75.17788900000002,entertainment,transit,-1.0,7.0
+Nancy Moses Planning & Development,39.94654320000001,-75.150932,entertainment,transit,-1.0,12.0
+Pageant: Soloveev,39.9413221,-75.1527823,entertainment,transit,-1.0,15.0
+Community College - Phil Library,39.9623095,-75.1655602,entertainment,transit,-1.0,11.0
+Nursing History Center,39.94906059999999,-75.1959494,entertainment,transit,-1.0,15.0
+Medical Library,39.9455612,-75.1555765,entertainment,transit,-1.0,11.0
+NAPOLEON,39.958302,-75.156601,entertainment,transit,-1.0,11.0
+American Philosophical Society,39.9486222,-75.1494434,entertainment,transit,-1.0,11.0
+Rare Book & Manuscript Library,39.9526438,-75.1936932,entertainment,transit,-1.0,12.0
+SPB Library,39.9291832,-75.1692882,entertainment,transit,-1.0,14.0
+National Federation-Abstrctng,39.949423900000006,-75.16690320000002,entertainment,transit,-1.0,5.0
+Perelman Building,39.967594,-75.17939100000002,entertainment,transit,-1.0,15.0
+Reader Development,39.95960549999999,-75.17102360000001,entertainment,transit,-1.0,9.0
+The University of the Arts,39.9458813,-75.16526640000002,entertainment,transit,-1.0,7.0
+National Railway Historic Society,39.95591,-75.17308969999998,entertainment,transit,-1.0,8.0
+Philadelphia Historical Library,39.9547062,-75.16361850000001,entertainment,transit,-1.0,8.0
+Newspaper and Microfilm Department,39.95947570000001,-75.1714782,entertainment,transit,-1.0,9.0
+Field Teen Center,39.95983629999999,-75.1714415,entertainment,transit,-1.0,10.0
+Reader Development,39.95960549999999,-75.17102360000001,entertainment,transit,-1.0,9.0
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,transit,-1.0,9.0
+Drexel University Hahnemann Library,39.95715209999999,-75.163426,entertainment,transit,-1.0,10.0
+Magee Rehab Hospital Learning Library,39.95677050000001,-75.165439,entertainment,transit,-1.0,9.0
+Artjaz Gallery,39.95178380000001,-75.1435341,entertainment,transit,-1.0,15.0
+Collectible Art & Frames,39.9521823,-75.17523659999998,entertainment,transit,-1.0,6.0
+Medical Library,39.9455612,-75.1555765,entertainment,transit,-1.0,11.0
+Reader Development,39.95960549999999,-75.17102360000001,entertainment,transit,-1.0,9.0
+Philadelphia's Magic Gardens,39.9427128,-75.1593122,entertainment,transit,-1.0,12.0
+Otto E. Albrecht Music Library,39.95264079999999,-75.19357590000001,entertainment,transit,-1.0,11.0
+Presbyterian Historical Society,39.94311219999999,-75.1499077,entertainment,transit,-1.0,15.0
+Aids Library,39.9479863,-75.16188009999998,entertainment,transit,-1.0,7.0
+Independence Historical Library,39.9473026,-75.14617790000001,entertainment,transit,-1.0,13.0
+The Galleries At Moore,39.9572925,-75.172217,entertainment,transit,-1.0,8.0
+WOA Gallery,39.94858600000001,-75.14448490000002,entertainment,transit,-1.0,15.0
+Justin Images Photography Gallery,39.95232180000001,-75.17330279999999,entertainment,transit,-1.0,6.0
+Jed Williams Studio,39.9413677,-75.15304139999998,entertainment,transit,-1.0,15.0
+Hahn Gallery,39.96660079999999,-75.17794049999998,entertainment,transit,-1.0,15.0
+The Print Center,39.9481309,-75.1685605,entertainment,transit,-1.0,3.0
+Education Commons,39.9504639,-75.1892797,entertainment,transit,-1.0,12.0
+Audio Visual Resource Library,39.945879700000006,-75.1484718,entertainment,transit,-1.0,12.0
+Library for the Blind and Physically Handicapped,39.9621155,-75.16405329999998,entertainment,transit,-1.0,11.0
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,transit,-1.0,9.0
+Athenaeum of Philadelphia,39.94687259999999,-75.1509588,entertainment,transit,-1.0,11.0
+Pepper Hamilton Law Library,39.9557518,-75.1700194,entertainment,transit,-1.0,8.0
+ART @t Bridge Club of Center City,39.9495926,-75.16852,entertainment,transit,-1.0,3.0
+Brogan James M,39.95267070000001,-75.16821329999998,entertainment,transit,-1.0,5.0
+Scott Memorial Library at Thomas Jefferson University,39.94830169999999,-75.1581321,entertainment,transit,-1.0,8.0
+Wendy's Frame Shop,39.9303256,-75.16862549999998,entertainment,transit,-1.0,13.0
+Mangel Art Gallery,39.9531865,-75.1749671,entertainment,transit,-1.0,7.0
+Pearlstein Gallery,39.9571472,-75.19293940000001,entertainment,transit,-1.0,13.0
+Lippincott Wharton Sch Library,39.95262319999999,-75.193484,entertainment,transit,-1.0,11.0
+Monell Chemical Senses Center,39.95585820000001,-75.193179,entertainment,transit,-1.0,13.0
+Krausz Library of Podiatric Medicine,39.954781,-75.15328530000002,entertainment,transit,-1.0,14.0
+The Center For Emerging Visual Artists,39.9486558,-75.1707729,entertainment,transit,-1.0,3.0
+Ray Arts Gallery,39.9505578,-75.17077009999998,entertainment,transit,-1.0,4.0
+H. Smith Shop,39.93591710000001,-75.1783978,entertainment,transit,-1.0,13.0
+Bridgette Mayer Gallery,39.948085,-75.1530369,entertainment,transit,-1.0,11.0
+Gallery Joe,39.9467559,-75.14995909999998,entertainment,transit,-1.0,11.0
+Freiman Stoltzfus Gallery Philadelphia,39.94471770000001,-75.1596677,entertainment,transit,-1.0,11.0
+Gross Mc Cleaf Gallery,39.9502352,-75.16722399999998,entertainment,transit,-1.0,5.0
+Freiman Stoltzfus Gallery Philadelphia,39.94471770000001,-75.1596677,entertainment,transit,-1.0,11.0
+Troyka Fine Arts Gallery,39.9452568,-75.16369240000002,entertainment,transit,-1.0,8.0
+Dolan Maxwell Inc,39.94880339999999,-75.1757586,entertainment,transit,-1.0,7.0
+Grizzly Grizzly,39.95830730000001,-75.1565993,entertainment,transit,-1.0,11.0
+South Philadelphia Library,39.92914330000001,-75.16908269999998,entertainment,transit,-1.0,13.0
+Business Resource and Innovation Center at the Free Library of Philadelphia,39.9592686,-75.17071640000002,entertainment,transit,-1.0,9.0
+TM Sculpture,39.97009079999999,-75.15859669999998,entertainment,transit,-1.0,15.0
+PhilaMOCA,39.96222279999999,-75.1575062,entertainment,transit,-1.0,13.0
+Independence Library,39.9502814,-75.1523394,entertainment,transit,-1.0,10.0
+Parkway Central Library,39.95956470000001,-75.17104450000002,entertainment,transit,-1.0,9.0
+Learning Lab,39.94950120000001,-75.1733449,entertainment,transit,-1.0,5.0
+Math Physics Astronomy Library,39.95211,-75.18979809999998,entertainment,transit,-1.0,10.0
+Brandywine Workshop,39.9420671,-75.16617579999998,entertainment,transit,-1.0,9.0
+LORD LUDD,39.949986,-75.1460333,entertainment,transit,-1.0,15.0
+Project Joy Studio,39.938924,-75.1637497,entertainment,transit,-1.0,13.0
+Wholistic.Art,39.9582606,-75.1567184,entertainment,transit,-1.0,11.0
+Ewell Sale Stewart Library and Archives,39.95681099999999,-75.171015,entertainment,transit,-1.0,9.0
+Eastern State Penitentiary,39.9683364,-75.17266479999998,entertainment,transit,-1.0,15.0
+B Square Gallery,39.94207309999999,-75.15725040000002,entertainment,transit,-1.0,12.0
+Schwarz Gallery,39.951614000000006,-75.17066700000002,entertainment,transit,-1.0,5.0
+Fleisher/Ollman Gallery,39.9619658,-75.15352340000003,entertainment,transit,-1.0,14.0
+Queen Memorial Library,39.93788970000001,-75.18127390000002,entertainment,transit,-1.0,14.0
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,transit,-1.0,9.0
+The Donald F & Mildred Topp Othmer Library of Chemical History,39.9489717,-75.14655450000002,entertainment,transit,-1.0,13.0
+Vox Populi,39.9583049,-75.1566228,entertainment,transit,-1.0,11.0
+The Mütter Museum at The College of Physicians of Philadelphia,39.95323079999999,-75.1763698,entertainment,transit,-1.0,6.0
+Reader Development,39.95960549999999,-75.17102360000001,entertainment,transit,-1.0,9.0
+BlinkArt Gallery,39.94808219999999,-75.1429098,entertainment,transit,-1.0,15.0
+The SPACE Art Gallery,39.94002099999999,-75.15582640000002,entertainment,transit,-1.0,15.0
+Liberty Art & Framing,39.9508314,-75.1738984,entertainment,transit,-1.0,4.0
+Goldie Paley Gallery,39.95727029999999,-75.1719562,entertainment,transit,-1.0,9.0
+Cerulean Arts,39.9656537,-75.1596235,entertainment,transit,-1.0,14.0
+National Constitution Center,39.95369549999999,-75.1491166,entertainment,transit,-1.0,14.0
+Space 1026,39.9535738,-75.1573768,entertainment,transit,-1.0,12.0
+Millennium Art Gallery Inc.,39.949036,-75.163516,entertainment,transit,-1.0,7.0
+Light Box Arts,39.9502165,-75.16919890000001,entertainment,transit,-1.0,4.0
+Sol Mednick Gallery,39.94902310000001,-75.1639486,entertainment,transit,-1.0,7.0
+Hoyle Fickler Herschel-Mathes,39.9525474,-75.16735209999999,entertainment,transit,-1.0,5.0
+Philadelphia City Institute,39.9494607,-75.17327449999998,entertainment,transit,-1.0,5.0
+The Plastic Club,39.94718320000001,-75.16156059999999,entertainment,transit,-1.0,8.0
+Rebecca O'Leary Art Advisory,39.9484149,-75.16504239999998,entertainment,transit,-1.0,6.0
+Kapp Kapp,39.94573169999999,-75.162735,entertainment,transit,-1.0,9.0
+Art At The Bourse,39.94985670000001,-75.14850489999998,entertainment,transit,-1.0,13.0
+Studio Associates,39.9467295,-75.1700578,entertainment,transit,-1.0,4.0
+Twenty-Two Gallery,39.949442,-75.17788900000002,entertainment,transit,-1.0,7.0
+Library Co of Philadelphia,39.947810200000006,-75.16311850000002,entertainment,transit,-1.0,7.0
+Alere LLC,39.9422114,-75.17460919999998,entertainment,transit,-1.0,7.0
+Robert Dunning Dripps Library,39.94996789999999,-75.1930038,entertainment,transit,-1.0,13.0
+Plays and Players Gallery,39.9467876,-75.17038240000002,entertainment,transit,-1.0,4.0
+Custom Frame Shop / deVecchis Gallery,39.9415607,-75.14943319999998,entertainment,transit,-1.0,15.0
+Beyond the Seams,39.9688896,-75.16029540000002,entertainment,transit,-1.0,14.0
+Calderwood Gallery,39.96454,-75.1605235,entertainment,transit,-1.0,13.0
+Pep Bowl,39.9354732,-75.16777090000002,entertainment,transit,-1.0,12.0
+National Museum of American Jewish History,39.9502434,-75.14857680000001,entertainment,transit,-1.0,12.0
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,transit,-1.0,9.0
+Philadelphia's Magic Gardens,39.9427128,-75.1593122,entertainment,transit,-1.0,12.0
+Susan Hagen,39.951799,-75.16948959999998,entertainment,transit,-1.0,4.0
+"B and K Arts, LLC",39.9442664,-75.16864129999998,entertainment,transit,-1.0,6.0
+Larry Becker Contemporary Art,39.9511231,-75.1433407,entertainment,transit,-1.0,15.0
+M Finkel & Daughter,39.94461919999999,-75.1581188,entertainment,transit,-1.0,11.0
+Giovinetti Studios,39.94128920000001,-75.15035350000002,entertainment,transit,-1.0,15.0
+Biomedical Library,39.9495032,-75.19594839999998,entertainment,transit,-1.0,15.0
+MATCHBOX PHILLY | GLASS GALLERY & SMOKESHOP,39.9423329,-75.153646,entertainment,transit,-1.0,14.0
+Kelly Wallace,39.9447594,-75.1602001,entertainment,transit,-1.0,10.0
+C R Ettinger Studio,39.94541419999999,-75.17912820000002,entertainment,transit,-1.0,10.0
+Charles Kelman Library,39.9480211,-75.1551375,entertainment,transit,-1.0,11.0
+Philadelphia Law Library,39.9523277,-75.16354319999998,entertainment,transit,-1.0,7.0
+Biddle Law Library,39.9538891,-75.1930904,entertainment,transit,-1.0,12.0
+John C.Haas Archive Of Science And Business At CHF,39.94920259999999,-75.1459998,entertainment,transit,-1.0,14.0
+Associated Library Services,39.95400220000001,-75.1702608,entertainment,transit,-1.0,5.0
+Lucky Strike Philadelphia,39.9503667,-75.16324200000003,entertainment,transit,-1.0,7.0
+Historical Society of Pennsylvania,39.94778699999999,-75.16273199999998,entertainment,transit,-1.0,6.0
+Albert M. Greenfield Library,39.9458792,-75.1645352,entertainment,transit,-1.0,7.0
+Region III Library,39.9482175,-75.1516503,entertainment,transit,-1.0,12.0
+Reader Development,39.95960549999999,-75.17102360000001,entertainment,transit,-1.0,9.0
+Jim Loewer Glass,39.938875900000006,-75.1639665,entertainment,transit,-1.0,13.0
+Annenberg School for Communication Library,39.9529215,-75.1955936,entertainment,transit,-1.0,12.0
+Art,39.9633872,-75.1649809,entertainment,transit,-1.0,12.0
+The Franklin Institute,39.9582109,-75.17313469999998,entertainment,transit,-1.0,10.0
+Chemistry Library,39.950738,-75.19219,entertainment,transit,-1.0,12.0
+Museum Library,39.9492597,-75.19132950000002,entertainment,transit,-1.0,14.0
+Partners and Son,39.9414667,-75.15261129999998,entertainment,transit,-1.0,14.0
+Alexander Calder Stabile Sculpture,39.95577189999999,-75.16728859999998,entertainment,transit,-1.0,8.0
+Dina Wind,39.94803270000001,-75.15305599999998,entertainment,transit,-1.0,11.0
+Van Pelt Library,39.95272360000001,-75.1940023,entertainment,transit,-1.0,12.0
+Dupree Gallery,39.9409824,-75.1523605,entertainment,transit,-1.0,15.0
+Khmer Art Gallery,39.9583092,-75.15656609999998,entertainment,transit,-1.0,11.0
+RACSO Gallery,39.9545628,-75.1668505,entertainment,transit,-1.0,6.0
+Philadelphia Museum of Art Library & Archives,39.96769060000001,-75.1795372,entertainment,transit,-1.0,15.0
+Walnut Street West Library,39.9538204,-75.20246,entertainment,transit,-1.0,14.0
+COSM Chapel of Sacred Mirrors,39.9589742,-75.15973679999998,entertainment,transit,-1.0,13.0
+Fisher Fine Arts Library,39.95161069999999,-75.1927695,entertainment,transit,-1.0,12.0
+Rosenwald-Wolf Gallery,39.94594269999999,-75.1647778,entertainment,transit,-1.0,7.0
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,transit,-1.0,9.0
+Science History Institute,39.9487962,-75.1466157,entertainment,transit,-1.0,13.0
+Drexel University Libraries,39.95529500000001,-75.1898635,entertainment,transit,-1.0,10.0
+Athenaeum of Philadelphia,39.94687259999999,-75.1509588,entertainment,transit,-1.0,11.0
+Markward Playground,39.9480334,-75.18342990000002,entertainment,transit,-1.0,11.0
+American Catholic Historical,39.945536,-75.14802999999998,entertainment,transit,-1.0,13.0
+Shoemaker Green,39.9514977,-75.19009140000001,entertainment,transit,-1.0,11.0
+Art Space Collaborative,39.9482359,-75.1708166,entertainment,transit,-1.0,3.0
+Comcast Experience,39.9545383,-75.16854649999998,entertainment,transit,-1.0,7.0
+Three Bears Park,39.9440791,-75.14789619999998,entertainment,transit,-1.0,15.0
+America's Garden Capital Maze,39.9524382,-75.1646225,entertainment,transit,-1.0,5.0
+The Rosenbach,39.9473109,-75.1750386,entertainment,transit,-1.0,6.0
+Wells Fargo Museum,39.94968929999999,-75.1639465,entertainment,transit,-1.0,7.0
+Franklin Court Printing Office,39.950124,-75.1466125,entertainment,transit,-1.0,14.0
+The African American Museum in Philadelphia,39.95326139999999,-75.15175620000002,entertainment,transit,-1.0,12.0
+The Rosenbach,39.9473109,-75.1750386,entertainment,transit,-1.0,6.0
+Стадион на крыше,39.96054760000001,-75.166264,entertainment,transit,-1.0,10.0
+Reading Terminal Market,39.95331129999999,-75.15943,entertainment,transit,-1.0,10.0
+Romanian Museum & Gallery,39.94719110000001,-75.1683656,entertainment,transit,-1.0,4.0
+University of Pennsylvania Museum Casting Program,39.9493114,-75.1915254,entertainment,transit,-1.0,14.0
+Kahal Kadosh Mikveh Israel,39.9513028,-75.1478798,entertainment,transit,-1.0,13.0
+Philadelphia Museum of Jewish Art,39.96380809999999,-75.160759,entertainment,transit,-1.0,12.0
+Once Upon A Nation,39.9490099,-75.15101990000002,entertainment,transit,-1.0,12.0
+Benjamin Franklin Museum,39.94963920000001,-75.1468572,entertainment,transit,-1.0,14.0
+Museum Network Inc,39.9515436,-75.16583609999998,entertainment,transit,-1.0,5.0
+Placa AMOR Philadelfia,39.9599334,-75.16497820000002,entertainment,transit,-1.0,9.0
+The Fabric Workshop and Museum,39.9537074,-75.1602417,entertainment,transit,-1.0,10.0
+Matthias Baldwin Park,39.961667,-75.1689481,entertainment,transit,-1.0,12.0
+Schuylkill Banks,39.9521946,-75.1806532,entertainment,transit,-1.0,7.0
+Christ Church Burial Ground,39.9520175,-75.1481594,entertainment,transit,-1.0,14.0
+Christ Church,39.95074530000001,-75.1438142,entertainment,transit,-1.0,14.0
+Franklin Square,39.95566339999999,-75.1504502,entertainment,transit,-1.0,15.0
+Mural,39.9511456,-75.17762929999998,entertainment,transit,-1.0,6.0
+The Bourse,39.94981020000001,-75.1475438,entertainment,transit,-1.0,13.0
+Pennsylvania Academy of the Fine Arts - PAFA,39.95559859999999,-75.1631457,entertainment,transit,-1.0,9.0
+National Museum of American Jewish History Museum Store,39.9502497,-75.14817029999998,entertainment,transit,-1.0,13.0
+The Academy of Natural Sciences of Drexel University,39.9571169,-75.1710701,entertainment,transit,-1.0,10.0
+The Oval,39.96424879999999,-75.1791318,entertainment,transit,-1.0,15.0
+Benjamin Franklin Museum,39.94963920000001,-75.1468572,entertainment,transit,-1.0,14.0
+Rocky Statue,39.96512749999999,-75.17928479999998,entertainment,transit,-1.0,15.0
+Masonic Library & Museum-Pa,39.9536194,-75.1625712,entertainment,transit,-1.0,8.0
+Hill-Physick House,39.9443118,-75.1483538,entertainment,transit,-1.0,14.0
+Ennovance Capital LLC,39.949553,-75.166917,entertainment,transit,-1.0,5.0
+Philadelphia City Hall,39.9528,-75.1634833,entertainment,transit,-1.0,7.0
+Love Park,39.954279,-75.1656517,entertainment,transit,-1.0,6.0
+Gross Mc Cleaf Gallery,39.9502352,-75.16722399999998,entertainment,transit,-1.0,5.0
+Bardascino Park,39.93779620000001,-75.15991919999998,entertainment,transit,-1.0,15.0
+United States Mint,39.95338599999999,-75.14805809999999,entertainment,transit,-1.0,15.0
+Presbyterian Historical Society,39.94311219999999,-75.1499077,entertainment,transit,-1.0,15.0
+Bethany Mission Gallery,39.9636037,-75.16388069999998,entertainment,transit,-1.0,12.0
+Rodin Museum,39.9619232,-75.17395789999998,entertainment,transit,-1.0,12.0
+Washington Square,39.94703670000001,-75.15239389999998,entertainment,transit,-1.0,12.0
+Declaration House,39.9508314,-75.15217790000001,entertainment,transit,-1.0,10.0
+Seger Dog Park,39.9433534,-75.1598089,entertainment,transit,-1.0,11.0
+Second Bank of the United States Portrait Gallery,39.9485485,-75.14842770000001,entertainment,transit,-1.0,12.0
+June 5th Memorial Park,39.9538109,-75.1765818,entertainment,transit,-1.0,6.0
+Eagles Super Bowl Mural,39.9418611,-75.15642369999998,entertainment,transit,-1.0,13.0
+New Hall Military Museum,39.9484523,-75.1472179,entertainment,transit,-1.0,13.0
+The Academy of Natural Sciences of Drexel University,39.9571169,-75.1710701,entertainment,transit,-1.0,10.0
+Barnes Foundation,39.9606433,-75.17280749999998,entertainment,transit,-1.0,11.0
+Old Saint Mary's Church,39.9456573,-75.14857649999998,entertainment,transit,-1.0,13.0
+James G. Kaskey Memorial Park,39.9491655,-75.1983003,entertainment,transit,-1.0,15.0
+The Mütter Museum at The College of Physicians of Philadelphia,39.95323079999999,-75.1763698,entertainment,transit,-1.0,6.0
+American Philosophical Society,39.9486222,-75.1494434,entertainment,transit,-1.0,11.0
+The Palestra,39.9513911,-75.1887032,entertainment,transit,-1.0,10.0
+Marian Anderson Recreation Center,39.9418979,-75.17149090000002,entertainment,transit,-1.0,7.0
+Independence Visitor Center,39.9514196,-75.14992120000002,entertainment,transit,-1.0,13.0
+Mural Arts Philadelphia,39.9654251,-75.16685890000002,entertainment,transit,-1.0,15.0
+Rodin Museum,39.9619232,-75.17395789999998,entertainment,transit,-1.0,12.0
+Independence National Historical Park,39.9495312,-75.14973189999998,entertainment,transit,-1.0,12.0
+Philadelphia's Magic Gardens,39.9427128,-75.1593122,entertainment,transit,-1.0,12.0
+Placa AMOR Philadelfia,39.9599334,-75.16497820000002,entertainment,transit,-1.0,9.0
+Masonic Temple,39.95348010000001,-75.1630651,entertainment,transit,-1.0,7.0
+National Liberty Museum,39.94888059999999,-75.1468778,entertainment,transit,-1.0,13.0
+Bethany Mission Gallery,39.9636037,-75.16388069999998,entertainment,transit,-1.0,12.0
+Philadelphia Hospitality,39.94946160000001,-75.1645238,entertainment,transit,-1.0,7.0
+Science History Institute,39.9487962,-75.1466157,entertainment,transit,-1.0,13.0
+Institute of Contemporary Art,39.95406870000001,-75.1947096,entertainment,transit,-1.0,10.0
+American Bandstand studio,39.95816209999999,-75.2126619,entertainment,transit,-1.0,15.0
+Saint Thomas Aquinas Church,39.93023499999999,-75.1739183,entertainment,transit,-1.0,12.0
+The Print Center,39.9481309,-75.1685605,entertainment,transit,-1.0,3.0
+Chew Playground,39.938280000000006,-75.17387269999998,entertainment,transit,-1.0,10.0
+National Constitution Center,39.95369549999999,-75.1491166,entertainment,transit,-1.0,14.0
+Presbyterian Historical Society,39.94311219999999,-75.1499077,entertainment,transit,-1.0,15.0
+Center for Architecture and Design,39.953848,-75.16044800000002,entertainment,transit,-1.0,10.0
+Science History Institute,39.9487962,-75.1466157,entertainment,transit,-1.0,13.0
+Masonic Temple,39.95348010000001,-75.1630651,entertainment,transit,-1.0,7.0
+The Porch at 30th,39.9548726,-75.18206889999998,entertainment,transit,-1.0,8.0
+#5. Old St. Pauls Episcopal,39.9463161,-75.1464584,entertainment,transit,-1.0,13.0
+Colors of Light Mural by Josh Sarantitis,39.95699109999999,-75.1585283,entertainment,transit,-1.0,13.0
+Welcome Park,39.9473826,-75.14414520000003,entertainment,transit,-1.0,15.0
+Washington Monument Fountain,39.9642689,-75.17913519999998,entertainment,transit,-1.0,15.0
+Cathedral Basilica of Saints Peter and Paul,39.9574751,-75.16859649999998,entertainment,transit,-1.0,9.0
+Second Bank of the United States Portrait Gallery,39.9485485,-75.14842770000001,entertainment,transit,-1.0,12.0
+The Magnolia Garden,39.94598690000001,-75.14921070000003,entertainment,transit,-1.0,12.0
+Philadelphia Covention CenterShow,39.9570268,-75.2008568,entertainment,transit,-1.0,13.0
+Museum of the American Revolution,39.94834520000001,-75.1458816,entertainment,transit,-1.0,14.0
+Septa Transit Museum,39.9518251,-75.16051390000001,entertainment,transit,-1.0,9.0
+Bridgette Mayer Gallery,39.9522968,-75.1570655,entertainment,transit,-1.0,11.0
+Congress Hall,39.948957,-75.15066170000001,entertainment,transit,-1.0,12.0
+Center for Architecture and Design,39.953848,-75.16044800000002,entertainment,transit,-1.0,10.0
+Philadelphia Museum of Jewish Art,39.96380809999999,-75.160759,entertainment,transit,-1.0,12.0
+St. Kyle of KEK Statue,39.9495623,-75.1718321,entertainment,transit,-1.0,4.0
+Fotto Star Gallery,39.95163270000001,-75.15574509999998,entertainment,transit,-1.0,11.0
+Congress Hall,39.94897280000001,-75.15065469999998,entertainment,transit,-1.0,12.0
+Penn Museum,39.94923920000001,-75.191367,entertainment,transit,-1.0,14.0
+New Hall Military Museum,39.9484523,-75.1472179,entertainment,transit,-1.0,13.0
+Penn Museum,39.94923920000001,-75.191367,entertainment,transit,-1.0,14.0
+Palace Travel Inc,39.949926,-75.163686,entertainment,transit,-1.0,7.0
+Phillies Mural,39.9510963,-75.18051080000002,entertainment,transit,-1.0,7.0
+Grumman Lunar Module,39.958022,-75.1735521,entertainment,transit,-1.0,10.0
+18th Century Garden,39.9474221,-75.14752340000003,entertainment,transit,-1.0,12.0
+Museum of the American Revolution,39.94834520000001,-75.1458816,entertainment,transit,-1.0,14.0
+The Fabric Workshop and Museum,39.9537074,-75.1602417,entertainment,transit,-1.0,10.0
+BMW Welt,39.9464855,-75.16396970000002,entertainment,transit,-1.0,8.0
+Liberty Bell,39.9525839,-75.1652215,entertainment,transit,-1.0,5.0
+The Menorah,39.95435939999999,-75.1596106,entertainment,transit,-1.0,11.0
+Old St Joseph's Church,39.94658200000001,-75.14751199999998,entertainment,transit,-1.0,12.0
+Rodin Museum Property,39.960926,-75.1739089,entertainment,transit,-1.0,11.0
+40th AIR studio,39.95595229999999,-75.20288240000002,entertainment,transit,-1.0,14.0
+Quartier joli,39.94363720000001,-75.1487083,entertainment,transit,-1.0,14.0
+Barnes Foundation Gate House,39.9601671,-75.1718449,entertainment,transit,-1.0,10.0
+Chinatown Friendship Arch,39.95371110000001,-75.1562314,entertainment,transit,-1.0,13.0
+Starr Garden Playground,39.9427864,-75.15235969999998,entertainment,transit,-1.0,15.0
+Dolly Todd House,39.9474574,-75.14779469999998,entertainment,transit,-1.0,12.0
+Figmago,39.941842,-75.15664799999998,entertainment,transit,-1.0,13.0
+Historic Philadelphia,39.9500455,-75.14381170000001,entertainment,transit,-1.0,13.0
+Athenaeum of Philadelphia,39.94687259999999,-75.1509588,entertainment,transit,-1.0,11.0
+Art Space Collaborative,39.9482359,-75.1708166,entertainment,transit,-1.0,3.0
+The Print Center,39.9481309,-75.1685605,entertainment,transit,-1.0,3.0
+Cira Green,39.9526631,-75.1833298,entertainment,transit,-1.0,7.0
+The Franklin Institute,39.9582109,-75.17313469999998,entertainment,transit,-1.0,10.0
+Powel House,39.9457406,-75.14684179999998,entertainment,transit,-1.0,14.0
+Alexander Hamiltons Former Home,39.94691779999999,-75.146085,entertainment,transit,-1.0,14.0
+Brogan James M,39.95267070000001,-75.16821329999998,entertainment,transit,-1.0,5.0
+Perelman Building,39.967594,-75.17939100000002,entertainment,transit,-1.0,15.0
+Barnes Foundation,39.9606433,-75.17280749999998,entertainment,transit,-1.0,11.0
+Bishop White House,39.947294,-75.1467776,entertainment,transit,-1.0,13.0
+Di Silvestro Playground,39.92914069999999,-75.17004250000002,entertainment,transit,-1.0,14.0
+National Liberty Museum,39.94888059999999,-75.1468778,entertainment,transit,-1.0,13.0
+Tomb of the Unknown Soldier,39.9470628,-75.15252459999998,entertainment,transit,-1.0,12.0
+National Museum of American Jewish History,39.9502434,-75.14857680000001,entertainment,transit,-1.0,12.0
+The Church of the Holy Trinity,39.9502577,-75.17298570000001,entertainment,transit,-1.0,4.0
+American Philosophical Society,39.9486222,-75.1494434,entertainment,transit,-1.0,11.0
+Xoxo sign,39.9497133,-75.1480253,entertainment,transit,-1.0,13.0
+Women For Greater Philadelphia,39.9473635,-75.1505684,entertainment,transit,-1.0,11.0
+Photo Pop Philly,39.949929,-75.1487807,entertainment,transit,-1.0,13.0
+President's House Site,39.95044199999999,-75.15008459999999,entertainment,transit,-1.0,12.0
+Penn Park,39.9500579,-75.1859058,entertainment,transit,-1.0,9.0
+Hill-Physick House,39.9443118,-75.1483538,entertainment,transit,-1.0,14.0
+Roberto Clemente Park,39.965686700000006,-75.16802259999999,entertainment,transit,-1.0,15.0
+Historic Arch Street Meeting House,39.951881,-75.14615699999997,entertainment,transit,-1.0,15.0
+Swann Memorial Fountain,39.9579384,-75.170587,entertainment,transit,-1.0,9.0
+Fo Shou Temple 佛寿寺,39.9547499,-75.15666,entertainment,transit,-1.0,13.0
+Walnut Street Dock,39.9518275,-75.1810318,entertainment,transit,-1.0,7.0
+Rittenhouse Square,39.9494818,-75.17188349999998,entertainment,transit,-1.0,4.0
+Benjamin Franklin's Grave,39.95246009999999,-75.1482794,entertainment,transit,-1.0,14.0
+Train Factory,39.95813890000001,-75.17262579999998,entertainment,transit,-1.0,9.0
+City Hall Visitor Center,39.9512025,-75.16347499999998,entertainment,transit,-1.0,6.0
+American Bandstand studio,39.95816209999999,-75.2126619,entertainment,transit,-1.0,15.0
+Sister Cities Park,39.9579056,-75.16933890000001,entertainment,transit,-1.0,8.0
+West Wing Great Essentials Exhibit,39.9489474,-75.15035780000002,entertainment,transit,-1.0,12.0
+Mother Bethel A.M.E. Church,39.9432914,-75.15175409999998,entertainment,transit,-1.0,15.0
+Liberty Bell Center,39.95021120000001,-75.15015559999998,entertainment,transit,-1.0,12.0
+Liberty Bell,39.9496103,-75.1502821,entertainment,transit,-1.0,12.0
+The United States Custom House,39.9483717,-75.1446802,entertainment,transit,-1.0,15.0
+獨立遊客中心,39.9514781,-75.14991169999998,entertainment,transit,-1.0,13.0
+Franklin Field,39.9502159,-75.19010920000002,entertainment,transit,-1.0,12.0
+Innovation Plaza,39.9557555,-75.19626720000002,entertainment,transit,-1.0,13.0
+Library Co of Philadelphia,39.947810200000006,-75.16311850000002,entertainment,transit,-1.0,7.0
+Cret Park,39.9555435,-75.16656069999998,entertainment,transit,-1.0,7.0
+Milord la Chamarre Statue,39.95217089999999,-75.1661135,entertainment,transit,-1.0,5.0
+Independence Hall,39.9552145,-75.1636616,entertainment,transit,-1.0,8.0
+Carpenters' Hall,39.9481384,-75.1472103,entertainment,transit,-1.0,12.0
+Legacy Mural,39.94915340000001,-75.15291909999998,entertainment,transit,-1.0,11.0
+The African American Museum in Philadelphia,39.95326139999999,-75.15175620000002,entertainment,transit,-1.0,12.0
+Train Factory,39.95813890000001,-75.17262579999998,entertainment,transit,-1.0,9.0
+Eastern State Penitentiary,39.9683364,-75.17266479999998,entertainment,transit,-1.0,15.0
+Franklin Court Printing Office,39.950124,-75.1466125,entertainment,transit,-1.0,14.0
+Schuylkill River Park,39.948817700000006,-75.18176650000002,entertainment,transit,-1.0,10.0
+Julian Abele Park,39.94088430000001,-75.1792676,entertainment,transit,-1.0,12.0
+Philadelphia Society for the Preservation of Landmarks,39.9443239,-75.1483536,entertainment,transit,-1.0,14.0
+Thomas Sully Residence,39.94509499999999,-75.151219,entertainment,transit,-1.0,13.0
+Statue of Tamanend,39.9497217,-75.14201750000002,entertainment,transit,-1.0,15.0
+Septa Transit Museum,39.9518251,-75.16051390000001,entertainment,transit,-1.0,9.0
+Thaddeus Kosciuszko National Memorial,39.943457,-75.14725279999998,entertainment,transit,-1.0,15.0
+Logan Square,39.9580333,-75.1709604,entertainment,transit,-1.0,9.0
+Powel House,39.9457406,-75.14684179999998,entertainment,transit,-1.0,14.0
+Rittenhouse,39.950131,-75.17066700000002,farmers_markets,pedestrian,0.01,0.27
+Rittenhouse,39.950131,-75.17066700000002,farmers_markets,bicycle,0.01,0.07
+Fairmount,39.967313,-75.17398299999998,farmers_markets,bicycle,1.39,12.07
+Francisville Artisan and Farmers Market,39.969732,-75.164337,farmers_markets,bicycle,1.64,13.73
+Fitler Square Park,39.954158,-75.177823,farmers_markets,bicycle,0.64,5.22
+Headhouse,39.936212,-75.155973,farmers_markets,bicycle,1.8,13.78
+Christ Church,39.950004,-75.150071,farmers_markets,bicycle,1.3,11.7
+22nd & Tasker,39.932161,-75.18141800000002,farmers_markets,bicycle,1.69,13.77
+Broad and Morris,39.928034999999994,-75.16895500000003,farmers_markets,bicycle,1.91,13.92
+University Square,39.953142,-75.194786,farmers_markets,bicycle,1.31,9.62
+Parkway/Logan Circle,39.955918,-75.168309,commercial,pedestrian,0.49,13.23
+South Street/16th-21st,39.944477,-75.170825,commercial,pedestrian,0.42,11.52
+23rd and Walnut,39.951499,-75.17868100000003,commercial,pedestrian,0.46,12.9
+Market West,39.951743,-75.16891600000002,commercial,pedestrian,0.22,6.2
+Fairmount/19th-25th,39.967074,-75.173302,commercial,bicycle,1.4,11.98
+Spring Garden/16th-23rd,39.963912,-75.17078199999997,commercial,bicycle,1.07,9.68
+Spring Garden/9th-13th ,39.961719,-75.157705,commercial,bicycle,1.48,11.45
+Broad and Fairmount,39.966699,-75.16076600000002,commercial,bicycle,1.57,12.58
+Broad and Spring Garden,39.961929999999995,-75.16119,commercial,bicycle,1.24,9.85
+Callowhill East,39.95892,-75.155445,commercial,bicycle,1.51,11.72
+Parkway/Logan Circle,39.955918,-75.168309,commercial,bicycle,0.61,5.22
+South 4th Street ,39.939155,-75.14956,commercial,bicycle,1.88,14.12
+9th Street - Italian Market,39.936221999999994,-75.158424,commercial,bicycle,1.68,13.23
+6th and Washington,39.934656,-75.154656,commercial,bicycle,1.95,15.0
+Market East,39.950891999999996,-75.159048,commercial,bicycle,0.84,6.5
+Girard and Ridge,39.972148,-75.166013,commercial,bicycle,1.8,14.83
+36th Street and vicinity,39.954376,-75.195549,commercial,bicycle,1.45,10.88
+40th Street and vicinity,39.954556,-75.202924,commercial,bicycle,1.76,14.02
+Callowhill West,39.960946,-75.170648,commercial,bicycle,0.92,8.12
+Chinatown,39.95460900000001,-75.156358,commercial,bicycle,1.18,9.85
+Broad and Washington,39.938355,-75.165492,commercial,bicycle,1.23,9.37
+South Street/16th-21st,39.944477,-75.170825,commercial,bicycle,0.56,4.72
+South and Grays Ferry,39.945052000000004,-75.179601,commercial,bicycle,0.86,7.28
+Old City,39.950287,-75.145256,commercial,bicycle,1.54,11.15
+23rd and Walnut,39.951499,-75.17868100000003,commercial,bicycle,0.48,3.63
+30th Street,39.954473,-75.183926,commercial,bicycle,1.19,9.68
+Market West,39.951743,-75.16891600000002,commercial,bicycle,0.22,2.47
+South Street/Front-8th,39.941638,-75.148095,commercial,bicycle,1.75,12.88
+South Street/8th-12th,39.94265,-75.158631,commercial,bicycle,1.19,8.9
+Broad and Morris,39.929093,-75.16827099999998,commercial,bicycle,1.84,13.43
+Point Breeze Avenue,39.93547,-75.178862,commercial,bicycle,1.36,11.43
+Washington Avenue West,39.939361,-75.176441,commercial,bicycle,0.96,9.52
+30th and Grays Ferry,39.941261,-75.19424599999998,commercial,bicycle,1.78,13.8
+5th and Delancey,39.944551000000004,-75.150318,commercial,bicycle,1.53,11.72
+Pine Street,39.944721,-75.159953,commercial,bicycle,0.98,8.1
+36th and Lancaster,39.95953400000001,-75.195062,commercial,bicycle,1.8,13.97
+Broad and South,39.943386,-75.16529200000002,commercial,bicycle,0.83,6.03
+ALBERT M. GREENFIELD SCHOOL,39.9522723404091,-75.1773920597576,schools,pedestrian,0.46,12.6
+FREIRE CHARTER SCHOOL,39.9524728898904,-75.17442258950321,schools,pedestrian,0.38,10.55
+INDEPENDENCE CHARTER SCHOOL,39.9449388777306,-75.1690056208506,schools,pedestrian,0.46,12.58
+PHILADELPHIA ELECTRICAL AND TECHNOLOGY CHARTER SCHOOL,39.9506078902696,-75.1651108195508,schools,pedestrian,0.35,9.57
+RUSSELL BYERS CHARTER SCHOOL,39.95594921951221,-75.17155063941871,schools,pedestrian,0.5,14.12
+CONSTITUTION HIGH SCHOOL,39.9502520000276,-75.15233599995742,schools,bicycle,1.15,8.5
+HIGH SCHOOL FOR CREATIVE AND PERFORMING ARTS SCHOOL,39.93941992019922,-75.16548375023379,schools,bicycle,1.12,9.23
+CHRISTOPHER COLUMBUS CS (ANNEX),39.9386082230515,-75.1586546170628,schools,bicycle,1.52,11.62
+FRANKLIN LEARNING CENTER,39.9650489996572,-75.1627529996906,schools,bicycle,1.39,11.22
+BENJAMIN FRANKLIN HIGH SCHOOL,39.9635299998603,-75.1616399993992,schools,bicycle,1.34,10.77
+FREIRE CHARTER SCHOOL,39.9514322380152,-75.1580562211964,schools,bicycle,0.84,6.33
+PHILADELPHIA PERFORMING ARTS CHARTER SCHOOL,39.9578909273953,-75.1663226360723,schools,bicycle,0.76,6.05
+ACADEMY AT PALUMBO,39.9401978697975,-75.1619491496587,schools,bicycle,1.24,9.22
+CHESTER A. ARTHUR SCHOOL,39.9418644651471,-75.17589862561759,schools,bicycle,0.75,7.8
+BACHE-MARTIN SCHOOL,39.9700252874485,-75.17407713125091,schools,bicycle,1.57,13.38
+GEORGE W. CHILDS SCHOOL,39.9346369997854,-75.1704930003667,schools,bicycle,1.32,11.03
+DELAPLAINE MCDANIEL SCHOOL,39.9295920005011,-75.18179300014,schools,bicycle,1.85,14.97
+WILLIAM M. MEREDITH SCHOOL,39.9396621938909,-75.1509983238488,schools,bicycle,1.94,14.98
+GEORGE W. NEBINGER SCHOOL,39.9366940002475,-75.15383000011141,schools,bicycle,1.9,14.07
+ANDREW JACKSON SCHOOL,39.9346230003901,-75.1634809995532,schools,bicycle,1.6,11.87
+PARKWAY CENTER CITY MIDDLE COLLEGE HIGH SCHOOL,39.9630050104016,-75.1592864998634,schools,bicycle,1.46,11.92
+PHILADELPHIA VIRTUAL ACADEMY,39.961021589463,-75.1626440495439,schools,bicycle,1.18,9.42
+LAURA W. WARING SCHOOL,39.9649193905508,-75.1677006005967,schools,bicycle,1.08,10.2
+ALBERT M. GREENFIELD SCHOOL,39.9522723404091,-75.1773920597576,schools,bicycle,0.46,3.53
+JULIA R. MASTERMAN SCHOOL,39.963450899886496,-75.16573278273202,schools,bicycle,1.18,10.35
+GENERAL GEORGE A. MCCALL SCHOOL,39.944598132546794,-75.152366532041,schools,bicycle,1.38,10.3
+FOLK ARTS-CULTURAL TREASURES CHARTER SCHOOL,39.9589836872666,-75.1561225600225,schools,bicycle,1.38,11.93
+BEN FRANKLIN HIGH SCHOOL EOP,39.9629032996421,-75.1593020014646,schools,bicycle,1.45,11.87
+FREIRE CHARTER SCHOOL,39.9524728898904,-75.17442258950321,schools,bicycle,0.38,3.02
+GATEWAY TO COLLEGE - COMMUNITY COLLEGE OF PHILADELPHIA,39.9628357147828,-75.1666280688128,schools,bicycle,1.02,9.37
+INDEPENDENCE CHARTER SCHOOL,39.9449388777306,-75.1690056208506,schools,bicycle,0.76,5.62
+SAMUEL POWEL SCHOOL,39.9601485007694,-75.19364119318149,schools,bicycle,1.85,14.9
+SCIENCE LEADERSHIP ACADEMY,39.96122417056171,-75.1626167526329,schools,bicycle,1.2,9.65
+SCIENCE LEADERSHIP ACADEMY MIDDLE SCHOOL,39.9559095512984,-75.19455964495859,schools,bicycle,1.5,11.25
+SPRING GARDEN SCHOOL,39.965161549612496,-75.1561404206783,schools,bicycle,1.78,14.53
+EDWIN M. STANTON SCHOOL,39.9405029995584,-75.17101700037891,schools,bicycle,0.82,6.83
+PEOPLE FOR PEOPLE CHARTER SCHOOL,39.9681014097758,-75.16067476933041,schools,bicycle,1.67,14.17
+PHILADELPHIA ELECTRICAL AND TECHNOLOGY CHARTER SCHOOL,39.9506078902696,-75.1651108195508,schools,bicycle,0.35,4.25
+PHILADELPHIA VIRTUAL ACADEMY,39.961021589463,-75.1626440495439,schools,bicycle,1.18,9.42
+RUSSELL BYERS CHARTER SCHOOL,39.95594921951221,-75.17155063941871,schools,bicycle,0.55,5.18
+UNIVERSAL INSTITUTE CHARTER SCHOOL,39.9408997340373,-75.16769048137179,schools,bicycle,0.93,7.35
+ARCHITECTURE AND DESIGN CHARTER SCHOOL,39.948891999853295,-75.1522490007144,schools,bicycle,1.12,8.85
+CHRISTOPHER COLUMBUS CHARTER SCHOOL,39.9388824975157,-75.158411634008,schools,bicycle,1.5,11.45
+MASTERY CHARTER SCHOOL AT LENFEST,39.94952698141171,-75.14701419190821,schools,bicycle,1.44,10.7
+"MATH, CIVICS AND SCIENCES CHARTER SCHOOL",39.9611519963734,-75.1609555297349,schools,bicycle,1.21,10.82
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+Good Shepherd Penn Partners,39.944911,-75.172638,medical,pedestrian,0.38,10.47
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+Health Center 5,39.954491,-75.173035,medical,pedestrian,0.45,12.5
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,pedestrian,0.52,14.4
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+Hospital of the University of Pennsylvania,39.949948,-75.194096,medical,bicycle,1.59,14.13
+Kindred Hospital South Philadelphia ,39.926551,-75.170242,medical,bicycle,1.94,15.0
+Magee Rehabilitation Hospital ,39.956806,-75.165397,medical,bicycle,0.69,5.45
+Pennsylvania Hospital,39.945308,-75.15567,medical,bicycle,1.16,9.07
+Penn Presbyterian Medical Center,39.958495,-75.199329,medical,bicycle,1.96,14.78
+St.Joseph's Hospital (dba North Phila Health System),39.972689,-75.16898499999998,medical,bicycle,1.68,14.55
+Thomas Jefferson University Hospital,39.949348,-75.158015,medical,bicycle,0.93,6.88
+Philadelphia VA Medical Center,39.947595,-75.199079,medical,bicycle,1.96,14.62
+Good Shepherd Penn Partners,39.944911,-75.172638,medical,bicycle,0.71,5.98
+Wills Eye Hospital,39.94802,-75.155019,medical,bicycle,1.15,8.42
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+11th Street Family Health Services,39.957067,-75.157156,medical,bicycle,1.23,9.58
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+4th Street Behavioral Healthcare,39.948104,-75.147747,medical,bicycle,1.4,10.13
+4th Street Behavioral Healthcare,39.948104,-75.147747,medical,bicycle,1.4,10.13
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+Health Center 5,39.954491,-75.173035,medical,bicycle,0.45,3.7
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+Mary Howard Health Center,39.948852,-75.155392,medical,bicycle,1.13,8.27
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+Meade Family Health Center,39.958852,-75.16878100000002,medical,bicycle,0.62,5.65
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+The Children's Hospital of Philadelphia,39.952399,-75.16359,medical,bicycle,0.54,4.87
+Fairmount Primary Care Center,39.96743,-75.18008499999998,medical,bicycle,1.5,12.2
+Fairmount Primary Care Center at Horizon House,39.952657,-75.18388900000002,medical,bicycle,0.79,6.0
+Rittenhouse Square,39.949464,-75.17189300000003,recreation,pedestrian,0.1,2.9
+John F Kennedy Plaza (LOVE Park),39.953457,-75.165063,recreation,pedestrian,0.54,14.82
+Levy Park,39.955031,-75.166774,recreation,pedestrian,0.52,14.2
+Basilica Green,39.957128999999995,-75.168461,recreation,pedestrian,0.53,14.52
+William H (Billy) Markward Memorial Playground,39.947556,-75.18395799999998,recreation,bicycle,0.92,7.95
+William H (Billy) Markward Memorial Playground,39.947556,-75.18395799999998,recreation,bicycle,0.92,7.95
+William H (Billy) Markward Memorial Playground,39.947556,-75.18395799999998,recreation,bicycle,0.92,7.95
+26th and Pennsylvania Playground,39.969772,-75.182152,recreation,bicycle,1.69,14.12
+10th and Lemon Playground,39.963531,-75.15490799999998,recreation,bicycle,1.76,13.97
+Philadelphia Museum of Art,39.967935,-75.176073,recreation,bicycle,1.68,13.83
+Rittenhouse Square,39.949464,-75.17189300000003,recreation,bicycle,0.1,1.15
+Washington Square,39.947008000000004,-75.15229000000002,recreation,bicycle,1.22,10.03
+Franklin Square,39.955697,-75.150369,recreation,bicycle,1.56,12.07
+Von Colln Field,39.96353,-75.175318,recreation,bicycle,1.28,10.3
+Philadelphia Museum of Art,39.967935,-75.176073,recreation,bicycle,1.68,13.83
+Barnes Foundation Museum,39.960027000000004,-75.172471,recreation,bicycle,0.8,7.08
+Wharton Square,39.93554,-75.183235,recreation,bicycle,1.58,12.87
+Columbus Square,39.933155,-75.164775,recreation,bicycle,1.71,12.8
+Rodin Museum,39.961465000000004,-75.174588,recreation,bicycle,0.96,8.4
+Francisville Recreation Center,39.969208,-75.166601,recreation,bicycle,1.42,14.12
+Marian Anderson Recreation Center,39.941776000000004,-75.17099499999998,recreation,bicycle,0.73,6.18
+Walter Palumbo Recreation Center,39.941338,-75.158149,recreation,bicycle,1.3,10.05
+Charles H Chew Sr Playground,39.938235999999996,-75.174033,recreation,bicycle,0.97,9.88
+Roberto Clemente Playground,39.965643,-75.168109,recreation,bicycle,1.14,12.02
+Matthias Baldwin Park,39.96102,-75.16975699999998,recreation,bicycle,0.98,8.8
+John F Kennedy Plaza (LOVE Park),39.953457,-75.165063,recreation,bicycle,0.62,5.28
+Starr Garden Playground,39.942888,-75.152214,recreation,bicycle,1.47,11.27
+Michael Foglietta Plaza,39.944844,-75.143569,recreation,bicycle,1.81,13.65
+South Philadelphia Older Adult Center,39.931666,-75.162772,recreation,bicycle,1.91,14.43
+A Giuseppe DiSilvestro Playground,39.929072,-75.169597,recreation,bicycle,1.77,13.8
+Charles Seger Park,39.943705,-75.158684,recreation,bicycle,1.13,8.5
+Hawthorne Cultural Center,39.93843,-75.163478,recreation,bicycle,1.37,10.25
+Ridgway Park,39.939306,-75.164553,recreation,bicycle,1.22,10.23
+33rd and Wallace Playground,39.965239000000004,-75.190359,recreation,bicycle,1.94,14.82
+Weccacoe Square,39.937896,-75.15099000000002,recreation,bicycle,1.92,14.87
+Hawthorne Park,39.940667,-75.162817,recreation,bicycle,1.2,9.0
+Fitler Square,39.947596999999995,-75.179774,recreation,bicycle,0.71,5.85
+Cianfrani Park,39.940682,-75.15537900000002,recreation,bicycle,1.49,11.38
+James L Wright Playground,39.963999,-75.19059200000002,recreation,bicycle,1.9,14.67
+Philadelphia History Museum at the Atwater Kent,39.950348,-75.151955,recreation,bicycle,1.17,9.17
+Louis I Kahn Park,39.945168,-75.160035,recreation,bicycle,0.96,7.43
+Christ Church Park,39.950874,-75.143074,recreation,bicycle,1.77,13.8
+OConnor Pool,39.946034999999995,-75.183489,recreation,bicycle,1.04,9.12
+Delancey Park,39.944179999999996,-75.147708,recreation,bicycle,1.72,13.32
+Julian Abele Park,39.940836,-75.179303,recreation,bicycle,1.08,9.75
+Ralph Brooks Park,39.931445000000004,-75.177734,recreation,bicycle,1.47,14.37
+Betsy Ross House,39.952351,-75.144716,recreation,bicycle,1.68,13.38
+Giuseppe Bardascino Park,39.93785,-75.159948,recreation,bicycle,1.53,11.43
+Frank Palumbo Sr Park,39.93926,-75.155586,recreation,bicycle,1.61,13.15
+Coxe Park,39.956702,-75.175521,recreation,bicycle,0.74,7.0
+22nd and Catharine Park,39.942277000000004,-75.179381,recreation,bicycle,1.0,8.37
+I-95 Park,39.936212,-75.155973,recreation,bicycle,1.8,13.78
+June 5th Memorial Park ,39.953688,-75.176597,recreation,bicycle,0.56,4.28
+Eakins Oval,39.961332,-75.174226,recreation,bicycle,0.93,8.23
+Park Towne,39.961314,-75.17576600000002,recreation,bicycle,1.11,9.78
+River Field,39.962136,-75.179553,recreation,bicycle,1.26,10.02
+Levy Park,39.955031,-75.166774,recreation,bicycle,0.58,5.43
+Irish and Scottish Immigration Memorials,39.947932,-75.14235,recreation,bicycle,1.64,12.75
+Michael Foglietta Plaza,39.944844,-75.143569,recreation,bicycle,1.81,13.65
+Michael Foglietta Plaza,39.944844,-75.143569,recreation,bicycle,1.81,13.65
+Aviator Park,39.957903,-75.171749,recreation,bicycle,0.73,6.23
+Sister Cities Park,39.958033,-75.170005,recreation,bicycle,0.61,5.52
+Cret Park,39.955531,-75.166714,recreation,bicycle,0.59,4.77
+Torun Triangle,39.956762,-75.168436,recreation,bicycle,0.56,5.55
+Binswanger Triangle,39.960951,-75.175208,recreation,bicycle,1.07,8.77
+Sister Cities Park,39.958033,-75.170005,recreation,bicycle,0.61,5.52
+Reliance Triangle,39.967196,-75.178937,recreation,bicycle,1.44,12.4
+Galusha Pennypacker Park,39.95825,-75.16935699999998,recreation,bicycle,0.6,5.43
+Shakespeare Park,39.959039000000004,-75.17095400000002,recreation,bicycle,0.74,6.87
+Ben-Gurion Place,39.951605,-75.148538,recreation,bicycle,1.42,10.48
+Commerce Street Walk,39.951169,-75.146651,recreation,bicycle,1.53,13.67
+Waverly Street Community Garden,39.944711,-75.161022,recreation,bicycle,0.93,7.95
+Sartain Garden,39.947835999999995,-75.16033,recreation,bicycle,0.72,5.65
+South Street Community Garden,39.94271,-75.156719,recreation,bicycle,1.3,9.9
+Vine Street Park (95),39.957053,-75.157503,recreation,bicycle,1.2,9.23
+Vine Street Park (95),39.957053,-75.157503,recreation,bicycle,1.2,9.23
+Vine Street Park (95),39.957053,-75.157503,recreation,bicycle,1.2,9.23
+Basilica Green,39.957128999999995,-75.168461,recreation,bicycle,0.53,4.8
+17th and Carpenter Play Lot,39.939968,-75.1715,recreation,bicycle,0.86,7.12
+Rail Park,39.959922999999996,-75.15885,recreation,bicycle,1.29,11.6
+Trader Joe's,39.9541809,-75.17597020000002,supermarket,pedestrian,0.55,14.85
+Rittenhouse Market,39.9478562,-75.1709777,supermarket,pedestrian,0.16,4.6
+Food & Friends,39.9482565,-75.17419699999998,supermarket,pedestrian,0.29,8.08
+Spruce Market,39.9474662,-75.16744729999998,supermarket,pedestrian,0.35,9.7
+7-Eleven,39.9547354,-75.168516,supermarket,pedestrian,0.42,11.55
+Target Grocery,39.951674800000006,-75.17225400000002,supermarket,pedestrian,0.19,5.3
+Whole Foods Market,39.962951200000006,-75.1742385,supermarket,bicycle,1.12,9.85
+Trader Joe's,39.9541809,-75.17597020000002,supermarket,bicycle,0.62,4.82
+The Fresh Grocer of Grays Ferry,39.940348,-75.19336120000001,supermarket,bicycle,1.75,13.83
+Whole Foods Market,39.9428511,-75.1577303,supermarket,bicycle,1.23,9.12
+Park Town place,39.9607377,-75.1770465,supermarket,bicycle,1.12,8.73
+Grassia’s Italian Market Spice Company,39.93768060000001,-75.157979,supermarket,bicycle,1.61,13.08
+Grocery,39.9504544,-75.16166120000003,supermarket,bicycle,0.59,5.1
+Family Dollar,39.9706831,-75.1601151,supermarket,bicycle,1.8,14.85
+Hung Vuong Supermarket,39.93654730000001,-75.16271970000003,supermarket,bicycle,1.52,11.27
+Rittenhouse Market,39.9478562,-75.1709777,supermarket,bicycle,0.4,3.03
+Rowhouse Grocery,39.9264115,-75.17470589999998,supermarket,bicycle,1.85,14.65
+Family Dollar,39.9348157,-75.178934,supermarket,bicycle,1.28,12.15
+South Square Market,39.94558299999999,-75.179406,supermarket,bicycle,0.85,6.9
+"Felix Supermarket, Inc.",39.9312726,-75.1834427,supermarket,bicycle,1.84,14.63
+Family Dollar,39.93814229999999,-75.17191199999998,supermarket,bicycle,1.01,8.5
+Olde City Food Market,39.9497429,-75.1440556,supermarket,bicycle,1.61,11.7
+Food & Friends,39.9482565,-75.17419699999998,supermarket,bicycle,0.31,3.83
+Point Save Super Market,39.9363079,-75.17757499999998,supermarket,bicycle,1.16,11.48
+Klein's Supermarket,39.96700209999999,-75.17765729999998,supermarket,bicycle,1.51,12.12
+Spruce Market,39.9474662,-75.16744729999998,supermarket,bicycle,0.54,4.0
+El Paisano Supermarket #1,39.9321626,-75.16081729999998,supermarket,bicycle,1.91,14.07
+Tienda El Paisano,39.9322071,-75.1603071,supermarket,bicycle,1.94,14.92
+Supermarket,39.9344006,-75.1541208,supermarket,bicycle,1.98,14.98
+Sprouts Farmers Market,39.9391344,-75.16810749999998,supermarket,bicycle,1.05,8.33
+Herbology,39.935146,-75.15668000000002,supermarket,bicycle,1.83,14.23
+Target Grocery,39.9603326,-75.1476725,supermarket,bicycle,2.02,14.92
+Target Grocery,39.9499352,-75.1599648,supermarket,bicycle,0.69,5.22
+Heng Fa food market,39.9543959,-75.15620369999998,supermarket,bicycle,1.14,9.63
+7-Eleven,39.9547354,-75.168516,supermarket,bicycle,0.42,5.35
+Target Grocery,39.951674800000006,-75.17225400000002,supermarket,bicycle,0.19,2.72
+Trader Joe's,39.9541911,-75.16243349999998,supermarket,bicycle,0.79,6.45
+Trebol Supermarket,39.9620554,-75.15744720000002,supermarket,bicycle,1.7,13.73
+ALDI,39.96596789999999,-75.159565,supermarket,bicycle,1.63,13.05
+Sofitel Philadelphia at Rittenhouse Square,39.9507723,-75.1690167,restaurant,pedestrian,0.14,4.0
+The Rittenhouse Hotel,39.949831,-75.1732573,restaurant,pedestrian,0.17,4.67
+The Capital Grille,39.9507554,-75.1637453,restaurant,pedestrian,0.47,12.87
+McGillin's Olde Ale House,39.9501768,-75.1626101,restaurant,pedestrian,0.51,14.18
+Village Whiskey,39.9513999,-75.17377379999998,restaurant,pedestrian,0.24,6.58
+El Vez,39.94970199999999,-75.1617703,restaurant,pedestrian,0.54,14.53
+City Tap House Logan Square,39.9559106,-75.169578,restaurant,pedestrian,0.41,11.1
+Parc,39.94912219999999,-75.170749,restaurant,pedestrian,0.06,1.58
+Monk's Cafe,39.947701,-75.16812399999998,restaurant,pedestrian,0.3,8.48
+Vernick Food & Drink,39.9508618,-75.1748874,restaurant,pedestrian,0.24,6.63
+Lucky Strike Philadelphia,39.9503667,-75.16324200000003,restaurant,pedestrian,0.49,13.58
+Chima Steakhouse,39.95476499999999,-75.17267109999997,restaurant,pedestrian,0.45,12.37
+The Dandelion,39.9510075,-75.1707493,restaurant,pedestrian,0.08,2.22
+Time,39.95003699999999,-75.16251290000002,restaurant,pedestrian,0.49,13.38
+Butcher and Singer,39.9489949,-75.1663033,restaurant,pedestrian,0.31,8.57
+Tinto,39.95151060000001,-75.1737407,restaurant,pedestrian,0.24,6.9
+Pagano's Market and Bar,39.95396799999999,-75.17356099999998,restaurant,pedestrian,0.42,11.47
+HipCityVeg,39.9507609,-75.17039759999999,restaurant,pedestrian,0.06,1.48
+Shake Shack,39.9511265,-75.1738353,restaurant,pedestrian,0.22,6.2
+Tir na nOg Irish Bar & Grill,39.95437099999999,-75.16672709999997,restaurant,pedestrian,0.48,13.15
+Good Dog Bar,39.94875880000001,-75.1662235,restaurant,pedestrian,0.32,9.0
+The Continental Mid-town,39.951903,-75.170445,restaurant,pedestrian,0.13,3.53
+Howl at the Moon Philadelphia,39.94768699999999,-75.1665446,restaurant,pedestrian,0.38,10.5
+Tsuki Sushi - Authentic Japanese Restaurant in Philadelphia，PA,39.9510933,-75.177133,restaurant,pedestrian,0.36,9.85
+Devon Seafood Grill,39.9494863,-75.17063409999999,restaurant,pedestrian,0.04,1.2
+Pyramid Club,39.95336,-75.16972870000002,restaurant,pedestrian,0.24,6.38
+Fox & Hound,39.94731,-75.16655999999998,restaurant,pedestrian,0.4,11.15
+Davio's Northern Italian Steakhouse,39.951001,-75.16874,restaurant,pedestrian,0.17,4.83
+Fogo de Chão Brazilian Steakhouse,39.95091659999999,-75.1629711,restaurant,pedestrian,0.53,14.65
+Helium Comedy Club - Philadelphia,39.9515214,-75.17473199999998,restaurant,pedestrian,0.29,7.98
+Barbuzzo,39.95000699999999,-75.16215770000002,restaurant,pedestrian,0.51,13.9
+Panda Express,39.95470299999999,-75.16849619999998,restaurant,pedestrian,0.38,10.48
+Ruth's Chris Steak House,39.95295649999999,-75.1702986,restaurant,pedestrian,0.21,5.52
+Max Brenner - Philadelphia,39.94903329999999,-75.1662583,restaurant,pedestrian,0.3,8.48
+Au Bon Pain,39.95394769999999,-75.1747192,restaurant,pedestrian,0.48,13.02
+Devil's Alley Bar & Grill,39.952118,-75.17221599999998,restaurant,pedestrian,0.22,6.03
+R2L Restaurant,39.9518068,-75.1672031,restaurant,pedestrian,0.32,9.0
+Sampan,39.9495449,-75.1622095,restaurant,pedestrian,0.5,13.82
+PrimoHoagies,39.95236269999999,-75.1750177,restaurant,pedestrian,0.37,10.05
+Pub & Kitchen,39.94565040000001,-75.1747723,restaurant,pedestrian,0.47,12.98
+Alma de Cuba,39.95007830000001,-75.1685167,restaurant,pedestrian,0.12,3.5
+Erawan Thai Cuisine,39.951795,-75.17819490000002,restaurant,pedestrian,0.48,12.95
+Coventry Deli,39.953289,-75.17364479999998,restaurant,pedestrian,0.37,10.08
+Di Bruno Bros.,39.9513713,-75.1700434,restaurant,pedestrian,0.14,3.82
+Audrey Claire,39.94828370000001,-75.17455199999998,restaurant,pedestrian,0.31,8.77
+Tria Cafe Rittenhouse,39.95094810000001,-75.1704175,restaurant,pedestrian,0.07,1.82
+Subway,39.9513298,-75.17767719999998,restaurant,pedestrian,0.41,11.6
+Smiths Restaurant & Bar,39.9522612,-75.17173939999998,restaurant,pedestrian,0.23,6.45
+Marathon Grill,39.9529865,-75.1712941,restaurant,pedestrian,0.28,7.9
+El Rey,39.9522506,-75.17402890000002,restaurant,pedestrian,0.32,8.63
+Starbucks,39.954724,-75.16668899999998,restaurant,pedestrian,0.52,14.1
+Green Eggs Café,39.9482356,-75.16242129999998,restaurant,pedestrian,0.53,14.65
+Fado Irish Pub,39.9483519,-75.16634470000002,restaurant,pedestrian,0.32,8.65
+XIX (Nineteen) Restaurant,39.9490956,-75.16476759999998,restaurant,pedestrian,0.33,9.1
+Pietro's Italian,39.9499611,-75.17002219999998,restaurant,pedestrian,0.05,1.42
+The Black Sheep Pub & Restaurant,39.9484223,-75.1692901,restaurant,pedestrian,0.19,5.67
+Tequilas Restaurant / Bar,39.94848700000001,-75.16805099999998,restaurant,pedestrian,0.23,6.22
+Drinker's Pub,39.9521057,-75.17207259999998,restaurant,pedestrian,0.22,6.1
+Entree BYOB,39.944008,-75.169139,restaurant,pedestrian,0.54,14.63
+Mama's Vegetarian,39.9526891,-75.17347939999998,restaurant,pedestrian,0.33,9.3
+Friday Saturday Sunday,39.94893560000001,-75.17597590000003,restaurant,pedestrian,0.35,9.85
+Barclay Prime,39.9484864,-75.1707607,restaurant,pedestrian,0.12,3.52
+Estia Restaurant,39.948459,-75.16525519999998,restaurant,pedestrian,0.37,10.15
+Oyster House,39.9503308,-75.1666036,restaurant,pedestrian,0.27,7.53
+Asia on the Parkway,39.95585199999999,-75.16828799999998,restaurant,pedestrian,0.49,13.28
+Day by Day,39.95164060000001,-75.17568159999998,restaurant,pedestrian,0.34,9.35
+Good Day Eatery & Specialty Sandwiches,39.95363270000001,-75.1695319,restaurant,pedestrian,0.3,8.1
+Twenty Manning Grill,39.948613,-75.17403399999998,restaurant,pedestrian,0.26,7.72
+White Dog Cafe,39.9535582,-75.1929054,restaurant,bicycle,1.27,11.22
+Sofitel Philadelphia at Rittenhouse Square,39.9507723,-75.1690167,restaurant,bicycle,0.26,2.05
+Zahav,39.9462581,-75.1453259,restaurant,bicycle,1.68,12.45
+Sabrina's Cafe,39.9599691,-75.1906236,restaurant,bicycle,1.7,13.17
+Sabrina's Cafe & Spencer's Too,39.960273,-75.16870639999998,restaurant,bicycle,0.74,6.98
+Figs,39.9685125,-75.17855300000002,restaurant,bicycle,1.54,13.25
+The Rittenhouse Hotel,39.949831,-75.1732573,restaurant,bicycle,0.18,1.63
+World Cafe Live Philadelphia,39.9520673,-75.18517259999999,restaurant,bicycle,0.8,6.0
+The Restaurant School at Walnut Hill College,39.9549347,-75.20741140000001,restaurant,bicycle,2.0,14.93
+The Capital Grille,39.9507554,-75.1637453,restaurant,bicycle,0.47,3.67
+Osteria,39.965029,-75.16105600000002,restaurant,bicycle,1.45,11.57
+12th & Filbert,39.9531992,-75.160217,restaurant,bicycle,0.8,6.27
+Jim's South St. (Jim's Steaks South Street),39.9415536,-75.14931340000003,restaurant,bicycle,1.7,12.63
+Chipotle Mexican Grill,39.954101,-75.200795,restaurant,bicycle,1.64,12.13
+McGillin's Olde Ale House,39.9501768,-75.1626101,restaurant,bicycle,0.57,4.52
+Village Whiskey,39.9513999,-75.17377379999998,restaurant,bicycle,0.24,1.87
+Jack's Firehouse,39.9670667,-75.1733,restaurant,bicycle,1.4,11.98
+Pod,39.9539708,-75.19603699999998,restaurant,bicycle,1.44,10.8
+Amada,39.948655,-75.14489300000002,restaurant,bicycle,1.49,10.87
+El Vez,39.94970199999999,-75.1617703,restaurant,bicycle,0.79,5.95
+City Tap House Logan Square,39.9559106,-75.169578,restaurant,bicycle,0.41,3.58
+Parc,39.94912219999999,-75.170749,restaurant,bicycle,0.06,1.58
+Morning Glory Diner,39.9408402,-75.15887029999998,restaurant,bicycle,1.32,10.45
+Han Dynasty,39.956727,-75.19710400000002,restaurant,bicycle,1.68,12.77
+Prohibition Taproom,39.961304,-75.15930999999998,restaurant,bicycle,1.32,10.53
+Monk's Cafe,39.947701,-75.16812399999998,restaurant,bicycle,0.59,4.4
+Vernick Food & Drink,39.9508618,-75.1748874,restaurant,bicycle,0.24,1.87
+Sabrina's Cafe,39.9389267,-75.15827449999998,restaurant,bicycle,1.5,11.2
+Green Eggs Cafe,39.931393,-75.166487,restaurant,bicycle,1.74,12.85
+Lucky Strike Philadelphia,39.9503667,-75.16324200000003,restaurant,bicycle,0.55,4.22
+Pizzeria Vetri,39.96089170000001,-75.17121390000001,restaurant,bicycle,0.87,7.75
+City Tap House University City,39.95422979999999,-75.20148689999998,restaurant,bicycle,1.68,12.38
+Talula's Garden,39.9472602,-75.15353470000002,restaurant,bicycle,1.12,8.88
+Devil's Den,39.93574419999999,-75.16199509999998,restaurant,bicycle,1.57,11.52
+Buddakan,39.9490386,-75.1471998,restaurant,bicycle,1.36,9.9
+Chima Steakhouse,39.95476499999999,-75.17267109999997,restaurant,bicycle,0.45,3.9
+Jones,39.9492661,-75.15248849999998,restaurant,bicycle,1.1,8.67
+Cafe Lift,39.96044699999999,-75.15981,restaurant,bicycle,1.26,9.95
+Rose Tattoo Cafe,39.960758,-75.1698569,restaurant,bicycle,0.83,8.33
+Urban Saloon,39.9671692,-75.17291519999998,restaurant,bicycle,1.42,12.12
+The Dandelion,39.9510075,-75.1707493,restaurant,bicycle,0.08,0.75
+The Victor Café,39.93162999999999,-75.1663147,restaurant,bicycle,1.73,12.73
+Time,39.95003699999999,-75.16251290000002,restaurant,bicycle,0.6,5.52
+Shake Shack,39.9534403,-75.1883722,restaurant,bicycle,1.38,10.13
+New Deck Tavern,39.95348170000001,-75.19261230000002,restaurant,bicycle,1.23,10.48
+The Sidecar Bar & Grille,39.94182199999999,-75.17949300000002,restaurant,bicycle,1.04,8.65
+Sitar India,39.9555123,-75.19858,restaurant,bicycle,1.65,12.33
+The Bourse,39.94981020000001,-75.1475438,restaurant,bicycle,1.41,10.43
+Butcher and Singer,39.9489949,-75.1663033,restaurant,bicycle,0.36,2.6
+Zorba's Tavern,39.96715800000001,-75.17491600000002,restaurant,bicycle,1.44,12.47
+Vetri Cucina,39.94672429999999,-75.1631704,restaurant,bicycle,0.67,6.32
+Tinto,39.95151060000001,-75.1737407,restaurant,bicycle,0.24,1.95
+Famous 4th Street Delicatessen,39.940482900000006,-75.14963259999998,restaurant,bicycle,1.78,13.3
+Boot & Saddle,39.93685599999999,-75.1667638,restaurant,bicycle,1.31,9.72
+Ralph's Italian Restaurant,39.9400584,-75.1578321,restaurant,bicycle,1.52,11.8
+New Delhi Indian Restaurant,39.95539210000001,-75.2026195,restaurant,bicycle,1.82,14.8
+Morimoto,39.9496528,-75.153275,restaurant,bicycle,1.04,7.5
+Dunkin',39.96252570000001,-75.1636833,restaurant,bicycle,1.15,8.92
+Cameron's Seafood,39.9707094,-75.1601089,restaurant,bicycle,1.8,14.87
+Pagano's Market and Bar,39.95396799999999,-75.17356099999998,restaurant,bicycle,0.42,3.45
+HipCityVeg,39.9507609,-75.17039759999999,restaurant,bicycle,0.06,0.42
+Iztaccihuatl Restaurant,39.9352099,-75.15724800000002,restaurant,bicycle,1.82,14.2
+Shake Shack,39.9511265,-75.1738353,restaurant,bicycle,0.22,1.78
+Tir na nOg Irish Bar & Grill,39.95437099999999,-75.16672709999997,restaurant,bicycle,0.51,4.7
+Good Dog Bar,39.94875880000001,-75.1662235,restaurant,bicycle,0.38,2.73
+Landmark Americana University City,39.9559266,-75.19059,restaurant,bicycle,1.33,10.25
+The Continental Mid-town,39.951903,-75.170445,restaurant,bicycle,0.13,1.0
+Trio BYOB,39.9687674,-75.1807615,restaurant,bicycle,1.58,12.75
+J & J Pizza,39.9343749,-75.1587416,restaurant,bicycle,1.81,14.32
+QDOBA Mexican Eats,39.9531869,-75.2029737,restaurant,bicycle,1.8,13.4
+Howl at the Moon Philadelphia,39.94768699999999,-75.1665446,restaurant,bicycle,0.46,3.32
+Blarney Stone,39.9547693,-75.20101559999998,restaurant,bicycle,1.71,12.88
+The Continental Restaurant and Martini Bar,39.94967860000001,-75.14355959999997,restaurant,bicycle,1.64,11.93
+McCrossen's Tavern,39.9630934,-75.17092729999997,restaurant,bicycle,1.02,8.9
+St. Stephen's Green,39.96455050000001,-75.1660753,restaurant,bicycle,1.15,11.4
+Cavanaugh's Restaurant & Sports Bar,39.9545211,-75.19999809999999,restaurant,bicycle,1.66,12.95
+Tsuki Sushi - Authentic Japanese Restaurant in Philadelphia，PA,39.9510933,-75.177133,restaurant,bicycle,0.36,2.77
+Devon Seafood Grill,39.9494863,-75.17063409999999,restaurant,bicycle,0.04,1.33
+Royal Tavern,39.9370051,-75.15449210000001,restaurant,bicycle,1.79,14.5
+Chick-fil-A,39.9589223,-75.19066389999998,restaurant,bicycle,1.59,13.67
+Pyramid Club,39.95336,-75.16972870000002,restaurant,bicycle,0.24,2.07
+Fox & Hound,39.94731,-75.16655999999998,restaurant,bicycle,0.48,3.5
+Davio's Northern Italian Steakhouse,39.951001,-75.16874,restaurant,bicycle,0.24,2.03
+JG Domestic,39.9571241,-75.1821484,restaurant,bicycle,1.07,8.18
+Hummus Grill,39.954356,-75.202162,restaurant,bicycle,1.75,13.82
+Fogo de Chão Brazilian Steakhouse,39.95091659999999,-75.1629711,restaurant,bicycle,0.53,4.77
+Cuba Libre Restaurant & Rum Bar - Philadelphia,39.9496092,-75.14393759999999,restaurant,bicycle,1.65,11.98
+Yakitori Boy,39.9559412,-75.1572626,restaurant,bicycle,1.15,8.92
+Umai Umai,39.964673,-75.17412999999998,restaurant,bicycle,1.2,11.07
+King of Tandoor,39.9603572,-75.1692901,restaurant,bicycle,0.77,7.18
+Helium Comedy Club - Philadelphia,39.9515214,-75.17473199999998,restaurant,bicycle,0.29,2.18
+Fork,39.9500919,-75.14602370000001,restaurant,bicycle,1.5,10.87
+Copabanana University City,39.9516164,-75.20332619999998,restaurant,bicycle,1.91,14.23
+Vedge,39.9478911,-75.16138889999998,restaurant,bicycle,0.66,5.23
+Barbuzzo,39.95000699999999,-75.16215770000002,restaurant,bicycle,0.62,6.03
+Panda Express,39.95470299999999,-75.16849619999998,restaurant,bicycle,0.38,5.07
+Bistro Romano,39.9419429,-75.14468690000002,restaurant,bicycle,1.95,14.72
+Little Pete's,39.967080300000006,-75.17748259999998,restaurant,bicycle,1.52,12.18
+City View Pizza and Grill,39.963068,-75.16444299999998,restaurant,bicycle,1.11,9.12
+Ruth's Chris Steak House,39.95295649999999,-75.1702986,restaurant,bicycle,0.21,1.58
+Max Brenner - Philadelphia,39.94903329999999,-75.1662583,restaurant,bicycle,0.36,2.58
+VALANNI,39.94685,-75.162217,restaurant,bicycle,0.76,6.03
+Allegro Pizza and Grill,39.9514814,-75.2029001,restaurant,bicycle,1.91,14.25
+Sumo Sushi,39.94518389999999,-75.1628028,restaurant,bicycle,0.8,6.73
+Greek Lady,39.95336010000001,-75.20295759999998,restaurant,bicycle,1.79,13.32
+Circles Thai,39.93069920000001,-75.170757,restaurant,bicycle,1.68,13.08
+Pagano's Pizzeria,39.9516506,-75.15267829999998,restaurant,bicycle,1.32,11.37
+Starbucks,39.95302609999999,-75.19223149999998,restaurant,bicycle,1.18,9.3
+Bibou,39.936868,-75.1564728,restaurant,bicycle,1.74,13.77
+Boston Market,39.9556727,-75.20026170000001,restaurant,bicycle,1.77,13.75
+Creperie Beau Monde & L'Etage,39.94127069999999,-75.152648,restaurant,bicycle,1.58,11.87
+Kansai,39.963185,-75.16932709999998,restaurant,bicycle,1.14,9.83
+Au Bon Pain,39.95394769999999,-75.1747192,restaurant,bicycle,0.48,4.37
+Giovani Pizza,39.9515761,-75.1556396,restaurant,bicycle,0.98,7.28
+Fare,39.967072,-75.17128100000002,restaurant,bicycle,1.36,12.38
+The Twisted Tail,39.9418511,-75.14517769999998,restaurant,bicycle,1.94,14.52
+Smokin' Betty's,39.9495556,-75.1589694,restaurant,bicycle,0.83,7.25
+Jimmy John's,39.947789,-75.193297,restaurant,bicycle,1.52,11.28
+Xochitl,39.94287420000001,-75.14564490000002,restaurant,bicycle,1.74,13.97
+Ristorante Pesto,39.92635840000001,-75.1690562,restaurant,bicycle,2.02,14.63
+Devil's Alley Bar & Grill,39.952118,-75.17221599999998,restaurant,bicycle,0.35,2.78
+Bistrot La Minette,39.941312,-75.15229599999998,restaurant,bicycle,1.57,11.65
+Pattaya Thai Cuisine,39.9555484,-75.2026616,restaurant,bicycle,1.89,14.28
+FARMiCiA,39.9497062,-75.145652,restaurant,bicycle,1.51,11.13
+La Calaca Feliz,39.9675162,-75.1760731,restaurant,bicycle,1.59,12.77
+Marrakesh,39.9421039,-75.1495139,restaurant,bicycle,1.69,13.33
+R2L Restaurant,39.9518068,-75.1672031,restaurant,bicycle,0.32,2.52
+Baby Blues BBQ Philly,39.95348900000001,-75.192441,restaurant,bicycle,1.25,11.07
+The Plough & the Stars,39.9486869,-75.1439231,restaurant,bicycle,1.59,11.93
+Moriarty's Restaurant,39.94868579999999,-75.15981640000003,restaurant,bicycle,0.81,6.53
+Papa John's Pizza,39.9551984,-75.2025639,restaurant,bicycle,1.81,14.45
+Nam Phuong Restaurant,39.93652279999999,-75.16182309999998,restaurant,bicycle,1.58,11.75
+Sampan,39.9495449,-75.1622095,restaurant,bicycle,0.72,5.88
+PrimoHoagies,39.95236269999999,-75.1750177,restaurant,bicycle,0.48,4.37
+Starbucks,39.96090900000001,-75.171453,restaurant,bicycle,0.86,7.63
+Pub & Kitchen,39.94565040000001,-75.1747723,restaurant,bicycle,0.47,6.0
+Hawthornes,39.94102309999999,-75.16085609999998,restaurant,bicycle,1.24,9.45
+Campo's Philly Cheesesteaks,39.9498303,-75.14426379999998,restaurant,bicycle,1.6,11.92
+Sazon Restaurant & Cafe,39.961849,-75.154375,restaurant,bicycle,1.66,13.52
+Alma de Cuba,39.95007830000001,-75.1685167,restaurant,bicycle,0.18,2.43
+Hard Rock Cafe,39.9521211,-75.15962270000001,restaurant,bicycle,0.77,6.58
+Pizzeria Stella,39.9424247,-75.1456824,restaurant,bicycle,1.79,13.53
+Spasso Italian Grill,39.948706,-75.142687,restaurant,bicycle,1.63,12.18
+Nan Zhou Hand Drawn Noodle House,39.95520120000001,-75.1568535,restaurant,bicycle,1.12,8.75
+Savas Brick Oven Pizza,39.958284,-75.19270300000002,restaurant,bicycle,1.74,13.25
+Erawan Thai Cuisine,39.951795,-75.17819490000002,restaurant,bicycle,0.47,3.75
+Coventry Deli,39.953289,-75.17364479999998,restaurant,bicycle,0.37,3.82
+Mixto Restaurante,39.945192,-75.16105999999998,restaurant,bicycle,0.89,6.72
+Di Bruno Bros.,39.9513713,-75.1700434,restaurant,bicycle,0.14,1.08
+Shula's Steak House,39.956841,-75.16759700000001,restaurant,bicycle,0.58,5.12
+Wawa,39.9510359,-75.19900159999997,restaurant,bicycle,1.7,12.78
+Audrey Claire,39.94828370000001,-75.17455199999998,restaurant,bicycle,0.31,3.82
+Pho Ha,39.93443679999999,-75.15416189999998,restaurant,bicycle,1.98,14.98
+Tria Cafe Rittenhouse,39.95094810000001,-75.1704175,restaurant,bicycle,0.07,0.53
+Sang Kee Peking Duck House,39.9564399,-75.1542511,restaurant,bicycle,1.39,10.8
+Kite & Key,39.960356,-75.169675,restaurant,bicycle,0.79,7.32
+Fez Moroccan Restaurant,39.9405556,-75.14583329999998,restaurant,bicycle,1.93,14.25
+Subway,39.9513298,-75.17767719999998,restaurant,bicycle,0.41,3.4
+Ekta Indian Cuisine,39.9551123,-75.20248609999999,restaurant,bicycle,1.8,14.32
+Smiths Restaurant & Bar,39.9522612,-75.17173939999998,restaurant,bicycle,0.23,3.92
+Smokey Joe's,39.953808,-75.202958,restaurant,bicycle,1.76,13.1
+Au Bon Pain,39.9482231,-75.1963792,restaurant,bicycle,1.76,13.2
+Tattooed Mom,39.9418757,-75.1518313,restaurant,bicycle,1.55,11.42
+Tria Cafe Wash West,39.9466238,-75.16091390000003,restaurant,bicycle,0.77,6.08
+OCF Coffee House,39.967147,-75.172299,restaurant,bicycle,1.47,12.57
+Marathon Grill,39.9529865,-75.1712941,restaurant,bicycle,0.42,3.95
+El Rey,39.9522506,-75.17402890000002,restaurant,bicycle,0.32,3.6
+Starbucks,39.954724,-75.16668899999998,restaurant,bicycle,0.55,4.43
+Green Eggs Café,39.9482356,-75.16242129999998,restaurant,bicycle,0.63,5.15
+Ishkabibble's,39.9416636,-75.14879789999998,restaurant,bicycle,1.71,12.65
+South Philly Bar & Grill,39.93341539999999,-75.1588527,restaurant,bicycle,1.95,14.97
+Mamma Maria Ristorante Italiano,39.92914849999999,-75.16416600000002,restaurant,bicycle,2.01,15.0
+Dutch Eating Place,39.9537339,-75.15909409999998,restaurant,bicycle,1.06,8.33
+Fado Irish Pub,39.9483519,-75.16634470000002,restaurant,bicycle,0.4,3.08
+Stateside,39.9301971,-75.163146,restaurant,bicycle,1.96,14.77
+XIX (Nineteen) Restaurant,39.9490956,-75.16476759999998,restaurant,bicycle,0.44,3.27
+Ed's Buffalo Wings & Pizza,39.95832899999999,-75.192871,restaurant,bicycle,1.73,13.2
+Lorenzo and Sons Pizza,39.9415831,-75.1478374,restaurant,bicycle,1.76,13.02
+Black N Brew,39.93027779999999,-75.16277779999999,restaurant,bicycle,1.96,14.93
+Pietro's Italian,39.9499611,-75.17002219999998,restaurant,bicycle,0.05,1.52
+La Famiglia Ristorante,39.9493909,-75.1423166,restaurant,bicycle,1.73,12.62
+Oriental Chinese Restaurant,39.9279936,-75.1692692,restaurant,bicycle,1.93,14.02
+Bonchon Philadelphia,39.95450199999999,-75.15699000000002,restaurant,bicycle,1.1,9.25
+The Black Sheep Pub & Restaurant,39.9484223,-75.1692901,restaurant,bicycle,0.27,2.73
+Paddy Whacks Irish Sports Pub - South Street,39.9410426,-75.14548459999997,restaurant,bicycle,1.89,14.02
+Field House,39.95283149999999,-75.15896740000002,restaurant,bicycle,0.87,6.77
+Bleu Martini,39.9493489,-75.14398249999998,restaurant,bicycle,1.66,12.1
+Radicchio Cafe,39.956611,-75.14626190000001,restaurant,bicycle,1.9,14.98
+Vietnam Restaurant,39.9563241,-75.157202,restaurant,bicycle,1.18,9.13
+Saxbys University of Pennsylvania,39.95282320000001,-75.2030626,restaurant,bicycle,1.82,13.6
+Fat Tuesday,39.94187529999999,-75.15025130000002,restaurant,bicycle,1.63,12.12
+Abner's Cheesesteaks,39.955366700000006,-75.1988361,restaurant,bicycle,1.77,13.4
+Villa di Roma,39.937943,-75.1582166,restaurant,bicycle,1.59,12.65
+Race Street Cafe,39.9537089,-75.1434281,restaurant,bicycle,1.85,13.63
+Wawa,39.9623542,-75.1730244,restaurant,bicycle,1.06,9.58
+Tequilas Restaurant / Bar,39.94848700000001,-75.16805099999998,restaurant,bicycle,0.31,2.43
+Dunkin',39.9531857,-75.193533,restaurant,bicycle,1.27,9.87
+Drinker's Pub,39.9521057,-75.17207259999998,restaurant,bicycle,0.22,3.57
+Entree BYOB,39.944008,-75.169139,restaurant,bicycle,0.62,5.4
+Positano Coast by Aldo Lamberti,39.9466667,-75.14472219999998,restaurant,bicycle,1.69,12.42
+Honey's Sit 'N Eat,39.94519469999999,-75.1770879,restaurant,bicycle,0.68,5.77
+South Street Diner,39.94105020000001,-75.145484,restaurant,bicycle,1.89,14.02
+Cavanaugh’s Headhouse,39.9422842,-75.14496109999997,restaurant,bicycle,1.84,14.95
+Mama's Vegetarian,39.9526891,-75.17347939999998,restaurant,bicycle,0.33,2.73
+Panorama,39.95016470000001,-75.1421903,restaurant,bicycle,1.75,13.02
+Friday Saturday Sunday,39.94893560000001,-75.17597590000003,restaurant,bicycle,0.42,4.2
+Barclay Prime,39.9484864,-75.1707607,restaurant,bicycle,0.16,2.63
+Domino's Pizza,39.96224779999999,-75.1729739,restaurant,bicycle,1.02,9.88
+Estia Restaurant,39.948459,-75.16525519999998,restaurant,bicycle,0.45,3.4
+Oyster House,39.9503308,-75.1666036,restaurant,bicycle,0.27,3.47
+Doma Japanese Restaurant,39.96036400000001,-75.1692333,restaurant,bicycle,0.77,7.17
+Asia on the Parkway,39.95585199999999,-75.16828799999998,restaurant,bicycle,0.61,5.2
+Day by Day,39.95164060000001,-75.17568159999998,restaurant,bicycle,0.34,2.78
+Rotten Ralph's,39.9484837,-75.1441287,restaurant,bicycle,1.55,11.95
+Starbucks,39.952062,-75.14513699999998,restaurant,bicycle,1.65,12.15
+Pete's Famous Pizza,39.9563495,-75.17474190000001,restaurant,bicycle,0.68,5.97
+Dante & Luigi's,39.94006419999999,-75.1594444,restaurant,bicycle,1.4,10.33
+Slice,39.93465459999999,-75.16053749999998,restaurant,bicycle,1.75,13.07
+Luigi's Pizza Fresca,39.9675657,-75.17710670000002,restaurant,bicycle,1.56,13.15
+Good Day Eatery & Specialty Sandwiches,39.95363270000001,-75.1695319,restaurant,bicycle,0.3,3.37
+Drinker's Tavern,39.9496657,-75.143277,restaurant,bicycle,1.65,12.0
+West Tavern,39.959686,-75.16360399999998,restaurant,bicycle,0.99,9.87
+Twenty Manning Grill,39.948613,-75.17403399999998,restaurant,bicycle,0.34,4.12
+Mercato BYOB,39.9465,-75.161765,restaurant,bicycle,0.75,5.92
+The Print Center,39.9481309,-75.1685605,entertainment,pedestrian,0.23,6.78
+Art Studio: Melanie Miller,39.94686979999999,-75.1671697,entertainment,pedestrian,0.41,11.32
+Collectible Art Gallery,39.9521124,-75.17526600000002,entertainment,pedestrian,0.38,10.62
+Justin Images Photography Gallery,39.95232180000001,-75.17330279999999,entertainment,pedestrian,0.3,8.47
+Mangel Art Gallery,39.9531865,-75.1749671,entertainment,pedestrian,0.44,11.92
+David David Gallery,39.9480512,-75.17126400000002,entertainment,pedestrian,0.14,3.68
+FrameWorks Studio & Gallery,39.95091199999999,-75.175961,entertainment,pedestrian,0.3,8.17
+Foundation For Self Taught,39.95264960000001,-75.1690393,entertainment,pedestrian,0.23,6.47
+Art Around Gallery,39.952296200000006,-75.1739587,entertainment,pedestrian,0.31,8.55
+RACSO Gallery,39.9545628,-75.1668505,entertainment,pedestrian,0.47,12.92
+Plays and Players Gallery,39.9467876,-75.17038240000002,entertainment,pedestrian,0.26,7.08
+ART @t Bridge Club of Center City,39.9495926,-75.16852,entertainment,pedestrian,0.15,4.15
+Art Space Collaborative,39.9482359,-75.1708166,entertainment,pedestrian,0.14,4.0
+Works On Paper,39.949915,-75.1680362,entertainment,pedestrian,0.15,4.23
+Twenty-Two Gallery,39.949442,-75.17788900000002,entertainment,pedestrian,0.46,12.82
+Twenty-Two Gallery,39.949442,-75.17788900000002,entertainment,pedestrian,0.46,12.82
+Light Box Arts,39.9502165,-75.16919890000001,entertainment,pedestrian,0.11,3.38
+Sol Mednick Gallery,39.94902310000001,-75.1639486,entertainment,pedestrian,0.41,11.25
+Dolan Maxwell Inc,39.94880339999999,-75.1757586,entertainment,pedestrian,0.33,9.5
+Collectible Art & Frames,39.9521823,-75.17523659999998,entertainment,pedestrian,0.38,10.32
+Studio Associates,39.9467295,-75.1700578,entertainment,pedestrian,0.33,9.22
+New Image Art & Frame,39.95225749999999,-75.17330489999998,entertainment,pedestrian,0.3,8.35
+Vintage Photography,39.95230079999999,-75.17043009999998,entertainment,pedestrian,0.17,4.65
+Gross Mc Cleaf Gallery,39.9502352,-75.16722399999998,entertainment,pedestrian,0.22,6.07
+Liberty Art & Framing,39.9508314,-75.1738984,entertainment,pedestrian,0.2,5.67
+Alexander Calder Stabile Sculpture,39.95577189999999,-75.16728859999998,entertainment,pedestrian,0.54,14.72
+Schwarz Gallery,39.951614000000006,-75.17066700000002,entertainment,pedestrian,0.13,3.7
+The Center For Emerging Visual Artists,39.9486558,-75.1707729,entertainment,pedestrian,0.09,2.45
+Ray Arts Gallery,39.9505578,-75.17077009999998,entertainment,pedestrian,0.04,1.02
+Millennium Art Gallery Inc.,39.949036,-75.163516,entertainment,pedestrian,0.43,11.73
+Susan Hagen,39.951799,-75.16948959999998,entertainment,pedestrian,0.19,5.27
+"B and K Arts, LLC",39.9442664,-75.16864129999998,entertainment,pedestrian,0.54,14.82
+Gross Mc Cleaf Gallery,39.9502352,-75.16722399999998,entertainment,pedestrian,0.22,6.07
+Rebecca O'Leary Art Advisory,39.9484149,-75.16504239999998,entertainment,pedestrian,0.38,10.47
+Lucky Strike Philadelphia,39.9503667,-75.16324200000003,entertainment,pedestrian,0.49,13.58
+Historical Society of Pennsylvania,39.94778699999999,-75.16273199999998,entertainment,pedestrian,0.51,13.93
+National Federation-Abstrctng,39.949423900000006,-75.16690320000002,entertainment,pedestrian,0.24,6.75
+Brogan James M,39.95267070000001,-75.16821329999998,entertainment,pedestrian,0.29,8.07
+Library Co of Philadelphia,39.947810200000006,-75.16311850000002,entertainment,pedestrian,0.52,14.45
+Hoyle Fickler Herschel-Mathes,39.9525474,-75.16735209999999,entertainment,pedestrian,0.37,10.05
+Philadelphia City Institute,39.9494607,-75.17327449999998,entertainment,pedestrian,0.19,5.27
+Learning Lab,39.94950120000001,-75.1733449,entertainment,pedestrian,0.18,5.03
+Philadelphia Law Library,39.9523277,-75.16354319999998,entertainment,pedestrian,0.52,14.48
+Associated Library Services,39.95400220000001,-75.1702608,entertainment,pedestrian,0.29,8.03
+Pepper Hamilton Law Library,39.9557518,-75.1700194,entertainment,pedestrian,0.4,10.72
+"Vincent R. McGuinness, Jr.",39.95265879999999,-75.1682021,entertainment,pedestrian,0.29,8.05
+Jenkins Law Library,39.9536091,-75.17012079999998,entertainment,pedestrian,0.25,6.73
+Ewell Sale Stewart Library and Archives,39.95681099999999,-75.171015,entertainment,pedestrian,0.55,14.95
+The Mütter Museum at The College of Physicians of Philadelphia,39.95323079999999,-75.1763698,entertainment,pedestrian,0.52,14.35
+Historical Society of Pennsylvania,39.94778699999999,-75.16273199999998,entertainment,pedestrian,0.51,13.93
+The Rosenbach,39.9473109,-75.1750386,entertainment,pedestrian,0.4,11.27
+Ennovance Capital LLC,39.949553,-75.166917,entertainment,pedestrian,0.23,6.52
+The Print Center,39.9481309,-75.1685605,entertainment,pedestrian,0.23,6.78
+Art Space Collaborative,39.9482359,-75.1708166,entertainment,pedestrian,0.14,4.0
+Wells Fargo Museum,39.94968929999999,-75.1639465,entertainment,pedestrian,0.38,10.6
+Romanian Museum & Gallery,39.94719110000001,-75.1683656,entertainment,pedestrian,0.31,8.7
+Mural,39.9511456,-75.17762929999998,entertainment,pedestrian,0.39,10.57
+St. Kyle of KEK Statue,39.9495623,-75.1718321,entertainment,pedestrian,0.09,2.65
+Museum Network Inc,39.9515436,-75.16583609999998,entertainment,pedestrian,0.4,11.12
+Liberty Bell,39.9525839,-75.1652215,entertainment,pedestrian,0.48,13.08
+The Mütter Museum at The College of Physicians of Philadelphia,39.95323079999999,-75.1763698,entertainment,pedestrian,0.52,14.35
+The Rosenbach,39.9473109,-75.1750386,entertainment,pedestrian,0.4,11.27
+Rittenhouse Square,39.9494818,-75.17188349999998,entertainment,pedestrian,0.1,2.88
+Library Co of Philadelphia,39.947810200000006,-75.16311850000002,entertainment,pedestrian,0.52,14.45
+The Church of the Holy Trinity,39.9502577,-75.17298570000001,entertainment,pedestrian,0.14,4.0
+Philadelphia Hospitality,39.94946160000001,-75.1645238,entertainment,pedestrian,0.34,9.32
+The Print Center,39.9481309,-75.1685605,entertainment,pedestrian,0.23,6.78
+City Hall Visitor Center,39.9512025,-75.16347499999998,entertainment,pedestrian,0.49,13.42
+Art Space Collaborative,39.9482359,-75.1708166,entertainment,pedestrian,0.14,4.0
+Palace Travel Inc,39.949926,-75.163686,entertainment,pedestrian,0.43,11.77
+Phillies Mural,39.9510963,-75.18051080000002,entertainment,pedestrian,0.54,14.67
+Brogan James M,39.95267070000001,-75.16821329999998,entertainment,pedestrian,0.29,8.07
+Milord la Chamarre Statue,39.95217089999999,-75.1661135,entertainment,pedestrian,0.37,10.52
+Comcast Experience,39.9545383,-75.16854649999998,entertainment,pedestrian,0.38,10.47
+America's Garden Capital Maze,39.9524382,-75.1646225,entertainment,pedestrian,0.52,14.17
+Sister Cities Park,39.9579056,-75.16933890000001,entertainment,pedestrian,0.56,14.95
+Gross Mc Cleaf Gallery,39.9502352,-75.16722399999998,entertainment,pedestrian,0.22,6.07
+Vox Populi,39.9583049,-75.1566228,entertainment,bicycle,1.33,11.2
+Philadelphia's Magic Gardens,39.9427128,-75.1593122,entertainment,bicycle,1.17,8.7
+Art 4 Business Inc,39.95835870000001,-75.1953934,entertainment,bicycle,1.75,13.4
+The Print Center,39.9481309,-75.1685605,entertainment,bicycle,0.32,3.85
+The University of the Arts,39.9458813,-75.16526640000002,entertainment,bicycle,0.66,4.77
+PhilaMOCA,39.96222279999999,-75.1575062,entertainment,bicycle,1.53,12.8
+Art Studio: Melanie Miller,39.94686979999999,-75.1671697,entertainment,bicycle,0.55,4.18
+H. Smith Shop,39.93591710000001,-75.1783978,entertainment,bicycle,1.2,11.57
+Pearlstein Gallery,39.9571472,-75.19293940000001,entertainment,bicycle,1.7,13.38
+Eyes Gallery,39.941576,-75.149363,entertainment,bicycle,1.68,12.43
+"DAVID ROCCO GALLERY, LLC",39.9475922,-75.15852799999998,entertainment,bicycle,0.83,7.0
+The Clay Studio,39.9530694,-75.1429583,entertainment,bicycle,1.93,14.2
+Hahn Gallery,39.96660079999999,-75.17794049999998,entertainment,bicycle,1.48,11.63
+NAPOLEON,39.958302,-75.156601,entertainment,bicycle,1.33,11.23
+Esther Klein Gallery,39.95580560000001,-75.19458409999999,entertainment,bicycle,1.5,11.22
+Collectible Art Gallery,39.9521124,-75.17526600000002,entertainment,bicycle,0.49,4.48
+Alere LLC,39.9422114,-75.17460919999998,entertainment,bicycle,0.72,7.58
+Goldie Paley Gallery,39.95727029999999,-75.1719562,entertainment,bicycle,0.69,5.7
+Cerulean Arts,39.9656537,-75.1596235,entertainment,bicycle,1.57,12.87
+The Plastic Club,39.94718320000001,-75.16156059999999,entertainment,bicycle,0.7,5.53
+S U G A R C U B E ®,39.9528848,-75.14516119999998,entertainment,bicycle,1.71,12.55
+Jim Loewer Glass,39.938875900000006,-75.1639665,entertainment,bicycle,1.4,10.43
+Justin Images Photography Gallery,39.95232180000001,-75.17330279999999,entertainment,bicycle,0.3,2.4
+Jed Williams Studio,39.9413677,-75.15304139999998,entertainment,bicycle,1.55,11.72
+Khmer Art Gallery,39.9583092,-75.15656609999998,entertainment,bicycle,1.34,11.28
+Athenaeum of Philadelphia,39.94687259999999,-75.1509588,entertainment,bicycle,1.34,9.93
+Rosenwald-Wolf Gallery,39.94594269999999,-75.1647778,entertainment,bicycle,0.65,4.72
+Talismanik,39.94477930000001,-75.1801309,entertainment,bicycle,0.88,7.03
+Mangel Art Gallery,39.9531865,-75.1749671,entertainment,bicycle,0.46,5.03
+Fotto Star Gallery,39.95163270000001,-75.15574509999998,entertainment,bicycle,0.97,7.23
+Dalet Gallery,39.9530961,-75.1429095,entertainment,bicycle,1.93,14.18
+David David Gallery,39.9480512,-75.17126400000002,entertainment,bicycle,0.17,2.8
+Wendy's Frame Shop,39.9303256,-75.16862549999998,entertainment,bicycle,1.75,12.7
+FrameWorks Studio & Gallery,39.95091199999999,-75.175961,entertainment,bicycle,0.3,2.35
+Foundation For Self Taught,39.95264960000001,-75.1690393,entertainment,bicycle,0.23,1.8
+MATCHBOX PHILLY | GLASS GALLERY & SMOKESHOP,39.9423329,-75.153646,entertainment,bicycle,1.45,10.75
+leo sewell,39.960355,-75.19454700000001,entertainment,bicycle,1.92,14.75
+Art Around Gallery,39.952296200000006,-75.1739587,entertainment,bicycle,0.31,3.52
+The Hacktory,39.9593038,-75.19481009999998,entertainment,bicycle,1.77,13.68
+RACSO Gallery,39.9545628,-75.1668505,entertainment,bicycle,0.52,4.93
+Plays and Players Gallery,39.9467876,-75.17038240000002,entertainment,bicycle,0.4,4.23
+Custom Frame Shop / deVecchis Gallery,39.9415607,-75.14943319999998,entertainment,bicycle,1.68,12.42
+ART @t Bridge Club of Center City,39.9495926,-75.16852,entertainment,bicycle,0.15,2.07
+3rd Street Gallery,39.941094,-75.14779999999998,entertainment,bicycle,1.81,14.35
+Cardell Dance Studio,39.9668771,-75.1656459,entertainment,bicycle,1.45,11.75
+Mary Nomecos,39.94667099999999,-75.183089,entertainment,bicycle,0.96,7.68
+John Formicola Fine Arts,39.9371264,-75.1558378,entertainment,bicycle,1.79,13.62
+TM Sculpture,39.97009079999999,-75.15859669999998,entertainment,bicycle,1.86,14.73
+Art & The Ageless Gardens,39.9463513,-75.181901,entertainment,bicycle,0.92,7.27
+Art Space Collaborative,39.9482359,-75.1708166,entertainment,bicycle,0.17,3.17
+Heavy Bubble HQ,39.9388907,-75.16379529999998,entertainment,bicycle,1.36,10.4
+Works On Paper,39.949915,-75.1680362,entertainment,bicycle,0.21,3.17
+Beyond the Seams,39.9688896,-75.16029540000002,entertainment,bicycle,1.74,13.85
+Calderwood Gallery,39.96454,-75.1605235,entertainment,bicycle,1.55,13.1
+Kelly Wallace,39.9447594,-75.1602001,entertainment,bicycle,0.97,8.75
+C R Ettinger Studio,39.94541419999999,-75.17912820000002,entertainment,bicycle,0.87,7.03
+Project Joy Studio,39.938924,-75.1637497,entertainment,bicycle,1.36,10.4
+Wholistic.Art,39.9582606,-75.1567184,entertainment,bicycle,1.31,10.25
+Da Vinci Art Alliance,39.9388477,-75.15495990000002,entertainment,bicycle,1.71,12.97
+Art,39.9633872,-75.1649809,entertainment,bicycle,1.17,9.7
+Brooke Lanier Fine Art,39.937725,-75.150222,entertainment,bicycle,1.97,14.67
+Arch Enemy Arts,39.9519098,-75.1421522,entertainment,bicycle,1.88,14.02
+Twenty-Two Gallery,39.949442,-75.17788900000002,entertainment,bicycle,0.59,4.72
+Nancy Moses Planning & Development,39.94654320000001,-75.150932,entertainment,bicycle,1.39,10.82
+Pageant: Soloveev,39.9413221,-75.1527823,entertainment,bicycle,1.55,11.73
+Twenty-Two Gallery,39.949442,-75.17788900000002,entertainment,bicycle,0.59,4.72
+Light Box Arts,39.9502165,-75.16919890000001,entertainment,bicycle,0.14,1.07
+Sol Mednick Gallery,39.94902310000001,-75.1639486,entertainment,bicycle,0.46,4.98
+BlinkArt Gallery,39.94808219999999,-75.1429098,entertainment,bicycle,1.6,11.73
+The Galleries At Moore,39.9572925,-75.172217,entertainment,bicycle,0.67,5.62
+WOA Gallery,39.94858600000001,-75.14448490000002,entertainment,bicycle,1.51,11.27
+Dolan Maxwell Inc,39.94880339999999,-75.1757586,entertainment,bicycle,0.33,4.15
+Grizzly Grizzly,39.95830730000001,-75.1565993,entertainment,bicycle,1.33,11.23
+Dane Fine Art,39.9612079,-75.14934889999998,entertainment,bicycle,1.92,14.55
+PII Gallery,39.95384079999999,-75.1443386,entertainment,bicycle,1.81,13.25
+Artjaz Gallery,39.95178380000001,-75.1435341,entertainment,bicycle,1.76,14.58
+Collectible Art & Frames,39.9521823,-75.17523659999998,entertainment,bicycle,0.47,4.27
+Lisa M Reisman & Cie Ltd,39.94917810000001,-75.14269490000002,entertainment,bicycle,1.66,12.37
+Philadelphia Visionary Arts Gallery,39.93868320000001,-75.14990490000002,entertainment,bicycle,1.9,14.12
+Locks Gallery,39.945925,-75.151673,entertainment,bicycle,1.41,10.2
+I. Brewster & Co.,39.9609744,-75.14945340000001,entertainment,bicycle,1.9,14.82
+Art At The Bourse,39.94985670000001,-75.14850489999998,entertainment,bicycle,1.36,10.12
+Paradigm Gallery + Studio,39.9393078,-75.14980059999998,entertainment,bicycle,1.86,13.82
+Studio Associates,39.9467295,-75.1700578,entertainment,bicycle,0.41,3.22
+Tribal Home,39.9517338,-75.14540759999998,entertainment,bicycle,1.63,12.0
+Oriental Art Gallery,39.93947499999999,-75.1495765,entertainment,bicycle,1.85,13.73
+Brandywine Workshop,39.9420671,-75.16617579999998,entertainment,bicycle,0.96,7.07
+LORD LUDD,39.949986,-75.1460333,entertainment,bicycle,1.5,10.88
+Time Food,39.94027699999999,-75.14967759999998,entertainment,bicycle,1.79,13.32
+New Image Art & Frame,39.95225749999999,-75.17330489999998,entertainment,bicycle,0.3,2.37
+Vintage Photography,39.95230079999999,-75.17043009999998,entertainment,bicycle,0.17,1.47
+Gross Mc Cleaf Gallery,39.9502352,-75.16722399999998,entertainment,bicycle,0.22,1.58
+The SPACE Art Gallery,39.94002099999999,-75.15582640000002,entertainment,bicycle,1.53,12.15
+Liberty Art & Framing,39.9508314,-75.1738984,entertainment,bicycle,0.2,1.62
+Giovinetti Studios,39.94128920000001,-75.15035350000002,entertainment,bicycle,1.69,12.73
+Bluestone Gallery Llc,39.9559438,-75.14429390000002,entertainment,bicycle,1.91,14.22
+Dupree Gallery,39.9409824,-75.1523605,entertainment,bicycle,1.59,12.0
+Partners and Son,39.9414667,-75.15261129999998,entertainment,bicycle,1.56,11.6
+Alexander Calder Stabile Sculpture,39.95577189999999,-75.16728859999998,entertainment,bicycle,0.66,5.18
+Dina Wind,39.94803270000001,-75.15305599999998,entertainment,bicycle,1.18,9.9
+COSM Chapel of Sacred Mirrors,39.9589742,-75.15973679999998,entertainment,bicycle,1.16,9.25
+B Square Gallery,39.94207309999999,-75.15725040000002,entertainment,bicycle,1.35,10.4
+Schwarz Gallery,39.951614000000006,-75.17066700000002,entertainment,bicycle,0.13,1.78
+Fleisher/Ollman Gallery,39.9619658,-75.15352340000003,entertainment,bicycle,1.79,14.22
+Gallery Joe,39.9520345,-75.14541290000003,entertainment,bicycle,1.65,12.12
+The Center For Emerging Visual Artists,39.9486558,-75.1707729,entertainment,bicycle,0.14,2.42
+Ray Arts Gallery,39.9505578,-75.17077009999998,entertainment,bicycle,0.04,0.27
+Twelve Gates Arts,39.95227799999999,-75.14350499999998,entertainment,bicycle,1.99,14.62
+Space 1026,39.9535738,-75.1573768,entertainment,bicycle,1.02,8.08
+Millennium Art Gallery Inc.,39.949036,-75.163516,entertainment,bicycle,0.67,5.18
+Susan Hagen,39.951799,-75.16948959999998,entertainment,bicycle,0.19,2.77
+"B and K Arts, LLC",39.9442664,-75.16864129999998,entertainment,bicycle,0.65,5.82
+Stanek Gallery,39.95514970000001,-75.14486679999997,entertainment,bicycle,1.88,14.17
+Larry Becker Contemporary Art,39.9511231,-75.1433407,entertainment,bicycle,1.71,13.6
+Pentimenti Gallery,39.9531754,-75.1429059,entertainment,bicycle,1.92,14.33
+M Finkel & Daughter,39.94461919999999,-75.1581188,entertainment,bicycle,1.06,7.9
+Bridgette Mayer Gallery,39.948085,-75.1530369,entertainment,bicycle,1.18,9.92
+Gallery Joe,39.9467559,-75.14995909999998,entertainment,bicycle,1.4,10.33
+Freiman Stoltzfus Gallery Philadelphia,39.94471770000001,-75.1596677,entertainment,bicycle,0.98,8.03
+Gross Mc Cleaf Gallery,39.9502352,-75.16722399999998,entertainment,bicycle,0.22,1.58
+Freiman Stoltzfus Gallery Philadelphia,39.94471770000001,-75.1596677,entertainment,bicycle,0.98,8.03
+Troyka Fine Arts Gallery,39.9452568,-75.16369240000002,entertainment,bicycle,0.76,5.68
+Rebecca O'Leary Art Advisory,39.9484149,-75.16504239999998,entertainment,bicycle,0.46,3.47
+Kapp Kapp,39.94573169999999,-75.162735,entertainment,bicycle,0.82,6.43
+Lucky Strike Philadelphia,39.9503667,-75.16324200000003,entertainment,bicycle,0.55,4.22
+Pep Bowl,39.9354732,-75.16777090000002,entertainment,bicycle,1.4,10.23
+Otto E. Albrecht Music Library,39.95264079999999,-75.19357590000001,entertainment,bicycle,1.24,9.08
+Historical Society of Pennsylvania,39.94778699999999,-75.16273199999998,entertainment,bicycle,0.59,4.68
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+American Philosophical Society,39.9486222,-75.1494434,entertainment,bicycle,1.27,10.17
+Robert Dunning Dripps Library,39.94996789999999,-75.1930038,entertainment,bicycle,1.37,10.22
+Medical Library,39.9455612,-75.1555765,entertainment,bicycle,1.16,9.03
+Annenberg School for Communication Library,39.9529215,-75.1955936,entertainment,bicycle,1.35,9.92
+Reader Development,39.95960549999999,-75.17102360000001,entertainment,bicycle,0.8,7.38
+Biomedical Library,39.9495032,-75.19594839999998,entertainment,bicycle,1.71,12.8
+Medical Library,39.9455612,-75.1555765,entertainment,bicycle,1.16,9.03
+Reader Development,39.95960549999999,-75.17102360000001,entertainment,bicycle,0.8,7.38
+Drexel University Libraries,39.95529500000001,-75.1898635,entertainment,bicycle,1.25,9.32
+National Federation-Abstrctng,39.949423900000006,-75.16690320000002,entertainment,bicycle,0.38,2.97
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+South Philadelphia Library,39.92914330000001,-75.16908269999998,entertainment,bicycle,1.84,14.2
+Business Resource and Innovation Center at the Free Library of Philadelphia,39.9592686,-75.17071640000002,entertainment,bicycle,0.73,6.8
+Brogan James M,39.95267070000001,-75.16821329999998,entertainment,bicycle,0.33,2.62
+Scott Memorial Library at Thomas Jefferson University,39.94830169999999,-75.1581321,entertainment,bicycle,0.99,8.0
+Science History Institute,39.9487962,-75.1466157,entertainment,bicycle,1.4,10.15
+Charles Santore Library,39.9370777,-75.15531329999997,entertainment,bicycle,1.75,13.28
+Queen Memorial Library,39.93788970000001,-75.18127390000002,entertainment,bicycle,1.36,11.42
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+The Donald F & Mildred Topp Othmer Library of Chemical History,39.9489717,-75.14655450000002,entertainment,bicycle,1.41,10.38
+SPB Library,39.9291832,-75.1692882,entertainment,bicycle,1.86,13.82
+Albert M. Greenfield Library,39.9458792,-75.1645352,entertainment,bicycle,0.69,5.17
+Region III Library,39.9482175,-75.1516503,entertainment,bicycle,1.26,9.27
+Reader Development,39.95960549999999,-75.17102360000001,entertainment,bicycle,0.8,7.38
+Library Co of Philadelphia,39.947810200000006,-75.16311850000002,entertainment,bicycle,0.6,4.95
+Reader Development,39.95960549999999,-75.17102360000001,entertainment,bicycle,0.8,7.38
+Philadelphia Museum of Art Library & Archives,39.96769060000001,-75.1795372,entertainment,bicycle,1.48,12.07
+Walnut Street West Library,39.9538204,-75.20246,entertainment,bicycle,1.75,13.07
+Presbyterian Historical Society,39.94311219999999,-75.1499077,entertainment,bicycle,1.72,12.98
+Aids Library,39.9479863,-75.16188009999998,entertainment,bicycle,0.63,5.03
+Independence Historical Library,39.9473026,-75.14617790000001,entertainment,bicycle,1.66,12.38
+Charles L. Durham Library,39.9638919,-75.19115339999998,entertainment,bicycle,1.93,14.87
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+Van Pelt Library,39.95272360000001,-75.1940023,entertainment,bicycle,1.27,9.27
+Charles Santore Library,39.9370777,-75.15531329999997,entertainment,bicycle,1.75,13.28
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+Rare Book & Manuscript Library,39.9526438,-75.1936932,entertainment,bicycle,1.25,9.13
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+Demography Library,39.952081,-75.19804719999998,entertainment,bicycle,1.66,14.25
+Music Library and Ormandy Center,39.952593,-75.1935678,entertainment,bicycle,1.27,10.62
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+Education Commons,39.9504639,-75.1892797,entertainment,bicycle,1.55,11.2
+Audio Visual Resource Library,39.945879700000006,-75.1484718,entertainment,bicycle,1.55,11.27
+Library for the Blind and Physically Handicapped,39.9621155,-75.16405329999998,entertainment,bicycle,1.05,8.15
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+Athenaeum of Philadelphia,39.94687259999999,-75.1509588,entertainment,bicycle,1.34,9.93
+Community College - Phil Library,39.9623095,-75.1655602,entertainment,bicycle,1.06,8.37
+Nursing History Center,39.94906059999999,-75.1959494,entertainment,bicycle,1.71,12.85
+Hoyle Fickler Herschel-Mathes,39.9525474,-75.16735209999999,entertainment,bicycle,0.37,2.82
+Philadelphia City Institute,39.9494607,-75.17327449999998,entertainment,bicycle,0.19,2.13
+Fisher Fine Arts Library,39.95161069999999,-75.1927695,entertainment,bicycle,1.31,11.47
+Scott Memorial Library at Thomas Jefferson University,39.948341000000006,-75.15825699999998,entertainment,bicycle,0.99,8.07
+Dental Library,39.9527238,-75.20342590000001,entertainment,bicycle,1.84,13.72
+Veterinary School Library,39.9499783,-75.20008929999999,entertainment,bicycle,1.8,14.52
+Medical Library,39.9718848,-75.1627053,entertainment,bicycle,1.73,14.23
+Chemistry Library,39.950738,-75.19219,entertainment,bicycle,1.31,9.55
+Museum Library,39.9492597,-75.19132950000002,entertainment,bicycle,1.48,11.12
+Lippincott Wharton Sch Library,39.95262319999999,-75.193484,entertainment,bicycle,1.24,9.85
+Monell Chemical Senses Center,39.95585820000001,-75.193179,entertainment,bicycle,1.47,11.17
+Krausz Library of Podiatric Medicine,39.954781,-75.15328530000002,entertainment,bicycle,1.35,10.35
+Independence Library,39.9502814,-75.1523394,entertainment,bicycle,1.15,8.52
+Parkway Central Library,39.95956470000001,-75.17104450000002,entertainment,bicycle,0.8,7.33
+Learning Lab,39.94950120000001,-75.1733449,entertainment,bicycle,0.2,1.83
+Math Physics Astronomy Library,39.95211,-75.18979809999998,entertainment,bicycle,1.09,8.92
+Charles Kelman Library,39.9480211,-75.1551375,entertainment,bicycle,1.16,8.5
+Philadelphia Law Library,39.9523277,-75.16354319999998,entertainment,bicycle,0.54,4.95
+Biddle Law Library,39.9538891,-75.1930904,entertainment,bicycle,1.29,11.3
+John C.Haas Archive Of Science And Business At CHF,39.94920259999999,-75.1459998,entertainment,bicycle,1.47,10.82
+Associated Library Services,39.95400220000001,-75.1702608,entertainment,bicycle,0.29,2.62
+Pepper Hamilton Law Library,39.9557518,-75.1700194,entertainment,bicycle,0.4,3.5
+"Vincent R. McGuinness, Jr.",39.95265879999999,-75.1682021,entertainment,bicycle,0.33,2.62
+Central Childrens Department,39.959549,-75.17158719999998,entertainment,bicycle,0.78,7.83
+American Philosophical Society Library,39.94837620000001,-75.1489423,entertainment,bicycle,1.36,11.67
+Jenkins Law Library,39.9536091,-75.17012079999998,entertainment,bicycle,0.25,2.15
+National Railway Historic Society,39.95591,-75.17308969999998,entertainment,bicycle,0.59,5.1
+Philadelphia Historical Library,39.9547062,-75.16361850000001,entertainment,bicycle,0.68,6.82
+Newspaper and Microfilm Department,39.95947570000001,-75.1714782,entertainment,bicycle,0.77,7.73
+Field Teen Center,39.95983629999999,-75.1714415,entertainment,bicycle,0.82,8.17
+Reader Development,39.95960549999999,-75.17102360000001,entertainment,bicycle,0.8,7.38
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+Drexel University Hahnemann Library,39.95715209999999,-75.163426,entertainment,bicycle,0.82,6.93
+Magee Rehab Hospital Learning Library,39.95677050000001,-75.165439,entertainment,bicycle,0.69,5.38
+Ewell Sale Stewart Library and Archives,39.95681099999999,-75.171015,entertainment,bicycle,0.55,5.83
+Eastern State Penitentiary,39.9683364,-75.17266479999998,entertainment,bicycle,1.45,12.57
+National Constitution Center,39.95369549999999,-75.1491166,entertainment,bicycle,1.63,12.98
+Philadelphia Museum of Art,39.9655697,-75.18096609999998,entertainment,bicycle,1.39,11.12
+The Franklin Institute,39.9582109,-75.17313469999998,entertainment,bicycle,0.76,6.47
+Philadelphia's Magic Gardens,39.9427128,-75.1593122,entertainment,bicycle,1.17,8.7
+The Mütter Museum at The College of Physicians of Philadelphia,39.95323079999999,-75.1763698,entertainment,bicycle,0.58,4.43
+Institute of Contemporary Art,39.95406870000001,-75.1947096,entertainment,bicycle,1.38,10.12
+Betsy Ross House,39.9522182,-75.1446397,entertainment,bicycle,1.69,13.53
+Historical Society of Pennsylvania,39.94778699999999,-75.16273199999998,entertainment,bicycle,0.59,4.68
+National Museum of American Jewish History,39.9502434,-75.14857680000001,entertainment,bicycle,1.35,10.05
+Fireman's Hall Museum,39.9532585,-75.1426468,entertainment,bicycle,1.94,14.42
+Perelman Building,39.967594,-75.17939100000002,entertainment,bicycle,1.48,11.93
+The Rosenbach,39.9473109,-75.1750386,entertainment,bicycle,0.61,5.22
+Rodin Museum,39.9619232,-75.17395789999998,entertainment,bicycle,0.97,8.48
+University of Pennsylvania Museum Casting Program,39.9493114,-75.1915254,entertainment,bicycle,1.48,11.08
+The Academy of Natural Sciences of Drexel University,39.9571169,-75.1710701,entertainment,bicycle,0.65,5.97
+Fairmount Water Works,39.96581120000001,-75.1834918,entertainment,bicycle,1.67,13.07
+Mario Lanza Institute,39.9373929,-75.155521,entertainment,bicycle,1.74,13.15
+Barnes Foundation,39.9606433,-75.17280749999998,entertainment,bicycle,0.91,8.37
+Penn Museum,39.94923920000001,-75.191367,entertainment,bicycle,1.48,11.12
+The African American Museum in Philadelphia,39.95326139999999,-75.15175620000002,entertainment,bicycle,1.36,10.2
+American Philosophical Society,39.9486222,-75.1494434,entertainment,bicycle,1.27,10.17
+Ennovance Capital LLC,39.949553,-75.166917,entertainment,bicycle,0.38,2.92
+The Print Center,39.9481309,-75.1685605,entertainment,bicycle,0.32,3.85
+National Liberty Museum,39.94888059999999,-75.1468778,entertainment,bicycle,1.4,10.33
+Science History Institute,39.9487962,-75.1466157,entertainment,bicycle,1.4,10.15
+Saint Thomas Aquinas Church,39.93023499999999,-75.1739183,entertainment,bicycle,1.56,12.48
+Bethany Mission Gallery,39.9636037,-75.16388069999998,entertainment,bicycle,1.18,10.7
+Hill-Physick House,39.9443118,-75.1483538,entertainment,bicycle,1.66,12.78
+PII Gallery,39.95384079999999,-75.1443386,entertainment,bicycle,1.81,13.25
+Masonic Temple,39.95348010000001,-75.1630651,entertainment,bicycle,0.71,5.48
+Art Space Collaborative,39.9482359,-75.1708166,entertainment,bicycle,0.17,3.17
+South Philadelphia Peace Garden,39.93679040000001,-75.18911740000001,entertainment,bicycle,1.71,14.6
+Presbyterian Historical Society,39.94311219999999,-75.1499077,entertainment,bicycle,1.72,12.98
+Wells Fargo Museum,39.94968929999999,-75.1639465,entertainment,bicycle,0.39,2.87
+Tornado Village,39.9501278,-75.20222059999998,entertainment,bicycle,1.95,14.57
+Center for Architecture and Design,39.953848,-75.16044800000002,entertainment,bicycle,0.85,7.8
+The Fabric Workshop and Museum,39.9537074,-75.1602417,entertainment,bicycle,0.82,7.8
+Masonic Library & Museum-Pa,39.9536194,-75.1625712,entertainment,bicycle,0.76,6.2
+40th AIR studio,39.95595229999999,-75.20288240000002,entertainment,bicycle,1.88,14.65
+Benjamin Franklin Museum,39.94963920000001,-75.1468572,entertainment,bicycle,1.43,10.53
+Philadelphia Covention CenterShow,39.9570268,-75.2008568,entertainment,bicycle,1.89,14.15
+Museum of the American Revolution,39.94834520000001,-75.1458816,entertainment,bicycle,1.45,11.33
+The Center For Art In Wood,39.9533639,-75.1447306,entertainment,bicycle,1.76,13.75
+Second Bank of the United States Portrait Gallery,39.9485485,-75.14842770000001,entertainment,bicycle,1.32,10.45
+Powel House,39.9457406,-75.14684179999998,entertainment,bicycle,1.63,13.32
+New Hall Military Museum,39.9484523,-75.1472179,entertainment,bicycle,1.4,10.9
+Figmago,39.941842,-75.15664799999998,entertainment,bicycle,1.34,10.02
+Philadelphia Museum of Jewish Art,39.96380809999999,-75.160759,entertainment,bicycle,1.45,11.9
+Quartier joli,39.94363720000001,-75.1487083,entertainment,bicycle,1.57,12.53
+Septa Transit Museum,39.9518251,-75.16051390000001,entertainment,bicycle,0.72,5.5
+Mantua Planters,39.963333,-75.1874021,entertainment,bicycle,1.76,13.52
+Romanian Museum & Gallery,39.94719110000001,-75.1683656,entertainment,bicycle,0.56,4.6
+Mural,39.9511456,-75.17762929999998,entertainment,bicycle,0.39,2.93
+Tiger at Bay,39.9684374,-75.182144,entertainment,bicycle,1.6,12.55
+BMW Welt,39.9464855,-75.16396970000002,entertainment,bicycle,0.65,4.87
+Parque philly,39.9670977,-75.18326090000002,entertainment,bicycle,1.63,12.75
+St. Kyle of KEK Statue,39.9495623,-75.1718321,entertainment,bicycle,0.09,1.08
+Pretzel Museum,39.95435499999999,-75.14434539999998,entertainment,bicycle,1.83,13.67
+Museum Network Inc,39.9515436,-75.16583609999998,entertainment,bicycle,0.57,4.33
+Placa AMOR Philadelfia,39.9599334,-75.16497820000002,entertainment,bicycle,0.91,7.85
+Rocki,39.96438060000001,-75.1795812,entertainment,bicycle,1.34,10.55
+#5. Old St. Pauls Episcopal,39.9463161,-75.1464584,entertainment,bicycle,1.59,11.68
+Colors of Light Mural by Josh Sarantitis,39.95699109999999,-75.1585283,entertainment,bicycle,1.14,9.12
+Alexander Hamiltons Former Home,39.94691779999999,-75.146085,entertainment,bicycle,1.73,12.8
+Dolly Todd House,39.9474574,-75.14779469999998,entertainment,bicycle,1.44,10.43
+Rodin Museum Property,39.960926,-75.1739089,entertainment,bicycle,0.9,8.0
+Bishop White House,39.947294,-75.1467776,entertainment,bicycle,1.52,13.22
+Historic Philadelphia,39.9500455,-75.14381170000001,entertainment,bicycle,1.63,12.52
+Barnes Foundation Gate House,39.9601671,-75.1718449,entertainment,bicycle,0.82,7.35
+Grumman Lunar Module,39.958022,-75.1735521,entertainment,bicycle,0.76,6.47
+Pennsylvania Academy of the Fine Arts - PAFA,39.95559859999999,-75.1631457,entertainment,bicycle,0.87,6.7
+National Museum of American Jewish History Museum Store,39.9502497,-75.14817029999998,entertainment,bicycle,1.39,10.08
+Franklin Court Printing Office,39.950124,-75.1466125,entertainment,bicycle,1.47,10.65
+獨立遊客中心,39.9514781,-75.14991169999998,entertainment,bicycle,1.35,11.27
+Train Factory,39.95813890000001,-75.17262579999998,entertainment,bicycle,0.7,5.78
+Photo Pop Philly,39.949929,-75.1487807,entertainment,bicycle,1.35,10.02
+President's House Site,39.95044199999999,-75.15008459999999,entertainment,bicycle,1.28,9.4
+Liberty Bell Center,39.95021120000001,-75.15015559999998,entertainment,bicycle,1.31,10.18
+Liberty Bell,39.9525839,-75.1652215,entertainment,bicycle,0.48,3.58
+The Menorah,39.95435939999999,-75.1596106,entertainment,bicycle,1.14,8.78
+Legacy Mural,39.94915340000001,-75.15291909999998,entertainment,bicycle,1.1,8.13
+Independence Hall,39.9552145,-75.1636616,entertainment,bicycle,0.86,7.58
+West Wing Great Essentials Exhibit,39.9489474,-75.15035780000002,entertainment,bicycle,1.2,9.4
+Bridgette Mayer Gallery,39.9522968,-75.1570655,entertainment,bicycle,1.03,7.87
+Congress Hall,39.948957,-75.15066170000001,entertainment,bicycle,1.21,9.48
+Fotto Star Gallery,39.95163270000001,-75.15574509999998,entertainment,bicycle,0.97,7.23
+Congress Hall,39.94897280000001,-75.15065469999998,entertainment,bicycle,1.21,9.45
+Franklin Field,39.9502159,-75.19010920000002,entertainment,bicycle,1.45,10.82
+Vox Populi,39.9583049,-75.1566228,entertainment,bicycle,1.33,11.2
+Philadelphia's Magic Gardens,39.9427128,-75.1593122,entertainment,bicycle,1.17,8.7
+Art 4 Business Inc,39.95835870000001,-75.1953934,entertainment,bicycle,1.75,13.4
+The Print Center,39.9481309,-75.1685605,entertainment,bicycle,0.32,3.85
+The University of the Arts,39.9458813,-75.16526640000002,entertainment,bicycle,0.66,4.77
+PhilaMOCA,39.96222279999999,-75.1575062,entertainment,bicycle,1.53,12.8
+Art Studio: Melanie Miller,39.94686979999999,-75.1671697,entertainment,bicycle,0.55,4.18
+H. Smith Shop,39.93591710000001,-75.1783978,entertainment,bicycle,1.2,11.57
+Pearlstein Gallery,39.9571472,-75.19293940000001,entertainment,bicycle,1.7,13.38
+Eyes Gallery,39.941576,-75.149363,entertainment,bicycle,1.68,12.43
+"DAVID ROCCO GALLERY, LLC",39.9475922,-75.15852799999998,entertainment,bicycle,0.83,7.0
+The Clay Studio,39.9530694,-75.1429583,entertainment,bicycle,1.93,14.2
+Hahn Gallery,39.96660079999999,-75.17794049999998,entertainment,bicycle,1.48,11.63
+NAPOLEON,39.958302,-75.156601,entertainment,bicycle,1.33,11.23
+Esther Klein Gallery,39.95580560000001,-75.19458409999999,entertainment,bicycle,1.5,11.22
+Collectible Art Gallery,39.9521124,-75.17526600000002,entertainment,bicycle,0.49,4.48
+Alere LLC,39.9422114,-75.17460919999998,entertainment,bicycle,0.72,7.58
+Goldie Paley Gallery,39.95727029999999,-75.1719562,entertainment,bicycle,0.69,5.7
+Cerulean Arts,39.9656537,-75.1596235,entertainment,bicycle,1.57,12.87
+The Plastic Club,39.94718320000001,-75.16156059999999,entertainment,bicycle,0.7,5.53
+S U G A R C U B E ®,39.9528848,-75.14516119999998,entertainment,bicycle,1.71,12.55
+Jim Loewer Glass,39.938875900000006,-75.1639665,entertainment,bicycle,1.4,10.43
+Justin Images Photography Gallery,39.95232180000001,-75.17330279999999,entertainment,bicycle,0.3,2.4
+Jed Williams Studio,39.9413677,-75.15304139999998,entertainment,bicycle,1.55,11.72
+Khmer Art Gallery,39.9583092,-75.15656609999998,entertainment,bicycle,1.34,11.28
+Athenaeum of Philadelphia,39.94687259999999,-75.1509588,entertainment,bicycle,1.34,9.93
+Rosenwald-Wolf Gallery,39.94594269999999,-75.1647778,entertainment,bicycle,0.65,4.72
+Talismanik,39.94477930000001,-75.1801309,entertainment,bicycle,0.88,7.03
+Mangel Art Gallery,39.9531865,-75.1749671,entertainment,bicycle,0.46,5.03
+Fotto Star Gallery,39.95163270000001,-75.15574509999998,entertainment,bicycle,0.97,7.23
+Dalet Gallery,39.9530961,-75.1429095,entertainment,bicycle,1.93,14.18
+David David Gallery,39.9480512,-75.17126400000002,entertainment,bicycle,0.17,2.8
+Wendy's Frame Shop,39.9303256,-75.16862549999998,entertainment,bicycle,1.75,12.7
+FrameWorks Studio & Gallery,39.95091199999999,-75.175961,entertainment,bicycle,0.3,2.35
+Foundation For Self Taught,39.95264960000001,-75.1690393,entertainment,bicycle,0.23,1.8
+MATCHBOX PHILLY | GLASS GALLERY & SMOKESHOP,39.9423329,-75.153646,entertainment,bicycle,1.45,10.75
+leo sewell,39.960355,-75.19454700000001,entertainment,bicycle,1.92,14.75
+Art Around Gallery,39.952296200000006,-75.1739587,entertainment,bicycle,0.31,3.52
+The Hacktory,39.9593038,-75.19481009999998,entertainment,bicycle,1.77,13.68
+RACSO Gallery,39.9545628,-75.1668505,entertainment,bicycle,0.52,4.93
+Plays and Players Gallery,39.9467876,-75.17038240000002,entertainment,bicycle,0.4,4.23
+Custom Frame Shop / deVecchis Gallery,39.9415607,-75.14943319999998,entertainment,bicycle,1.68,12.42
+ART @t Bridge Club of Center City,39.9495926,-75.16852,entertainment,bicycle,0.15,2.07
+3rd Street Gallery,39.941094,-75.14779999999998,entertainment,bicycle,1.81,14.35
+Cardell Dance Studio,39.9668771,-75.1656459,entertainment,bicycle,1.45,11.75
+Mary Nomecos,39.94667099999999,-75.183089,entertainment,bicycle,0.96,7.68
+John Formicola Fine Arts,39.9371264,-75.1558378,entertainment,bicycle,1.79,13.62
+TM Sculpture,39.97009079999999,-75.15859669999998,entertainment,bicycle,1.86,14.73
+Art & The Ageless Gardens,39.9463513,-75.181901,entertainment,bicycle,0.92,7.27
+Art Space Collaborative,39.9482359,-75.1708166,entertainment,bicycle,0.17,3.17
+Heavy Bubble HQ,39.9388907,-75.16379529999998,entertainment,bicycle,1.36,10.4
+Works On Paper,39.949915,-75.1680362,entertainment,bicycle,0.21,3.17
+Beyond the Seams,39.9688896,-75.16029540000002,entertainment,bicycle,1.74,13.85
+Calderwood Gallery,39.96454,-75.1605235,entertainment,bicycle,1.55,13.1
+Kelly Wallace,39.9447594,-75.1602001,entertainment,bicycle,0.97,8.75
+C R Ettinger Studio,39.94541419999999,-75.17912820000002,entertainment,bicycle,0.87,7.03
+Project Joy Studio,39.938924,-75.1637497,entertainment,bicycle,1.36,10.4
+Wholistic.Art,39.9582606,-75.1567184,entertainment,bicycle,1.31,10.25
+Da Vinci Art Alliance,39.9388477,-75.15495990000002,entertainment,bicycle,1.71,12.97
+Art,39.9633872,-75.1649809,entertainment,bicycle,1.17,9.7
+Brooke Lanier Fine Art,39.937725,-75.150222,entertainment,bicycle,1.97,14.67
+Arch Enemy Arts,39.9519098,-75.1421522,entertainment,bicycle,1.88,14.02
+Twenty-Two Gallery,39.949442,-75.17788900000002,entertainment,bicycle,0.59,4.72
+Nancy Moses Planning & Development,39.94654320000001,-75.150932,entertainment,bicycle,1.39,10.82
+Pageant: Soloveev,39.9413221,-75.1527823,entertainment,bicycle,1.55,11.73
+Twenty-Two Gallery,39.949442,-75.17788900000002,entertainment,bicycle,0.59,4.72
+Light Box Arts,39.9502165,-75.16919890000001,entertainment,bicycle,0.14,1.07
+Sol Mednick Gallery,39.94902310000001,-75.1639486,entertainment,bicycle,0.46,4.98
+BlinkArt Gallery,39.94808219999999,-75.1429098,entertainment,bicycle,1.6,11.73
+The Galleries At Moore,39.9572925,-75.172217,entertainment,bicycle,0.67,5.62
+WOA Gallery,39.94858600000001,-75.14448490000002,entertainment,bicycle,1.51,11.27
+Dolan Maxwell Inc,39.94880339999999,-75.1757586,entertainment,bicycle,0.33,4.15
+Grizzly Grizzly,39.95830730000001,-75.1565993,entertainment,bicycle,1.33,11.23
+Dane Fine Art,39.9612079,-75.14934889999998,entertainment,bicycle,1.92,14.55
+PII Gallery,39.95384079999999,-75.1443386,entertainment,bicycle,1.81,13.25
+Artjaz Gallery,39.95178380000001,-75.1435341,entertainment,bicycle,1.76,14.58
+Collectible Art & Frames,39.9521823,-75.17523659999998,entertainment,bicycle,0.47,4.27
+Lisa M Reisman & Cie Ltd,39.94917810000001,-75.14269490000002,entertainment,bicycle,1.66,12.37
+Philadelphia Visionary Arts Gallery,39.93868320000001,-75.14990490000002,entertainment,bicycle,1.9,14.12
+Locks Gallery,39.945925,-75.151673,entertainment,bicycle,1.41,10.2
+I. Brewster & Co.,39.9609744,-75.14945340000001,entertainment,bicycle,1.9,14.82
+Art At The Bourse,39.94985670000001,-75.14850489999998,entertainment,bicycle,1.36,10.12
+Paradigm Gallery + Studio,39.9393078,-75.14980059999998,entertainment,bicycle,1.86,13.82
+Studio Associates,39.9467295,-75.1700578,entertainment,bicycle,0.41,3.22
+Tribal Home,39.9517338,-75.14540759999998,entertainment,bicycle,1.63,12.0
+Oriental Art Gallery,39.93947499999999,-75.1495765,entertainment,bicycle,1.85,13.73
+Brandywine Workshop,39.9420671,-75.16617579999998,entertainment,bicycle,0.96,7.07
+LORD LUDD,39.949986,-75.1460333,entertainment,bicycle,1.5,10.88
+Time Food,39.94027699999999,-75.14967759999998,entertainment,bicycle,1.79,13.32
+New Image Art & Frame,39.95225749999999,-75.17330489999998,entertainment,bicycle,0.3,2.37
+Vintage Photography,39.95230079999999,-75.17043009999998,entertainment,bicycle,0.17,1.47
+Gross Mc Cleaf Gallery,39.9502352,-75.16722399999998,entertainment,bicycle,0.22,1.58
+The SPACE Art Gallery,39.94002099999999,-75.15582640000002,entertainment,bicycle,1.53,12.15
+Liberty Art & Framing,39.9508314,-75.1738984,entertainment,bicycle,0.2,1.62
+Giovinetti Studios,39.94128920000001,-75.15035350000002,entertainment,bicycle,1.69,12.73
+Bluestone Gallery Llc,39.9559438,-75.14429390000002,entertainment,bicycle,1.91,14.22
+Dupree Gallery,39.9409824,-75.1523605,entertainment,bicycle,1.59,12.0
+Partners and Son,39.9414667,-75.15261129999998,entertainment,bicycle,1.56,11.6
+Alexander Calder Stabile Sculpture,39.95577189999999,-75.16728859999998,entertainment,bicycle,0.66,5.18
+Dina Wind,39.94803270000001,-75.15305599999998,entertainment,bicycle,1.18,9.9
+COSM Chapel of Sacred Mirrors,39.9589742,-75.15973679999998,entertainment,bicycle,1.16,9.25
+B Square Gallery,39.94207309999999,-75.15725040000002,entertainment,bicycle,1.35,10.4
+Schwarz Gallery,39.951614000000006,-75.17066700000002,entertainment,bicycle,0.13,1.78
+Fleisher/Ollman Gallery,39.9619658,-75.15352340000003,entertainment,bicycle,1.79,14.22
+Gallery Joe,39.9520345,-75.14541290000003,entertainment,bicycle,1.65,12.12
+The Center For Emerging Visual Artists,39.9486558,-75.1707729,entertainment,bicycle,0.14,2.42
+Ray Arts Gallery,39.9505578,-75.17077009999998,entertainment,bicycle,0.04,0.27
+Twelve Gates Arts,39.95227799999999,-75.14350499999998,entertainment,bicycle,1.99,14.62
+Space 1026,39.9535738,-75.1573768,entertainment,bicycle,1.02,8.08
+Millennium Art Gallery Inc.,39.949036,-75.163516,entertainment,bicycle,0.67,5.18
+Susan Hagen,39.951799,-75.16948959999998,entertainment,bicycle,0.19,2.77
+"B and K Arts, LLC",39.9442664,-75.16864129999998,entertainment,bicycle,0.65,5.82
+Stanek Gallery,39.95514970000001,-75.14486679999997,entertainment,bicycle,1.88,14.17
+Larry Becker Contemporary Art,39.9511231,-75.1433407,entertainment,bicycle,1.71,13.6
+Pentimenti Gallery,39.9531754,-75.1429059,entertainment,bicycle,1.92,14.33
+M Finkel & Daughter,39.94461919999999,-75.1581188,entertainment,bicycle,1.06,7.9
+Bridgette Mayer Gallery,39.948085,-75.1530369,entertainment,bicycle,1.18,9.92
+Gallery Joe,39.9467559,-75.14995909999998,entertainment,bicycle,1.4,10.33
+Freiman Stoltzfus Gallery Philadelphia,39.94471770000001,-75.1596677,entertainment,bicycle,0.98,8.03
+Gross Mc Cleaf Gallery,39.9502352,-75.16722399999998,entertainment,bicycle,0.22,1.58
+Freiman Stoltzfus Gallery Philadelphia,39.94471770000001,-75.1596677,entertainment,bicycle,0.98,8.03
+Troyka Fine Arts Gallery,39.9452568,-75.16369240000002,entertainment,bicycle,0.76,5.68
+Rebecca O'Leary Art Advisory,39.9484149,-75.16504239999998,entertainment,bicycle,0.46,3.47
+Kapp Kapp,39.94573169999999,-75.162735,entertainment,bicycle,0.82,6.43
+Lucky Strike Philadelphia,39.9503667,-75.16324200000003,entertainment,bicycle,0.55,4.22
+Pep Bowl,39.9354732,-75.16777090000002,entertainment,bicycle,1.4,10.23
+Otto E. Albrecht Music Library,39.95264079999999,-75.19357590000001,entertainment,bicycle,1.24,9.08
+Historical Society of Pennsylvania,39.94778699999999,-75.16273199999998,entertainment,bicycle,0.59,4.68
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+American Philosophical Society,39.9486222,-75.1494434,entertainment,bicycle,1.27,10.17
+Robert Dunning Dripps Library,39.94996789999999,-75.1930038,entertainment,bicycle,1.37,10.22
+Medical Library,39.9455612,-75.1555765,entertainment,bicycle,1.16,9.03
+Annenberg School for Communication Library,39.9529215,-75.1955936,entertainment,bicycle,1.35,9.92
+Reader Development,39.95960549999999,-75.17102360000001,entertainment,bicycle,0.8,7.38
+Biomedical Library,39.9495032,-75.19594839999998,entertainment,bicycle,1.71,12.8
+Medical Library,39.9455612,-75.1555765,entertainment,bicycle,1.16,9.03
+Reader Development,39.95960549999999,-75.17102360000001,entertainment,bicycle,0.8,7.38
+Drexel University Libraries,39.95529500000001,-75.1898635,entertainment,bicycle,1.25,9.32
+National Federation-Abstrctng,39.949423900000006,-75.16690320000002,entertainment,bicycle,0.38,2.97
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+South Philadelphia Library,39.92914330000001,-75.16908269999998,entertainment,bicycle,1.84,14.2
+Business Resource and Innovation Center at the Free Library of Philadelphia,39.9592686,-75.17071640000002,entertainment,bicycle,0.73,6.8
+Brogan James M,39.95267070000001,-75.16821329999998,entertainment,bicycle,0.33,2.62
+Scott Memorial Library at Thomas Jefferson University,39.94830169999999,-75.1581321,entertainment,bicycle,0.99,8.0
+Science History Institute,39.9487962,-75.1466157,entertainment,bicycle,1.4,10.15
+Charles Santore Library,39.9370777,-75.15531329999997,entertainment,bicycle,1.75,13.28
+Queen Memorial Library,39.93788970000001,-75.18127390000002,entertainment,bicycle,1.36,11.42
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+The Donald F & Mildred Topp Othmer Library of Chemical History,39.9489717,-75.14655450000002,entertainment,bicycle,1.41,10.38
+SPB Library,39.9291832,-75.1692882,entertainment,bicycle,1.86,13.82
+Albert M. Greenfield Library,39.9458792,-75.1645352,entertainment,bicycle,0.69,5.17
+Region III Library,39.9482175,-75.1516503,entertainment,bicycle,1.26,9.27
+Reader Development,39.95960549999999,-75.17102360000001,entertainment,bicycle,0.8,7.38
+Library Co of Philadelphia,39.947810200000006,-75.16311850000002,entertainment,bicycle,0.6,4.95
+Reader Development,39.95960549999999,-75.17102360000001,entertainment,bicycle,0.8,7.38
+Philadelphia Museum of Art Library & Archives,39.96769060000001,-75.1795372,entertainment,bicycle,1.48,12.07
+Walnut Street West Library,39.9538204,-75.20246,entertainment,bicycle,1.75,13.07
+Presbyterian Historical Society,39.94311219999999,-75.1499077,entertainment,bicycle,1.72,12.98
+Aids Library,39.9479863,-75.16188009999998,entertainment,bicycle,0.63,5.03
+Independence Historical Library,39.9473026,-75.14617790000001,entertainment,bicycle,1.66,12.38
+Charles L. Durham Library,39.9638919,-75.19115339999998,entertainment,bicycle,1.93,14.87
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+Van Pelt Library,39.95272360000001,-75.1940023,entertainment,bicycle,1.27,9.27
+Charles Santore Library,39.9370777,-75.15531329999997,entertainment,bicycle,1.75,13.28
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+Rare Book & Manuscript Library,39.9526438,-75.1936932,entertainment,bicycle,1.25,9.13
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+Demography Library,39.952081,-75.19804719999998,entertainment,bicycle,1.66,14.25
+Music Library and Ormandy Center,39.952593,-75.1935678,entertainment,bicycle,1.27,10.62
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+Education Commons,39.9504639,-75.1892797,entertainment,bicycle,1.55,11.2
+Audio Visual Resource Library,39.945879700000006,-75.1484718,entertainment,bicycle,1.55,11.27
+Library for the Blind and Physically Handicapped,39.9621155,-75.16405329999998,entertainment,bicycle,1.05,8.15
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+Athenaeum of Philadelphia,39.94687259999999,-75.1509588,entertainment,bicycle,1.34,9.93
+Community College - Phil Library,39.9623095,-75.1655602,entertainment,bicycle,1.06,8.37
+Nursing History Center,39.94906059999999,-75.1959494,entertainment,bicycle,1.71,12.85
+Hoyle Fickler Herschel-Mathes,39.9525474,-75.16735209999999,entertainment,bicycle,0.37,2.82
+Philadelphia City Institute,39.9494607,-75.17327449999998,entertainment,bicycle,0.19,2.13
+Fisher Fine Arts Library,39.95161069999999,-75.1927695,entertainment,bicycle,1.31,11.47
+Scott Memorial Library at Thomas Jefferson University,39.948341000000006,-75.15825699999998,entertainment,bicycle,0.99,8.07
+Dental Library,39.9527238,-75.20342590000001,entertainment,bicycle,1.84,13.72
+Veterinary School Library,39.9499783,-75.20008929999999,entertainment,bicycle,1.8,14.52
+Medical Library,39.9718848,-75.1627053,entertainment,bicycle,1.73,14.23
+Chemistry Library,39.950738,-75.19219,entertainment,bicycle,1.31,9.55
+Museum Library,39.9492597,-75.19132950000002,entertainment,bicycle,1.48,11.12
+Lippincott Wharton Sch Library,39.95262319999999,-75.193484,entertainment,bicycle,1.24,9.85
+Monell Chemical Senses Center,39.95585820000001,-75.193179,entertainment,bicycle,1.47,11.17
+Krausz Library of Podiatric Medicine,39.954781,-75.15328530000002,entertainment,bicycle,1.35,10.35
+Independence Library,39.9502814,-75.1523394,entertainment,bicycle,1.15,8.52
+Parkway Central Library,39.95956470000001,-75.17104450000002,entertainment,bicycle,0.8,7.33
+Learning Lab,39.94950120000001,-75.1733449,entertainment,bicycle,0.2,1.83
+Math Physics Astronomy Library,39.95211,-75.18979809999998,entertainment,bicycle,1.09,8.92
+Charles Kelman Library,39.9480211,-75.1551375,entertainment,bicycle,1.16,8.5
+Philadelphia Law Library,39.9523277,-75.16354319999998,entertainment,bicycle,0.54,4.95
+Biddle Law Library,39.9538891,-75.1930904,entertainment,bicycle,1.29,11.3
+John C.Haas Archive Of Science And Business At CHF,39.94920259999999,-75.1459998,entertainment,bicycle,1.47,10.82
+Associated Library Services,39.95400220000001,-75.1702608,entertainment,bicycle,0.29,2.62
+Pepper Hamilton Law Library,39.9557518,-75.1700194,entertainment,bicycle,0.4,3.5
+"Vincent R. McGuinness, Jr.",39.95265879999999,-75.1682021,entertainment,bicycle,0.33,2.62
+Central Childrens Department,39.959549,-75.17158719999998,entertainment,bicycle,0.78,7.83
+American Philosophical Society Library,39.94837620000001,-75.1489423,entertainment,bicycle,1.36,11.67
+Jenkins Law Library,39.9536091,-75.17012079999998,entertainment,bicycle,0.25,2.15
+National Railway Historic Society,39.95591,-75.17308969999998,entertainment,bicycle,0.59,5.1
+Philadelphia Historical Library,39.9547062,-75.16361850000001,entertainment,bicycle,0.68,6.82
+Newspaper and Microfilm Department,39.95947570000001,-75.1714782,entertainment,bicycle,0.77,7.73
+Field Teen Center,39.95983629999999,-75.1714415,entertainment,bicycle,0.82,8.17
+Reader Development,39.95960549999999,-75.17102360000001,entertainment,bicycle,0.8,7.38
+Access & Literacy Services,39.95939219999999,-75.1710767,entertainment,bicycle,0.75,6.92
+Drexel University Hahnemann Library,39.95715209999999,-75.163426,entertainment,bicycle,0.82,6.93
+Magee Rehab Hospital Learning Library,39.95677050000001,-75.165439,entertainment,bicycle,0.69,5.38
+Ewell Sale Stewart Library and Archives,39.95681099999999,-75.171015,entertainment,bicycle,0.55,5.83
+Eastern State Penitentiary,39.9683364,-75.17266479999998,entertainment,bicycle,1.45,12.57
+National Constitution Center,39.95369549999999,-75.1491166,entertainment,bicycle,1.63,12.98
+Philadelphia Museum of Art,39.9655697,-75.18096609999998,entertainment,bicycle,1.39,11.12
+The Franklin Institute,39.9582109,-75.17313469999998,entertainment,bicycle,0.76,6.47
+Philadelphia's Magic Gardens,39.9427128,-75.1593122,entertainment,bicycle,1.17,8.7
+The Mütter Museum at The College of Physicians of Philadelphia,39.95323079999999,-75.1763698,entertainment,bicycle,0.58,4.43
+Institute of Contemporary Art,39.95406870000001,-75.1947096,entertainment,bicycle,1.38,10.12
+Betsy Ross House,39.9522182,-75.1446397,entertainment,bicycle,1.69,13.53
+Historical Society of Pennsylvania,39.94778699999999,-75.16273199999998,entertainment,bicycle,0.59,4.68
+National Museum of American Jewish History,39.9502434,-75.14857680000001,entertainment,bicycle,1.35,10.05
+Fireman's Hall Museum,39.9532585,-75.1426468,entertainment,bicycle,1.94,14.42
+Perelman Building,39.967594,-75.17939100000002,entertainment,bicycle,1.48,11.93
+The Rosenbach,39.9473109,-75.1750386,entertainment,bicycle,0.61,5.22
+Rodin Museum,39.9619232,-75.17395789999998,entertainment,bicycle,0.97,8.48
+University of Pennsylvania Museum Casting Program,39.9493114,-75.1915254,entertainment,bicycle,1.48,11.08
+The Academy of Natural Sciences of Drexel University,39.9571169,-75.1710701,entertainment,bicycle,0.65,5.97
+Fairmount Water Works,39.96581120000001,-75.1834918,entertainment,bicycle,1.67,13.07
+Mario Lanza Institute,39.9373929,-75.155521,entertainment,bicycle,1.74,13.15
+Barnes Foundation,39.9606433,-75.17280749999998,entertainment,bicycle,0.91,8.37
+Penn Museum,39.94923920000001,-75.191367,entertainment,bicycle,1.48,11.12
+The African American Museum in Philadelphia,39.95326139999999,-75.15175620000002,entertainment,bicycle,1.36,10.2
+American Philosophical Society,39.9486222,-75.1494434,entertainment,bicycle,1.27,10.17
+Ennovance Capital LLC,39.949553,-75.166917,entertainment,bicycle,0.38,2.92
+The Print Center,39.9481309,-75.1685605,entertainment,bicycle,0.32,3.85
+National Liberty Museum,39.94888059999999,-75.1468778,entertainment,bicycle,1.4,10.33
+Science History Institute,39.9487962,-75.1466157,entertainment,bicycle,1.4,10.15
+Saint Thomas Aquinas Church,39.93023499999999,-75.1739183,entertainment,bicycle,1.56,12.48
+Bethany Mission Gallery,39.9636037,-75.16388069999998,entertainment,bicycle,1.18,10.7
+Hill-Physick House,39.9443118,-75.1483538,entertainment,bicycle,1.66,12.78
+PII Gallery,39.95384079999999,-75.1443386,entertainment,bicycle,1.81,13.25
+Masonic Temple,39.95348010000001,-75.1630651,entertainment,bicycle,0.71,5.48
+Art Space Collaborative,39.9482359,-75.1708166,entertainment,bicycle,0.17,3.17
+South Philadelphia Peace Garden,39.93679040000001,-75.18911740000001,entertainment,bicycle,1.71,14.6
+Presbyterian Historical Society,39.94311219999999,-75.1499077,entertainment,bicycle,1.72,12.98
+Wells Fargo Museum,39.94968929999999,-75.1639465,entertainment,bicycle,0.39,2.87
+Tornado Village,39.9501278,-75.20222059999998,entertainment,bicycle,1.95,14.57
+Center for Architecture and Design,39.953848,-75.16044800000002,entertainment,bicycle,0.85,7.8
+The Fabric Workshop and Museum,39.9537074,-75.1602417,entertainment,bicycle,0.82,7.8
+Masonic Library & Museum-Pa,39.9536194,-75.1625712,entertainment,bicycle,0.76,6.2
+40th AIR studio,39.95595229999999,-75.20288240000002,entertainment,bicycle,1.88,14.65
+Benjamin Franklin Museum,39.94963920000001,-75.1468572,entertainment,bicycle,1.43,10.53
+Philadelphia Covention CenterShow,39.9570268,-75.2008568,entertainment,bicycle,1.89,14.15
+Museum of the American Revolution,39.94834520000001,-75.1458816,entertainment,bicycle,1.45,11.33
+The Center For Art In Wood,39.9533639,-75.1447306,entertainment,bicycle,1.76,13.75
+Second Bank of the United States Portrait Gallery,39.9485485,-75.14842770000001,entertainment,bicycle,1.32,10.45
+Powel House,39.9457406,-75.14684179999998,entertainment,bicycle,1.63,13.32
+New Hall Military Museum,39.9484523,-75.1472179,entertainment,bicycle,1.4,10.9
+Figmago,39.941842,-75.15664799999998,entertainment,bicycle,1.34,10.02
+Philadelphia Museum of Jewish Art,39.96380809999999,-75.160759,entertainment,bicycle,1.45,11.9
+Quartier joli,39.94363720000001,-75.1487083,entertainment,bicycle,1.57,12.53
+Septa Transit Museum,39.9518251,-75.16051390000001,entertainment,bicycle,0.72,5.5
+Mantua Planters,39.963333,-75.1874021,entertainment,bicycle,1.76,13.52
+Romanian Museum & Gallery,39.94719110000001,-75.1683656,entertainment,bicycle,0.56,4.6
+Mural,39.9511456,-75.17762929999998,entertainment,bicycle,0.39,2.93
+Tiger at Bay,39.9684374,-75.182144,entertainment,bicycle,1.6,12.55
+BMW Welt,39.9464855,-75.16396970000002,entertainment,bicycle,0.65,4.87
+Parque philly,39.9670977,-75.18326090000002,entertainment,bicycle,1.63,12.75
+St. Kyle of KEK Statue,39.9495623,-75.1718321,entertainment,bicycle,0.09,1.08
+Pretzel Museum,39.95435499999999,-75.14434539999998,entertainment,bicycle,1.83,13.67
+Museum Network Inc,39.9515436,-75.16583609999998,entertainment,bicycle,0.57,4.33
+Placa AMOR Philadelfia,39.9599334,-75.16497820000002,entertainment,bicycle,0.91,7.85
+Rocki,39.96438060000001,-75.1795812,entertainment,bicycle,1.34,10.55
+#5. Old St. Pauls Episcopal,39.9463161,-75.1464584,entertainment,bicycle,1.59,11.68
+Colors of Light Mural by Josh Sarantitis,39.95699109999999,-75.1585283,entertainment,bicycle,1.14,9.12
+Alexander Hamiltons Former Home,39.94691779999999,-75.146085,entertainment,bicycle,1.73,12.8
+Dolly Todd House,39.9474574,-75.14779469999998,entertainment,bicycle,1.44,10.43
+Rodin Museum Property,39.960926,-75.1739089,entertainment,bicycle,0.9,8.0
+Bishop White House,39.947294,-75.1467776,entertainment,bicycle,1.52,13.22
+Historic Philadelphia,39.9500455,-75.14381170000001,entertainment,bicycle,1.63,12.52
+Barnes Foundation Gate House,39.9601671,-75.1718449,entertainment,bicycle,0.82,7.35
+Grumman Lunar Module,39.958022,-75.1735521,entertainment,bicycle,0.76,6.47
+Pennsylvania Academy of the Fine Arts - PAFA,39.95559859999999,-75.1631457,entertainment,bicycle,0.87,6.7
+National Museum of American Jewish History Museum Store,39.9502497,-75.14817029999998,entertainment,bicycle,1.39,10.08
+Franklin Court Printing Office,39.950124,-75.1466125,entertainment,bicycle,1.47,10.65
+獨立遊客中心,39.9514781,-75.14991169999998,entertainment,bicycle,1.35,11.27
+Train Factory,39.95813890000001,-75.17262579999998,entertainment,bicycle,0.7,5.78
+Photo Pop Philly,39.949929,-75.1487807,entertainment,bicycle,1.35,10.02
+President's House Site,39.95044199999999,-75.15008459999999,entertainment,bicycle,1.28,9.4
+Liberty Bell Center,39.95021120000001,-75.15015559999998,entertainment,bicycle,1.31,10.18
+Liberty Bell,39.9525839,-75.1652215,entertainment,bicycle,0.48,3.58
+The Menorah,39.95435939999999,-75.1596106,entertainment,bicycle,1.14,8.78
+Legacy Mural,39.94915340000001,-75.15291909999998,entertainment,bicycle,1.1,8.13
+Independence Hall,39.9552145,-75.1636616,entertainment,bicycle,0.86,7.58
+West Wing Great Essentials Exhibit,39.9489474,-75.15035780000002,entertainment,bicycle,1.2,9.4
+Bridgette Mayer Gallery,39.9522968,-75.1570655,entertainment,bicycle,1.03,7.87
+Congress Hall,39.948957,-75.15066170000001,entertainment,bicycle,1.21,9.48
+Fotto Star Gallery,39.95163270000001,-75.15574509999998,entertainment,bicycle,0.97,7.23
+Congress Hall,39.94897280000001,-75.15065469999998,entertainment,bicycle,1.21,9.45
+Franklin Field,39.9502159,-75.19010920000002,entertainment,bicycle,1.45,10.82
+The Palestra,39.9513911,-75.1887032,entertainment,bicycle,1.47,10.63
+Стадион на крыше,39.96054760000001,-75.166264,entertainment,bicycle,0.84,8.63
+Eastern State Penitentiary,39.9683364,-75.17266479999998,entertainment,bicycle,1.45,12.57
+Liberty Bell,39.9496103,-75.1502821,entertainment,bicycle,1.22,9.62
+Reading Terminal Market,39.95331129999999,-75.15943,entertainment,bicycle,0.86,7.68
+National Constitution Center,39.95369549999999,-75.1491166,entertainment,bicycle,1.63,12.98
+Philadelphia's Magic Gardens,39.9427128,-75.1593122,entertainment,bicycle,1.17,8.7
+Philadelphia Museum of Art,39.9655697,-75.18096609999998,entertainment,bicycle,1.39,11.12
+The Mütter Museum at The College of Physicians of Philadelphia,39.95323079999999,-75.1763698,entertainment,bicycle,0.58,4.43
+Betsy Ross House,39.9522182,-75.1446397,entertainment,bicycle,1.69,13.53
+The Franklin Institute,39.9582109,-75.17313469999998,entertainment,bicycle,0.76,6.47
+Institute of Contemporary Art,39.95406870000001,-75.1947096,entertainment,bicycle,1.38,10.12
+United States Mint,39.95338599999999,-75.14805809999999,entertainment,bicycle,1.55,11.42
+The Rosenbach,39.9473109,-75.1750386,entertainment,bicycle,0.61,5.22
+Penn Park,39.9500579,-75.1859058,entertainment,bicycle,1.08,10.93
+The Bourse,39.94981020000001,-75.1475438,entertainment,bicycle,1.41,10.43
+Mural Arts Philadelphia,39.9654251,-75.16685890000002,entertainment,bicycle,1.12,11.55
+Rodin Museum,39.9619232,-75.17395789999998,entertainment,bicycle,0.97,8.48
+Independence National Historical Park,39.9495312,-75.14973189999998,entertainment,bicycle,1.3,10.63
+The Academy of Natural Sciences of Drexel University,39.9571169,-75.1710701,entertainment,bicycle,0.65,5.97
+Rittenhouse Square,39.9494818,-75.17188349999998,entertainment,bicycle,0.1,1.15
+Independence Visitor Center,39.9514196,-75.14992120000002,entertainment,bicycle,1.34,11.13
+Fireman's Hall Museum,39.9532585,-75.1426468,entertainment,bicycle,1.94,14.42
+Perelman Building,39.967594,-75.17939100000002,entertainment,bicycle,1.48,11.93
+Barnes Foundation,39.9606433,-75.17280749999998,entertainment,bicycle,0.91,8.37
+James G. Kaskey Memorial Park,39.9491655,-75.1983003,entertainment,bicycle,1.88,14.95
+Old St Joseph's Church,39.94658200000001,-75.14751199999998,entertainment,bicycle,1.54,11.28
+National Museum of American Jewish History,39.9502434,-75.14857680000001,entertainment,bicycle,1.35,10.05
+Penn Museum,39.94923920000001,-75.191367,entertainment,bicycle,1.48,11.12
+Bardascino Park,39.93779620000001,-75.15991919999998,entertainment,bicycle,1.54,11.47
+Innovation Plaza,39.9557555,-75.19626720000002,entertainment,bicycle,1.59,12.5
+Library Co of Philadelphia,39.947810200000006,-75.16311850000002,entertainment,bicycle,0.6,4.95
+The Church of the Holy Trinity,39.9502577,-75.17298570000001,entertainment,bicycle,0.14,1.3
+American Philosophical Society,39.9486222,-75.1494434,entertainment,bicycle,1.27,10.17
+Chew Playground,39.938280000000006,-75.17387269999998,entertainment,bicycle,0.91,9.3
+Washington Square,39.94703670000001,-75.15239389999998,entertainment,bicycle,1.22,10.03
+Cathedral Basilica of Saints Peter and Paul,39.9574751,-75.16859649999998,entertainment,bicycle,0.59,5.28
+Old Saint Mary's Church,39.9456573,-75.14857649999998,entertainment,bicycle,1.57,11.4
+Bethany Mission Gallery,39.9636037,-75.16388069999998,entertainment,bicycle,1.18,10.7
+Philadelphia Hospitality,39.94946160000001,-75.1645238,entertainment,bicycle,0.43,3.22
+Fairmount Water Works,39.96581120000001,-75.1834918,entertainment,bicycle,1.67,13.07
+Boathouse Row,39.9695828,-75.1876317,entertainment,bicycle,1.89,14.27
+Mario Lanza Institute,39.9373929,-75.155521,entertainment,bicycle,1.74,13.15
+Roberto Clemente Park,39.965686700000006,-75.16802259999999,entertainment,bicycle,1.14,11.9
+The Print Center,39.9481309,-75.1685605,entertainment,bicycle,0.32,3.85
+Cira Green,39.9526631,-75.1833298,entertainment,bicycle,0.8,6.03
+The Oval,39.96424879999999,-75.1791318,entertainment,bicycle,1.3,10.53
+City Hall Visitor Center,39.9512025,-75.16347499999998,entertainment,bicycle,0.49,3.78
+Walnut Street Dock,39.9518275,-75.1810318,entertainment,bicycle,0.93,10.07
+Blue Cross RiverRink,39.94794829999999,-75.13973760000002,entertainment,bicycle,1.77,13.13
+Christ Church Burial Ground,39.9520175,-75.1481594,entertainment,bicycle,1.45,10.68
+Christ Church,39.95074530000001,-75.1438142,entertainment,bicycle,1.72,13.25
+Franklin Square,39.95566339999999,-75.1504502,entertainment,bicycle,1.56,12.02
+Bainbridge Green,39.9407356,-75.1501667,entertainment,bicycle,1.81,13.53
+The African American Museum in Philadelphia,39.95326139999999,-75.15175620000002,entertainment,bicycle,1.36,10.2
+Carpenters' Hall,39.9481384,-75.1472103,entertainment,bicycle,1.43,11.35
+Mother Bethel A.M.E. Church,39.9432914,-75.15175409999998,entertainment,bicycle,1.44,10.9
+Di Silvestro Playground,39.92914069999999,-75.17004250000002,entertainment,bicycle,1.75,13.48
+National Liberty Museum,39.94888059999999,-75.1468778,entertainment,bicycle,1.4,10.33
+Marian Anderson Recreation Center,39.9418979,-75.17149090000002,entertainment,bicycle,0.79,6.62
+I-95 Park,39.9477778,-75.14200859999998,entertainment,bicycle,1.67,13.43
+Masonic Temple,39.95348010000001,-75.1630651,entertainment,bicycle,0.71,5.48
+The Porch at 30th,39.9548726,-75.18206889999998,entertainment,bicycle,0.9,7.45
+Drexel Park,39.96119760000001,-75.18760499999998,entertainment,bicycle,1.73,13.67
+Korean War Memorial Park,39.94499,-75.14343709999999,entertainment,bicycle,1.81,13.68
+Kahal Kadosh Mikveh Israel,39.9513028,-75.1478798,entertainment,bicycle,1.44,11.88
+Philadelphia Museum of Jewish Art,39.96380809999999,-75.160759,entertainment,bicycle,1.45,11.9
+Science History Institute,39.9487962,-75.1466157,entertainment,bicycle,1.4,10.15
+Historic Arch Street Meeting House,39.951881,-75.14615699999997,entertainment,bicycle,1.74,13.82
+Swann Memorial Fountain,39.9579384,-75.170587,entertainment,bicycle,0.6,5.38
+Markward Playground,39.9480334,-75.18342990000002,entertainment,bicycle,0.89,7.3
+American Catholic Historical,39.945536,-75.14802999999998,entertainment,bicycle,1.59,11.7
+Shoemaker Green,39.9514977,-75.19009140000001,entertainment,bicycle,1.13,10.08
+Athenaeum of Philadelphia,39.94687259999999,-75.1509588,entertainment,bicycle,1.34,9.93
+Art Space Collaborative,39.9482359,-75.1708166,entertainment,bicycle,0.17,3.17
+Hill-Physick House,39.9443118,-75.1483538,entertainment,bicycle,1.66,12.78
+Benjamin Franklin's Grave,39.95246009999999,-75.1482794,entertainment,bicycle,1.5,11.73
+Train Factory,39.95813890000001,-75.17262579999998,entertainment,bicycle,0.7,5.78
+The Magnolia Garden,39.94598690000001,-75.14921070000003,entertainment,bicycle,1.5,13.2
+Wexler Gallery,39.9541193,-75.1446916,entertainment,bicycle,1.78,13.27
+Center for Architecture and Design,39.953848,-75.16044800000002,entertainment,bicycle,0.85,7.8
+Julian Abele Park,39.94088430000001,-75.1792676,entertainment,bicycle,1.08,9.65
+Logan Square,39.9580333,-75.1709604,entertainment,bicycle,0.62,5.57
+Schuylkill River Park,39.948817700000006,-75.18176650000002,entertainment,bicycle,0.77,6.13
+Placa AMOR Philadelfia,39.9599334,-75.16497820000002,entertainment,bicycle,0.91,7.85
+The Fabric Workshop and Museum,39.9537074,-75.1602417,entertainment,bicycle,0.82,7.8
+Palumbo Park,39.93926,-75.155587,entertainment,bicycle,1.61,13.15
+Bolt of Lightning,39.9554383,-75.14877539999998,entertainment,bicycle,1.69,14.35
+Matthias Baldwin Park,39.961667,-75.1689481,entertainment,bicycle,0.91,8.6
+Schuylkill Banks,39.9521946,-75.1806532,entertainment,bicycle,0.96,10.9
+Palace Travel Inc,39.949926,-75.163686,entertainment,bicycle,0.44,4.37
+Phillies Mural,39.9510963,-75.18051080000002,entertainment,bicycle,0.54,4.15
+Paine's Park,39.9628739,-75.18062110000002,entertainment,bicycle,1.53,12.13
+Presbyterian Historical Society,39.94311219999999,-75.1499077,entertainment,bicycle,1.72,12.98
+Tomb of the Unknown Soldier,39.9470628,-75.15252459999998,entertainment,bicycle,1.21,9.95
+Women For Greater Philadelphia,39.9473635,-75.1505684,entertainment,bicycle,1.31,10.65
+Declaration House,39.9508314,-75.15217790000001,entertainment,bicycle,1.19,8.77
+Seger Dog Park,39.9433534,-75.1598089,entertainment,bicycle,1.08,8.53
+Benjamin Franklin Museum,39.94963920000001,-75.1468572,entertainment,bicycle,1.43,10.53
+Rocky Statue,39.96512749999999,-75.17928479999998,entertainment,bicycle,1.37,11.02
+Rocky Steps,39.96492979999999,-75.1800468,entertainment,bicycle,1.37,11.0
+Once Upon A Nation,39.9490099,-75.15101990000002,entertainment,bicycle,1.19,8.72
+The United States Custom House,39.9483717,-75.1446802,entertainment,bicycle,1.5,11.0
+Girard Fountain Park,39.95241559999999,-75.14627349999998,entertainment,bicycle,1.72,13.32
+Fo Shou Temple 佛寿寺,39.9547499,-75.15666,entertainment,bicycle,1.15,8.97
+Gallery Joe,39.9520345,-75.14541290000003,entertainment,bicycle,1.65,12.12
+18th Century Garden,39.9474221,-75.14752340000003,entertainment,bicycle,1.47,11.52
+Museum of the American Revolution,39.94834520000001,-75.1458816,entertainment,bicycle,1.45,11.33
+Chinatown Friendship Arch,39.95371110000001,-75.1562314,entertainment,bicycle,1.15,8.95
+Starr Garden Playground,39.9427864,-75.15235969999998,entertainment,bicycle,1.49,11.38
+Philadelphia Society for the Preservation of Landmarks,39.9443239,-75.1483536,entertainment,bicycle,1.66,12.78
+Azalea Garden,39.9680944,-75.18321569999998,entertainment,bicycle,1.64,12.75
+Brogan James M,39.95267070000001,-75.16821329999998,entertainment,bicycle,0.33,2.62
+Powel House,39.9457406,-75.14684179999998,entertainment,bicycle,1.63,13.32
+Cret Park,39.9555435,-75.16656069999998,entertainment,bicycle,0.58,4.75
+Milord la Chamarre Statue,39.95217089999999,-75.1661135,entertainment,bicycle,0.37,4.27
+Great Plaza at Penn's Landing,39.94776179999999,-75.1406485,entertainment,bicycle,1.74,12.97
+Comcast Experience,39.9545383,-75.16854649999998,entertainment,bicycle,0.38,5.05
+Three Bears Park,39.9440791,-75.14789619999998,entertainment,bicycle,1.71,13.7
+America's Garden Capital Maze,39.9524382,-75.1646225,entertainment,bicycle,0.52,4.12
+New Market,39.9429655,-75.14526599999998,entertainment,bicycle,1.77,14.03
+Sister Cities Park,39.9579056,-75.16933890000001,entertainment,bicycle,0.56,5.12
+The Shambles,39.94309979999999,-75.14538,entertainment,bicycle,1.74,13.12
+Philadelphia City Hall,39.9528,-75.1634833,entertainment,bicycle,0.62,5.15
+St. Peter's Church,39.94313620000001,-75.1476619,entertainment,bicycle,1.65,14.08
+Love Park,39.954279,-75.1656517,entertainment,bicycle,0.57,4.62
+Gross Mc Cleaf Gallery,39.9502352,-75.16722399999998,entertainment,bicycle,0.22,1.58
+Second Bank of the United States Portrait Gallery,39.9485485,-75.14842770000001,entertainment,bicycle,1.32,10.45
+June 5th Memorial Park,39.9538109,-75.1765818,entertainment,bicycle,0.57,4.33
+Eagles Super Bowl Mural,39.9418611,-75.15642369999998,entertainment,bicycle,1.34,10.22
+New Hall Military Museum,39.9484523,-75.1472179,entertainment,bicycle,1.4,10.9
+Thaddeus Kosciuszko National Memorial,39.943457,-75.14725279999998,entertainment,bicycle,1.65,12.67
+Thomas Sully Residence,39.94509499999999,-75.151219,entertainment,bicycle,1.46,11.58
+Statue of Tamanend,39.9497217,-75.14201750000002,entertainment,bicycle,1.71,12.62
+Septa Transit Museum,39.9518251,-75.16051390000001,entertainment,bicycle,0.72,5.5
+Franklin Court Printing Office,39.950124,-75.1466125,entertainment,bicycle,1.47,10.65
+Irish Memorial,39.94784629999999,-75.14202890000001,entertainment,bicycle,1.7,13.28
+Monument to Scottish Immigrants,39.94738539999999,-75.1422083,entertainment,bicycle,1.71,13.53
+Xoxo sign,39.9497133,-75.1480253,entertainment,bicycle,1.49,11.08
+Welcome Park,39.9473826,-75.14414520000003,entertainment,bicycle,1.61,11.83
+Washington Monument Fountain,39.9642689,-75.17913519999998,entertainment,bicycle,1.3,10.53
